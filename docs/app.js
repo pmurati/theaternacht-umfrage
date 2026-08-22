@@ -142,7 +142,12 @@ async function initMap() {
 
   let data;
   try {
-    const resp = await fetch("data/programm.json", { cache: "no-cache" });
+    const params = new URLSearchParams(window.location.search);
+    const dataFile =
+      params.get("data") === "programm"
+        ? "data/programm.json"
+        : "data/programm_manual.json";
+    const resp = await fetch(dataFile, { cache: "no-cache" });
     if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
     data = await resp.json();
   } catch (err) {
