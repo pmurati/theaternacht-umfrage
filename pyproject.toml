@@ -1,0 +1,20 @@
+[project]
+name = "theaternacht-umfrage"
+version = "0.1.0"
+description = ""
+authors = [
+    { name = "pmurati" }
+]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
+
+[build-system]
+requires = ["poetry-core>=2.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry]
+packages = [{ include = "theaternacht_umfrage", from = "src" }]
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.0.0"
