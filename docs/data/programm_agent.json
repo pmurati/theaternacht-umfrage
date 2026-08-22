@@ -128,8 +128,8 @@
       "id": "ballettzentrum-hamburg-john-neumeier",
       "name": "Ballettzentrum Hamburg – John Neumeier",
       "address": "Caspar-Voght-Straße 54, 20535 Hamburg",
-      "lat": null,
-      "lng": null,
+      "lat": 53.56175571158629,
+      "lng": 10.061303441055957,
       "shows": [
         {
           "id": "proben-der-compagnie-des-hamburg-ballett",
@@ -308,8 +308,8 @@
       "id": "die-hamburgische-staatsoper",
       "name": "Die Hamburgische Staatsoper",
       "address": "Dammtorstraße 28, 20354 Hamburg",
-      "lat": null,
-      "lng": null,
+      "lat": 53.55689696310538,
+      "lng": 9.98850741037523,
       "shows": [
         {
           "id": "kartenverkauf-von-sonderkontingenten",
@@ -625,8 +625,8 @@
       "id": "galli-theater-hamburg",
       "name": "Galli Theater Hamburg",
       "address": "Gastspielort: Kunstklinik Eppendorf, Martinistraße 44a, 20251 Hamburg-Nord",
-      "lat": null,
-      "lng": null,
+      "lat": 53.59184689894752,
+      "lng": 9.9818251833879,
       "shows": [
         {
           "id": "schnupper-theaterworkshop-fur-marchen-musicals",
@@ -961,8 +961,8 @@
       "id": "klabauter-theater",
       "name": "Klabauter Theater",
       "address": "Jungestraße 7a, 20535 Hamburg",
-      "lat": null,
-      "lng": null,
+      "lat": 53.55503378890383,
+      "lng": 10.02695509688023,
       "shows": [
         {
           "id": "das-klabauterschiff-auf-reisen",
@@ -1109,8 +1109,8 @@
       "id": "markk-museum-am-rothenbaum",
       "name": "MARKK – Museum am Rothenbaum",
       "address": "Rothenbaumchaussee 64, 20148 Hamburg",
-      "lat": null,
-      "lng": null,
+      "lat": 53.56869172958771,
+      "lng": 9.988971899303772,
       "shows": [
         {
           "id": "performative-aneignung-im-museum",
@@ -1158,8 +1158,8 @@
       "id": "minotauros-kompanie",
       "name": "MINOTAUROS KOMPANIE",
       "address": "Wiesendamm 24, 22305 Hamburg",
-      "lat": null,
-      "lng": null,
+      "lat": 53.58785002288284,
+      "lng": 10.038018881542254,
       "shows": [
         {
           "id": "minotauros-goes-musical",
@@ -1486,8 +1486,8 @@
       "id": "steife-brise",
       "name": "Steife Brise",
       "address": "Am Sandtorkai 46, 20457 Hamburg",
-      "lat": null,
-      "lng": null,
+      "lat": 53.5434734786135,
+      "lng": 9.995889783384598,
       "shows": [
         {
           "id": "puppets-spezial-bunra-buki",
@@ -1797,8 +1797,8 @@
       "id": "theater-altes-heizkraftwerk",
       "name": "Theater altes Heizkraftwerk",
       "address": "Isebekstraße 34, 22769 Hamburg",
-      "lat": null,
-      "lng": null,
+      "lat": 53.56719600528558,
+      "lng": 9.937652525716127,
       "shows": [
         {
           "id": "ausschnitt-aus-der-jungste-tag",
@@ -1972,8 +1972,8 @@
       "id": "theater-das-zimmer",
       "name": "Theater das Zimmer",
       "address": "Washingtonallee 42, 22111 Hamburg",
-      "lat": null,
-      "lng": null,
+      "lat": 53.54988798612048,
+      "lng": 10.089334081539636,
       "shows": [
         {
           "id": "improtheater-fur-alle-mit-sandra-kiefer",
