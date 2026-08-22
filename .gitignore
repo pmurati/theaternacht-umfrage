@@ -19,3 +19,9 @@ htmlcov/
 .vscode/
 .idea/
 .DS_Store
+
+# Secrets
+.env
+
+# Scraper cache
+.cache/

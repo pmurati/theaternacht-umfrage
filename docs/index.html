@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>Lange Nacht der Theater – Worauf habt ihr Lust?</title>
+
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+      crossorigin=""
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <!-- Zugangs-Overlay: Name + Passwort -->
+    <div id="gate" class="gate" hidden>
+      <form id="gate-form" class="gate-card" autocomplete="off">
+        <h1>Lange Nacht der Theater</h1>
+        <p class="gate-lead">
+          Worauf habt ihr Lust? Trag deinen Namen ein, öffne die Karte und
+          setz bei allen Programmpunkten ein Häkchen, die dich reizen.
+        </p>
+        <label for="gate-name">Dein Name</label>
+        <input id="gate-name" name="name" type="text" required maxlength="60"
+               placeholder="z. B. Alex" />
+        <label for="gate-password">Passwort</label>
+        <input id="gate-password" name="password" type="password" required
+               placeholder="Passwort aus der Gruppe" />
+        <p id="gate-error" class="gate-error" hidden></p>
+        <button type="submit" class="btn-primary">Los geht's</button>
+      </form>
+    </div>
+
+    <!-- Karte -->
+    <div id="map"></div>
+
+    <!-- Kopfzeile über der Karte -->
+    <header id="topbar" class="topbar" hidden>
+      <span class="topbar-title">Worauf habt ihr Lust?</span>
+      <span id="topbar-user" class="topbar-user"></span>
+      <button id="logout-btn" class="logout-btn" type="button">Abmelden</button>
+    </header>
+
+    <!-- Programm-Panel (Bottom-Sheet) -->
+    <aside id="panel" class="panel" hidden aria-hidden="true">
+      <div class="panel-handle" id="panel-handle"></div>
+      <div class="panel-head">
+        <div>
+          <h2 id="panel-title"></h2>
+          <p id="panel-address" class="panel-address"></p>
+        </div>
+        <button id="panel-close" class="panel-close" aria-label="Schließen">×</button>
+      </div>
+      <div id="panel-shows" class="panel-shows"></div>
+    </aside>
+
+    <!-- Absende-Leiste -->
+    <div id="submitbar" class="submitbar" hidden>
+      <!-- Ausklappbare Liste der aktuellen Auswahl -->
+      <div id="mylist" class="mylist" hidden>
+        <div class="mylist-search">
+          <input
+            id="mylist-search-input"
+            type="search"
+            placeholder="Programm durchsuchen…"
+            autocomplete="off"
+            aria-label="Programm durchsuchen"
+          />
+        </div>
+        <ul id="mylist-results" class="mylist-results" hidden></ul>
+        <div class="mylist-head">
+          <span>Meine Auswahl</span>
+        </div>
+        <ul id="mylist-items" class="mylist-items"></ul>
+      </div>
+
+      <div class="submitbar-row">
+        <button
+          id="mylist-toggle"
+          class="mylist-toggle"
+          type="button"
+          aria-expanded="false"
+          aria-controls="mylist"
+        >
+          <span id="submit-count" class="submit-count">0 ausgewählt</span>
+          <span id="mylist-chevron" class="mylist-chevron" aria-hidden="true">▲</span>
+        </button>
+        <button id="submit-btn" class="btn-primary" disabled>Auswahl absenden</button>
+      </div>
+    </div>
+
+    <!-- Bestätigung -->
+    <div id="toast" class="toast" hidden></div>
+
+    <!-- Bestätigungs-Dialog -->
+    <div id="confirm" class="confirm" hidden>
+      <div class="confirm-card" role="dialog" aria-modal="true" aria-labelledby="confirm-text">
+        <p id="confirm-text" class="confirm-text"></p>
+        <div class="confirm-actions">
+          <button id="confirm-cancel" type="button" class="btn-secondary">Abbrechen</button>
+          <button id="confirm-ok" type="button" class="btn-primary">Ja, löschen</button>
+        </div>
+      </div>
+    </div>
+
+    <script
+      src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+      crossorigin=""
+    ></script>
+    <script src="config.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

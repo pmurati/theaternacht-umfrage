@@ -1,0 +1,1344 @@
+{
+  "generated_at": "2026-08-22T15:02:17+00:00",
+  "source_url": "https://theater-hamburg.org/theaternacht/programm/",
+  "theaters": [
+    {
+      "id": "allee-theater-hamburger-kammeroper",
+      "name": "Allee Theater – Hamburger Kammeroper",
+      "address": "Max-Brauer-Allee 76, 22765 Hamburg",
+      "lat": 53.55474,
+      "lng": 9.94193,
+      "shows": [
+        {
+          "id": "theaternacht",
+          "title": "Kostümverkauf",
+          "venue": "",
+          "times": [
+            "18:00"
+          ],
+          "description": "Bei der Theaternacht gibt es die einmalige Gelegenheit, ausgewählte Originalkostüme aus vergangenen Theaterproduktionen zu erwerben. Wir machen einen großen Kostümverkauf für alle, die Freude an außergewöhnlicher Kleidung haben. Jedes Teil erzählt seine eigene Geschichte und wurde mit handwerklicher Präzision und Liebe zum Detail für unsere Ensemblemitglieder angefertigt. Kleidungsstücke, Accessoires oder Schuhe, die auf der Bühne zum Einsatz kamen, warten auf den Umzug in Ihren Kleiderschrank. Wer Spaß hat an Einzelstücken mit Charakter und Charme, wird bei uns fündig!*\n* Bitte beachten Sie, dass beim Kostüm- und Essenverkauf nur Barzahlung möglich ist.",
+          "teaser": ""
+        },
+        {
+          "id": "kostuemverkauf",
+          "title": "Künstler-Kochen",
+          "venue": "",
+          "times": [
+            "18:00"
+          ],
+          "description": "(Warme Küche bis 22 Uhr)\nStarten Sie mit unserem speziell kreierten Theaternacht-Cocktail in den Abend und lassen Sie sich von uns kulinarisch verwöhnen! In unserem Bistro FOYER erwartet Sie unser Dauerbrenner: das Szegediner Gulasch unseres Intendanten Marius Adam. Neben diesem legendären Traditionsgericht können Sie sich auf weitere herzhafte und süße Speisen von unserem Ensemble freuen – auch in vegetarischer Form. All das können Sie im Bistro oder auf unserer idyllischen Terrasse mit Blick auf unseren Garten genießen und dort verweilen. (Selbstverständlich können Sie das Essen auch nach Hause mitnehmen, wenn Sie eigene Behältnisse mitbringen.) *\n* Bitte beachten Sie, dass beim Kostüm- und Essenverkauf nur Barzahlung möglich ist.",
+          "teaser": ""
+        },
+        {
+          "id": "kuenstler-kochen",
+          "title": "Highlights aus „Die Entführung aus dem Serail“ und „Don Pasquale“",
+          "venue": "",
+          "times": [
+            "19:30",
+            "20:45",
+            "22:00"
+          ],
+          "description": "Erhalten Sie exklusiv vor allen anderen einen ersten Blick auf die Originalbühnenbilder und -kostüme der beiden Stücke, mit denen wir Mitte September unsere neue Spielzeit einläuten. Wir stellen Ihnen die Eröffnungspremieren des Theater für Kinder und der Hamburger Kammeroper vor: Freuen Sie sich auf Szenen aus unserer kindgerechten Fassung von Mozarts berühmtem Singspiel „Die Entführung aus dem Serail“ und auf Donizettis humorvolle Oper „Don Pasquale“. Intendant Marius Adam führt durch das Programm und nimmt Sie mit auf eine musikalische Reise auf eine entfernte Insel und in einen Juwelierladen.",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "alma-hoppes-lustspielhaus",
+      "name": "Alma Hoppes Lustspielhaus",
+      "address": "Ludolfstraße 53, 20249 Hamburg",
+      "lat": 53.5930603,
+      "lng": 9.99274509999998,
+      "shows": [
+        {
+          "id": "theaternacht-hamburg-17",
+          "title": "Kabarett Alma Hoppe mit Auszügen aus den aktuellen Programmen",
+          "venue": "",
+          "times": [
+            "22:00",
+            "23:00",
+            "23:59"
+          ],
+          "description": "Alma Hoppes Lustspielhaus ist die erste Adresse für politisch satirisches Kabarett in Hamburg.\n\nBei uns gibt's, nicht nur zur Theaternacht, Kabarett satt: Hingehen und Spaß haben!\nVorstellungen:\n\n22.00 Uhr - 22.30 Uhr: Das Kabarett Alma Hoppe (Jan-Peter Petersen und Max Beier) präsentiert Aktuelles und Zugespitztes mit hohem Spaßfaktor und Auszüge aus ihren aktuellen Programmen. Satire pur: Immer einen Tick echter als die Wirklichkeit.\n\n23.00 Uhr - 23.30 Uhr: Das Kabarett Alma Hoppe (Jan-Peter Petersen und Max Beier) präsentiert Aktuelles und Zugespitztes mit hohem Spaßfaktor und Auszüge aus ihren aktuellen Programmen. Satire pur: Immer einen Tick echter als die Wirklichkeit.\n\n24.00 Uhr - 01.00 Uhr: Das Kabarett Alma Hoppe (Jan-Peter Petersen und Max Beier) präsentiert Aktuelles und Zugespitztes mit hohem Spaßfaktor und Auszüge aus ihren aktuellen Programmen. Satire pur: Immer einen Tick echter als die Wirklichkeit.",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "altonaer-theater",
+      "name": "Altonaer Theater",
+      "address": "Museumstraße 17, 22765 Hamburg",
+      "lat": 53.54839,
+      "lng": 9.93461000000002,
+      "shows": [
+        {
+          "id": "ronja-raeubertochter-14",
+          "title": "Ronja Räubertochter",
+          "venue": "",
+          "times": [
+            "18:00",
+            "18:30"
+          ],
+          "description": "Nach Astrid Lindgren\nMehr als eine Räubergeschichte: Auf spielerische Weise werden Themen wie Gerechtigkeit, Freundschaft und Familie verhandelt. Und die Kleinen zeigen den Großen einmal mehr, wie Versöhnung funktionieren kann.",
+          "teaser": ""
+        },
+        {
+          "id": "sturmhoehe-3",
+          "title": "Sturmhöhe",
+          "venue": "",
+          "times": [
+            "19:00",
+            "21:30"
+          ],
+          "description": "Nach Emily Brontë\nAuf den windgepeitschten Mooren Englands entspinnt sich eine Liebe voller Sehnsucht und Eifersucht. Das packende Drama ist vielen bekannt durch seine zahlreichen Verfilmungen und den berühmten Popsong von Kate Bush.  Erleben sie eines der spannendsten Werke der britischen Literatur bei uns auf der Bühne!",
+          "teaser": ""
+        },
+        {
+          "id": "achtsam-morden-5",
+          "title": "Achtsam morden",
+          "venue": "",
+          "times": [
+            "19:30"
+          ],
+          "description": "Nach Karsten Dusse\nDer erst Teil unserer erfolgreichen Serie über einen Rechtanwalt, der mit viel Humor versucht Achtsamkeitsseminar und organisierte Kriminalität unter einen Hut zu bringen.",
+          "teaser": ""
+        },
+        {
+          "id": "22-bahnen-24",
+          "title": "22 Bahnen",
+          "venue": "",
+          "times": [
+            "20:00"
+          ],
+          "description": "Nach Caroline Wahl\nZwei junge Schwestern suchen ihren Weg zwischen Verantwortung, Familie und Freiheit – eine wunderschöne und berührende Geschichte. Caroline Wahl schrieb mit \"22 Bahnen\" den großen Bestseller der jüngsten Zeit!",
+          "teaser": ""
+        },
+        {
+          "id": "das-kind-in-mir-will-achtsam-morden-6",
+          "title": "Das Kind in mir will achtsam morden",
+          "venue": "",
+          "times": [
+            "20:30"
+          ],
+          "description": "Nach Karsten Dusse\nWegen des großen Erfolges wird auch in der neuen Saison weiter achtsam gemordet. Im zweiten Teil stellt sich Björn Diemel seinem inneren Kind. Werden Sie wieder von drei Schauspieler*innen in unzähligen witzigen Rollen überrascht.",
+          "teaser": ""
+        },
+        {
+          "id": "der-club-der-toten-dichter-6",
+          "title": "Der Club der toten Dichter",
+          "venue": "",
+          "times": [
+            "21:00",
+            "22:00"
+          ],
+          "description": "Von Tom Schulman\nEines unserer beliebtesten Stücke! Ein unkonventioneller Lehrer inspiriert seine Schüler, Traditionen zu hinterfragen und den Mut zu finden, ihr eigenes Leben zu gestalten.",
+          "teaser": ""
+        },
+        {
+          "id": "achtsam-morden-durch-bewusste-ernaehrung-4",
+          "title": "Achtsam morden durch bewusste Ernährung",
+          "venue": "",
+          "times": [
+            "22:30"
+          ],
+          "description": "Nach Karsten Dusse\nEin weiterer Teil der kultigen Romanreihe:  Dieses Mal kämpft Björn Diemel zwischen Ernährungsberatung und Achtsamkeitscoaching mit neuen schwerwiegenden Herausforderungen. Zum Brüllen komisch!",
+          "teaser": ""
+        },
+        {
+          "id": "karaoke-im-cafe-oelsner-1",
+          "title": "Karaoke im Café Oelsner",
+          "venue": "Foyerbühne",
+          "times": [
+            "23:00"
+          ],
+          "description": "Singen Sie mit uns aus ganzem Herzen oder lassen Sie den Abend entspannt bei einem Drink an der Bar ausklingen.",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "centralkomitee",
+      "name": "Centralkomitee",
+      "address": "Steindamm 45, 20099 Hamburg",
+      "lat": 53.5548548,
+      "lng": 10.0144556,
+      "shows": [
+        {
+          "id": "stand-up-komitee-special-zur-theaternacht",
+          "title": "Stand Up Komitee Special zur Theaternacht",
+          "venue": "",
+          "times": [
+            "19:00",
+            "20:30",
+            "22:00",
+            "23:30"
+          ],
+          "description": "Das Stand Up Komitee ist Hamburgs größtes Comedy Open Mic.\nIn einem wunderschönen Haus, mit großartiger Witzen, Improspielen, Internethype und vier ständigen Mitgliedern.\nLennart Hamann, Anna Bartling, Hinnerk Köhn und Hannes Maaß laden ein zu vier Shows in einer Nacht.\nBei der Theaternacht Hamburg präsentieren sie Euch ihr bestes Material.\n4x 45 Minuten Programm, 4x Lachen garantiert mit Pointen, Punchlines, Anekdoten und Impro.\nDie ganze Nacht nur für euch - das Stand Up Komitee bei der Theaternacht.",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "deutschesschauspielhaus",
+      "name": "DeutschesSchauSpielHaus",
+      "address": "Kirchenallee 39, 20099 Hamburg",
+      "lat": 53.5543,
+      "lng": 10.0085,
+      "shows": [
+        {
+          "id": "scenes-from-a-perfect-sky",
+          "title": "Scenes from A Perfect Sky",
+          "venue": "",
+          "times": [
+            "19:00",
+            "20:00",
+            "21:00"
+          ],
+          "description": "Aus dem Leben vor und nach Google: Ausschnitte aus dem Theater-Tanz-Abend »A Perfect Sky« von Falk Richter und Anouk van Dijk.\n\nUm 18.30 Uhr wird eine Einführung für Blinde und Sehbehinderte angeboten.\n\nTreffpunkt: 18.20 Uhr, Haupteingang Kirchenallee",
+          "teaser": ""
+        },
+        {
+          "id": "requisiten-show-1",
+          "title": "Requisiten-Show",
+          "venue": "Malersaal",
+          "times": [
+            "19:30",
+            "20:30",
+            "21:30"
+          ],
+          "description": "Das Requisiten-Team enthüllt seine geheimsten Tricks und Illusionen – nichts für schwache Nerven!\n\nAchtung: Begrenzte Platzkapazität!\n\nUm 20.30 Uhr mit Dolmetscher*in für Deutsche Gebärdensprache.\n\nTreffpunkt: 20.15 Uhr MalerSaal-Foyer",
+          "teaser": ""
+        },
+        {
+          "id": "lipstick-quings-revolution-in-concert",
+          "title": "Lipstick Quings Revolution in Concert",
+          "venue": "Rangfoyer",
+          "times": [
+            "19:30",
+            "20:30",
+            "21:30"
+          ],
+          "description": "Less Brandes-Hell, Micha Krause und Henrik Wehnert performen brandneue Releases und Songs aus der Produktion »Lipstick Quings Revolution« – lyrisch, bunt, unverschämt, empowernd und queer feministisch!",
+          "teaser": ""
+        },
+        {
+          "id": "n8linie-vorschau",
+          "title": "N8Linie – Vorschau auf das neue Nachtformat in der Kantine",
+          "venue": "Kantine",
+          "times": [
+            "19:30",
+            "20:30",
+            "21:30"
+          ],
+          "description": "Die N8Linie wird Klub, Konzertbühne, Kellersalon, Kommunikationsraum und Kunstkneipe zugleich. Hier trifft aufeinander, was sonst getrennt bleibt. Was genau passiert, bleibt offen. Dass etwas passiert, ist sicher.",
+          "teaser": ""
+        },
+        {
+          "id": "hausfuehrungen",
+          "title": "Hausführungen",
+          "venue": "Treffpunkt",
+          "times": [
+            "19:30",
+            "20:30",
+            "21:30"
+          ],
+          "description": "Das Team des SchauSpielHauses lädt ein zu einem Blick hinter und unter die Kulissen.\n\nTreffpunkt: Foyer\n\nAchtung: Begrenzte Platzkapazität!",
+          "teaser": ""
+        },
+        {
+          "id": "schauspielhaus-band-live",
+          "title": "SchauSpielHaus-Band LIVE",
+          "venue": "",
+          "times": [
+            "22:30"
+          ],
+          "description": "Die SchauSpielHaus-Band und das Ensemble laden zum Konzert im schönsten Saal Hamburgs!",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "ernst-deutsch-theater",
+      "name": "Ernst Deutsch Theater",
+      "address": "Friedrich-Schütter-Platz 1, 22087 Hamburg",
+      "lat": 53.56938,
+      "lng": 10.02641,
+      "shows": [
+        {
+          "id": "22-theaternacht-hamburg-binge-watching-nur-in-echt",
+          "title": "22. Theaternacht Hamburg\n                                - Binge-Watching, nur in echt.",
+          "venue": "Hauptbühne",
+          "times": [
+            "19:00",
+            "19:30",
+            "20:00",
+            "20:30",
+            "21:00",
+            "21:30",
+            "22:00",
+            "22:30",
+            "23:00",
+            "23:20",
+            "00:00"
+          ],
+          "description": "Unter dem Motto „Ganz schön kaputt“ lädt das Ernst Deutsch Theater zum gemeinsamen Erleben eines abwechslungsreichen Programms an der Mundsburg ein. Wir sind Ort der Begegnung, des Austauschs und der Vielfalt und freuen uns auf euch!\n\nab 18.00 Uhr Musikalische Einstimmung, Foyer\n18.30 Uhr Flashmob des Bundesjugendballett, Vorplatz\n19:00-19:20 Uhr, Hauptbühne\nDer Geizige: Ausschnitt aus dem Publikumshit, der 2027 wieder bei uns zu sehen ist\n19:00-19:20 Uhr, LABOR\nDon Quijote: Vorsicht, verwirrte (?) Ritter! Ausschnitt aus der Komödie nach Miguel de Cervantes berühmten Roman\n19.30-19:50 Uhr, Hauptbühne\nEin Käffchen mit Clockwork Orange. Spannende Backstage-Stories und Einblick ins Stück–schon drei Wochen vor der Premiere\n19.30-19:50 Uhr, LABOR\nDas Bundesjugendballett begeistert mit einem Ausschnitt aus seinem vielfältigen Repertoire\n20:00-20:20 Uhr, Hauptbühne\nWindstärke 17: Ausschnitt aus Ayla Yeginers stürmischer Inszenierung nach dem Bestseller von Caroline Wahl\n20:00-20:20 Uhr, LABOR\nDon Quijote\n20:30-20:50 Uhr, Hauptbühne\nEin Käffchen mit einem Wehrdienstverweigerer. Was experimentieren Daniel Schütter, Olivier David und Co. unter dem Titel „Nur über meine Leiche“ im neuen EDT LABOR?\n20:30-20:50 Uhr, LABOR\nDas Elbe vom Ei: Impro-Comedy vom Feinsten und gute Laune garantiert\n21:00-21:20 Uhr, Hauptbühne\nKeine Aufstiegsgeschichte. The hype is real! Ausschnitt aus dem „schon-lange-nicht-mehr- Geheimtipp“ nach Olivier Davids Buch\n21:00-21:20 Uhr, LABOR\nEin Käffchen mit Optimistinnen. Erste Einblicke in unsere Produktion nach Gün Tanks Roman über Freundschaft und Widerstand\n21:30-21:50 Uhr, Hauptbühne\nEin Käffchen mit einem Mädchen auf dem Altar. Im Gespräch über das Stück, das unsere Spielzeit eröffnet hat. Einblicke ins Stück und wissenswertes zur Entstehung der deutschsprachigen Erstaufführung\n21:30 - 21:50 Uhr, LABOR\nDas Elbe vom Ei\n22:00-22:20 Uhr, Hauptbühne\nKeine Aufstiegsgeschichte\n22:00-22:20 Uhr, LABOR\nFreche Möwe. Mikro an für ehrliche Stand-Up-Comedy\n22:30-22:50 Uhr, Hauptbühne\nWindstärke 17\n22:30-22:50 Uhr, LABOR\nFreche Möwe\n23:00-23:50 Uhr, Hauptbühne\nTheaterschiff Hamburg: Work Life What?-Comedy. Kabarett. Beatbox.\nEin Comedy-Abenteuer mit Beatbox-Weltmeister Mando Beatbox, Wortakrobat Daniel Heinz und Stand-Up-Kabarettist Michael Frowin\n23:00-23:20 Uhr, LABOR\nFreche Möwe\n23:20-23:50 Uhr, Hauptbühne\nTheaterschiff Hamburg: Work Life What?\n00:00-00:50 Uhr, Hauptbühne\nBest of Poetry Slam von Kampf der Künste",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "first-stage-theater-hamburg",
+      "name": "First Stage Theater Hamburg",
+      "address": "Thedestraße 15, 22767 Hamburg",
+      "lat": 53.5524,
+      "lng": 9.9486,
+      "shows": [
+        {
+          "id": "theaternacht-hamburg-18",
+          "title": "Theaternacht Hamburg",
+          "venue": "",
+          "times": [
+            "17:30",
+            "18:30",
+            "19:30",
+            "20:45",
+            "21:45"
+          ],
+          "description": "First Stage Theater – Ein Abend voller Vielfalt\nBei der Hamburger Theaternacht öffnet auch das First Stage Theater wieder die Tür zu seiner ganz besonderen Bühne, die bereits seit Jahren unter Musical-Fans als echter Insider-Tipp gilt. Präsentiert wird ein lebendiges Potpourri aus Tanz, Gesang und Schauspiel – ganz im Stil der beliebten Gala-Formate, die seit Jahren unser Publikum begeistern.\nAls besonderes Highlight gibt es einen kleinen, exklusiven Vorgeschmack auf unser kommendes Musical \"Dear Evan Hansen\", das im Januar und Februar 2027 bei uns zu sehen sein wird. Ein Abend, der die Magie des Theaters in all ihren Facetten feiert!\nWir freuen uns auf Sie!",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "flachsland-hamburger-puppentheater",
+      "name": "Flachsland – Hamburger Puppentheater",
+      "address": "Bramfelder Straße 9, 22305 Hamburg",
+      "lat": 53.58311,
+      "lng": 10.046109999999999,
+      "shows": [
+        {
+          "id": "alles-familie-1",
+          "title": "Alles Familie",
+          "venue": "",
+          "times": [
+            "15:00",
+            "16:00",
+            "17:00"
+          ],
+          "description": "Was alles ist Familie? Die 7-jährige Anni wohnt mit ihren Eltern in einem Hochhaus. Ihre Eltern haben nie viel Zeit. So fühlt sich Anni öfter mal allein, doch zum Glück wohnen ja in dem Haus viele andere Familien mit vielen Kindern. Ob Fußball spielen oder Altstoffe sammeln, Gummihopse oder Drachensteigen, (ab)hängen an der Teppichstange oder Höhle spielen, immer ist etwas los. Ein Haus voll mit Kinderkrach und Nachbarschaftslärm.\n\nSchaut mit durch die Schlüssellöcher von Annegret's Vergangenheit, hinein in die unterschiedlichsten Familien und in das große Miteinander. Erlebt, wie schön es ist, wenn es nach Lieblingsessen duftet und die Türen meistens offen sind.\nEin biografisches Stück über unterschiedlichste Familienformen und das Miteinander in einer Gemeinschaft. Gefördert durch NEUSTART Kultur und den Fonds Darstellende Künste, Prozessförderung.\n\nSpieler*innen: Annegret Geist\nRegie: Eva Kaufmann\nPuppenbau: Annegret Geist, Eva Kaufmann\nBühnenbild & Ausstattung: Werner Wallner, Sven Mathiasen",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "fundus-theater",
+      "name": "FUNDUS THEATER",
+      "address": "Sievekingdamm 3, 20535 Hamburg",
+      "lat": 53.55644,
+      "lng": 10.04287,
+      "shows": [
+        {
+          "id": "das-luftschloss-fuer-alle",
+          "title": "Wir bauen ein Luftschloss. (Offenes Format, ab 5 Jahre)",
+          "venue": "",
+          "times": [
+            "15:00"
+          ],
+          "description": "Zu Theaternacht wollen wir mit Euch Premiere feiern und gemeinsam draußen auf dem Platz der Kinderrechte ein Luftschloss bauen:\n\nWir bauen ein Luftschloss. (Offenes Format, ab 5 Jahre)\nWir brauchen Luft zum Atmen. Die Luft ist immer um uns herum.\n\nSie wird von allen Lebewesen der Erde gemeinsam gemacht und als Wind hergebracht. Die Luft ist kostbar. Trotzdem vergessen wir sie oft. Die Klimakrise ist eine Krise der Luft. Damit wir sie nicht wieder vergessen, wollen wir zusammen ein Luftschloss bauen. Ein Luftschloss, um die Luft zu feiern.\n\nAber wie?\n\nIndem wir CO₂ einsparen und akrobatisch durch die Luft fliegen!\n\nMit Wind und Duft und Wolken und dem Atem der Bäume! Mit Fallschirmen, Schwimmringen, Nebelmaschinen und Helium-Ballons!\n\nMit den Mikro-Wesen, die in der Luft leben, die Ihr in unserer Augmented Reality suchen könnt.\n\nViele Künstler*innen hatten auch schon Ideen dazu. Die bauen wir in unser Luftschloss ein und werden selbst zu Luftkünstler*innen.\n\nZur Saison-Eröffnung seid Ihr alle eingeladen mitzubauen!\n\nAußerdem führen wir euch in kleinen Gruppen durch das Theater und hinter die Kulissen. Entdeckt die Kuriositäten unserer Requisite und schaut in unsere Werkstatt und Garderobe. Ihr werdet feststellen, dass das Theaterhaus weitläufiger ist, als es scheint.\n\nEs gilt das 12-Euro-Familienticket der Theaternacht Hamburg.\n\nDas Luftschloss wurde von Kindern, Künstler*innen und Wissenschaftler*innen entwickelt: Sibylle Peters, Matthias Anton, Idgie Groffmann, Felix Jung, Nils Löfke, Ines Moreno, Julia Münz, Lydia Schulze Heuling, Florian Tampe, Margaux Weiß, Christopher Weymann und Kinder der IVK-Klassen 5-7 des Louise-Weiss-Gymnasiums.\nDas Luftschloss wurde von der Edmund Siemers-Stiftung gefördert. Wir danken der Budnianer Hilfe für ihre Unterstützung.",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "hafenbuhne",
+      "name": "HAFENBÜHNE",
+      "address": "Am Sandtorkai 46, 20457 Hamburg",
+      "lat": 53.5433049,
+      "lng": 9.9960562,
+      "shows": [
+        {
+          "id": "in-86-stunden-zum-weltrekord",
+          "title": "In 86 Stunden zum Weltrekord",
+          "venue": "",
+          "times": [
+            "09:00",
+            "00:00"
+          ],
+          "description": "Steife Brise jagt den Weltrekord!\nDie Steife Brise wagt ein außergewöhnliches Experiment: Auf der HAFENBÜHNE im PIERDREI HOTEL will das Ensemble einen offiziellen Weltrekord aufstellen – mit der längsten durchgehenden Theaterperformance der Welt. Ganze 86 Stunden Improvisationstheater am Stück stehen auf dem Programm – vom 3. – 6. September. Der Weltrekordversuch ist am 5. September eingebunden in die Theaternacht Hamburg und macht diese wirklich zur Langen Nacht des Theaters!\nDas Publikum erwartet ein abwechslungsreiches Programm: vom improvisierten Krimi über spontanes Musical bis hin zu beliebten Klassikern wie der Improshow. Der besondere Reiz: Jede Szene entsteht live auf der Bühne – ohne Skript, dafür mit maximaler Spielfreude, Kreativität und direkter Interaktion mit dem Publikum. Auch mitten in der Nacht.\nDer Weltrekordversuch ist offiziell beim Rekord-Institut für Deutschland angemeldet und wird entsprechend begleitet und geprüft. Unter der Schirmherrschaft von Yared Dibaba wird die HAFENBÜHNE zum Schauplatz eines einzigartigen Theatermarathons.\nSeit 1992 fegt das Improvisationstheater Steife Brise mit Charme, Tempo und einer guten Portion nordischer Frechheit über die Bretter. Sobald das Publikum Stichworte auf die Bühne ruft, legen die Schauspielenden und Musiker los und lassen Geschichten, Szenen und Lieder aus dem Nichts entstehen. Schnell. Lebendig. Hammer.\n34 Jahre später vereint die Steife Brise Improtheater auf Hamburger Bühnen, Businesstheater, Trainingsinstitut und Improvisationsschule unter einem Dach.\nDas Programm während der Theaternacht:\n15:00 Uhr: Puppets Spezial – Bunra Buki (0 – 99 Jahre)\n15:30 Uhr: Cop Drama (0 – 99 Jahre)\n16:00 Uhr: Seemannsgarn Special (0 – 99 Jahre)\n16:30 Uhr: Lachflash Family Edition (0 – 99 Jahre)\n17:00 Uhr: Puppets Spezial – Bunra Buki (0 – 99 Jahre)\n17:30 Uhr: Cop Drama (0 – 99 Jahre)\n18:00 Uhr: Seemannsgarn Spezial (0 – 99 Jahre)\n18:30 Uhr: Lachflash Family Edition (0 – 99 Jahre)\n19:00 Uhr: Da steckt Musik drin\n19:30 Uhr: Cop Drama\n20:00 Uhr: Lachflash Spezial\n20:30 Uhr: Da steckt Musik drin\n21:00 Uhr: Lachflash Spezial\n21:30 Uhr: Cop Drama\n22:00 Uhr: Lachflash Spezial\n22:30 Uhr: Werwölfe von Hamburg (bis 01:00 Uhr)\nUnd wer noch länger dabeibleiben mag: Wir spielen am Sonntag bis 23:00 Uhr.",
+          "teaser": ""
+        },
+        {
+          "id": "bun-ra-bu-ki-improtheater-fuer-kinder",
+          "title": "Bun-Ra Bu-Ki – Improtheater für Kinder",
+          "venue": "",
+          "times": [
+            "15:00",
+            "17:00"
+          ],
+          "description": "Bunte-Raben? Burgen-Kinder? Bundes-Ratespiele oder ein Buch-Kino? Was verbirgt sich hinter dem geheimnisvollen Namen?\nDas Geheimnis werden wir vor Ort lüften, soviel sei aber schon verraten: Es wird märchenhaft, lustig und auch spannend werden. In diesem ganz besonderen Theater, das seine Ursprünge am anderen Ende der Welt, nämlich in Japan hat, werden die Schauspieler mit dem verknüpfen, was ihr aus eurem Alltag kennt.\nWie im alten japanischen Theater treten Puppen auf, die als Helden, als Liebespaare, als Bösewichte oder auch als zauberhafte Wesen erscheinen.\nOb Drachen, Zwerge, Elfen, Königin, Prinz oder bunter Rabe  - ihr bestimmt mit, was die Figuren erleben und wohin sich die Geschichte entwickelt!",
+          "teaser": ""
+        },
+        {
+          "id": "cop-drama",
+          "title": "Cop-Drama",
+          "venue": "",
+          "times": [
+            "15:30",
+            "17:30",
+            "19:30",
+            "21:00"
+          ],
+          "description": "Ein*e hartgesottene*r Polizeiermittler*in mit eigenwilligen Methoden hat mal wieder über die Stränge geschlagen!\n\nSie oder er bekommt von seiner vorgesetzten Person unter Zwang ein*e neue*n Partner*in zugeteilt. Gemeinsam gilt es, ein Verbrechen, das die Stadt erschüttert, aufzuklären. Wird das ungleiche Paar es schaffen, sich zu arrangieren und die Verbrecher*innen dingfest zu machen? Oder ist es eine Unternehmung ohne Aussicht auf Erfolg?\n\nWir wissen es nicht, denn wir improvisieren nach den Vorgaben des Publikums diese rasanten Polizeigeschichten. Alles ist fiktiv und Ähnlichkeiten mit realen Vorkommnissen, Personen und Organisationen sind rein zufällig.",
+          "teaser": ""
+        },
+        {
+          "id": "seemannsgarn-special",
+          "title": "Seemannsgarn Special",
+          "venue": "",
+          "times": [
+            "16:00",
+            "18:00"
+          ],
+          "description": "Bis sich die Balken biegen! Auf der Hafenbühne spinnen vier Seegefährten feinstes Seemannsgarn und inszenieren abenteuerliche Geschichten rund um das Leben auf dem Wasser und an Land. Die Ideen sprudeln hervor und die Matros*innen übertrumpfen sich gegenseitig an Kreativität. Nach Vorgaben aus dem Publikum und gemeinsam mit dem musikalischen Kneipenwirt Jonni lassen die Akteure der Steifen Brise seefeste Geschichten auf der Bühne lebendig werden: Haarsträubende Mythen und Legenden wedren wahr. Unglaublich – ungelogen!",
+          "teaser": ""
+        },
+        {
+          "id": "lachflash-deluxe-special",
+          "title": "Lachflash Deluxe Special",
+          "venue": "",
+          "times": [
+            "16:30",
+            "18:30",
+            "20:00",
+            "21:30"
+          ],
+          "description": "Heul doch! Vor Lachen.\n\nHier brennt die Hütte! Impro-Comedy at its best: spontan, spritzig, mit vollem Einsatz und garantiert unvorhersehbar. Die Steife Brise verwandelt die Ideen und Zurufe aus dem Publikum in Szenen, Songs und spontane Geschichten, die schneller eskalieren, als man „Impro“ sagen kann. Ob Hausaufgabenknatsch, Trainingschaos oder Weltuntergang mit Happy End – hier wird aus allem Comedy gemacht.\n\nDie Hafenbühne im PIERDREI Hotel wird zum Heimathafen für frische Gags, absurde Wendungen und charmanten Irrsinn. Keine Show gleicht der anderen, und am Ende bleibt die Erkenntnis: So viel gelacht habe ich lange nicht!",
+          "teaser": ""
+        },
+        {
+          "id": "da-ist-musik-drin-die-musikalische-improshow",
+          "title": "Da ist Musik drin – Die musikalische Improshow",
+          "venue": "",
+          "times": [
+            "19:00",
+            "20:30"
+          ],
+          "description": "Musik und Improtheater – die Mischung macht´s! Comedy, Musik und Theater in atemberaubendem Wechsel. Das Publikum fordert die Spieler*innen mit seinen Vorgaben heraus und schwupps: Ein Musical auf der Veddel? Los geht’s. Ein norddeutsches Roadmovie? Schon fertig. Ein getanzter Bananen-Blues? Guten Appetit. Abwechslungsreich, rasant und witzig. Bei der musikalischen Improshow der Steifen Brise haben die Schauspieler*innen genau fünf Sekunden Zeit, die Vorgaben des Publikums in eine Szene starten zu lassen. Und los!",
+          "teaser": ""
+        },
+        {
+          "id": "werwoelfe-aus-hamburg",
+          "title": "Werwölfe aus Hamburg",
+          "venue": "",
+          "times": [
+            "22:30"
+          ],
+          "description": "In einer Dorfgemeinschaft zu leben ist doch herrlich! Man kennt sich, man vertraut sich, man hat eine gemeinsame Geschichte und plant eine gemeinsame Zukunft. Aber was passiert, wenn es Leute in dieser Gemeinschaft gibt, die nicht ehrlich sind? Die ein dunkles Geheimnis in sich tragen? Die tagsüber ganz normal wirken, sich aber jede Nacht in blutrünstige Werwölfe verwandeln, die es auf die schlafenden Dorfbewohner*innen abgesehen haben? Zum Glück folgt auf jede Nacht auch wieder ein Tag und das Publikum darf eine schwere Entscheidung treffen: Eine verdächtig erscheinende Person soll verurteilt werden in der Hoffnung, einen der Werwölfe zu erlegen. Aber wem kann man noch trauen? Wer lügt und manipuliert, wer sagt die Wahrheit und hat ehrliche Absichten? Und die Frage aller Fragen: Wer gewinnt dises Spiel  - die Werwölfe oder die Menschen? Ein Abend, an dem alles passieren kann – das Publikum entscheidet!",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "hamburger-kammerspiele",
+      "name": "Hamburger Kammerspiele",
+      "address": "Hartungstraße 9-11, 20146 Hamburg",
+      "lat": 53.5700093,
+      "lng": 9.985362799999962,
+      "shows": [
+        {
+          "id": "der-tatortreiniger-ii-1",
+          "title": "Der Tatortreiniger II",
+          "venue": "",
+          "times": [
+            "19:00",
+            "22:00"
+          ],
+          "description": "Von Mizzi Meyer\nDie Kultserie kehrt zurück auf die Bühne der Kammerspiele. Erleben Sie die erste Lesung einer neuen Folge mit dem Ensemble der neuen Produktion!",
+          "teaser": ""
+        },
+        {
+          "id": "auf-wunder-ist-verlass",
+          "title": "Auf Wunder ist Verlass",
+          "venue": "",
+          "times": [
+            "19:30",
+            "21:30",
+            "23:30"
+          ],
+          "description": "Eine musikalisch-literarische Schiffsreise über Herkunft und Zusammenhalt, über Schiffbrüche und Neuanfänge – und  über die Kraft der Kunst, ein Land wieder in Bewegung zu bringen.",
+          "teaser": ""
+        },
+        {
+          "id": "naechstes-jahr-bornplatzsynagoge-2",
+          "title": "Nächstes Jahr Bornplatzsynagoge",
+          "venue": "",
+          "times": [
+            "20:00",
+            "23:00"
+          ],
+          "description": "Von Axel Schneider\nWillkommen zurück im Grindel! Ausschnitte aus unserem Bühnenstück rund um den Wiederaufbau der Bornplatzsynagoge.",
+          "teaser": ""
+        },
+        {
+          "id": "sie-sagt-er-sagt-3",
+          "title": "Sie sagt. Er sagt.",
+          "venue": "",
+          "times": [
+            "20:30",
+            "22:30"
+          ],
+          "description": "Von Ferdinand von Schirach\nSpannendes Gerichtsdrama von Ferdinand von Schirach. Das Ensemble zeigt Ihnen Ausschnitte aus unserer beliebten Inszenierung.",
+          "teaser": ""
+        },
+        {
+          "id": "die-vodkagespraeche-6",
+          "title": "Die Vodkagespräche",
+          "venue": "",
+          "times": [
+            "21:00"
+          ],
+          "description": "Eine J.A.C.K. Produktion\nEinblicke in das gefeierte Kultstück von Arne Nielsen mit Karoline Eichhorn und Catrin Striebeck als Geschwisterpaar.",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "hamburger-sprechwerk",
+      "name": "Hamburger Sprechwerk",
+      "address": "Klaus-Groth-Straße 23, 20535 Hamburg",
+      "lat": 53.5559427,
+      "lng": 10.029761099999973,
+      "shows": [
+        {
+          "id": "theaternacht-die-insurgentinnen",
+          "title": "Theaternacht // Die Insurgentinnen",
+          "venue": "",
+          "times": [
+            "19:00",
+            "19:30",
+            "20:00"
+          ],
+          "description": "Binge-Watching, nur in echt. Am 05. September 2026 wird Hamburg wieder zur Bühne: Bei der 22. Theaternacht Hamburg.\n19:00 -19:20 Uhr                Die Insurgentinnen // Eigenproduktion Schauspiel\n19:30 - 19:50 Uhr\n20:00 - 20:20 Uhr\nMoral war gestern. Heute ist Punk. Was passiert, wenn jugendlicher Idealismus auf die Lebensmitte trifft? „Die Insurgentinnen“ erzählt von drei Frauen, die zwischen Alltag und Altersvorsorge eine revolutionäre Zelle gründen. Andrea, Jasmin und Iris fragen sich, wo ihre jugendliche Kampfbereitschaft geblieben ist. Ihre Antwort: „Lass es uns einfach jetzt tun!“ Ihr großer Vorteil ist die totale Unscheinbarkeit. Ein schwarzhumoriges Plädoyer für den späten Aufbruch.",
+          "teaser": ""
+        },
+        {
+          "id": "theaternacht-die-zuckerschweine",
+          "title": "Theaternacht // Die Zuckerschweine",
+          "venue": "",
+          "times": [
+            "20:30",
+            "21:00",
+            "21:30"
+          ],
+          "description": "Binge-Watching, nur in echt. Am 05. September 2026 wird Hamburg wieder zur Bühne: Bei der 22. Theaternacht Hamburg.\n20:30 – 20:50  Uhr             Die Zuckerwscheine // Improtheater\n21:00 – 21:20 Uhr\n21:30 – 21:50 Uhr\n\nSie sind schnell, schrill und unberechenbar. Die waghalsigen Impro-Spieler*innen gehen auf die Bühne, ohne zu wissen, was passiert. Sie haben keinen Text, keine Requisite, keine Regie. Nach den Vorgaben des Publikums entstehen Szenen aus dem Stegreif, die es nur einmal gibt.\nAn jedem ersten Donnerstag im Monat kann man „Die Zuckerschweine“ im Sprechwerk sehen!",
+          "teaser": ""
+        },
+        {
+          "id": "theaternacht-elan-vol-2",
+          "title": "Theaternacht // ELAN Vol. 2",
+          "venue": "",
+          "times": [
+            "22:00",
+            "22:30",
+            "23:00"
+          ],
+          "description": "Binge-Watching, nur in echt. Am 05. September 2026 wird Hamburg wieder zur Bühne: Bei der 22. Theaternacht Hamburg.\n22:00 – 22:20 Uhr          ELAN Vol. 2 // Tanz\n22:30 – 22:50 Uhr\n23:00 – 23:20 Uhr\nArbeiten junger Künstler:innen aus der Erika Klütz Schule stehen im Mittelpunkt dieses von Suse Tietjen kuratierten Programms zur Hamburger Theaternacht. Zu sehen sind ein Solo, ein Duett, eine Recherche und zwei Gruppenchoreografien. Zwischen zeitgenössischem Tanz und Tanztheater eröffnen die Arbeiten unterschiedliche Perspektiven – von tanzgeschichtlichen Reflexionen bis hin zu Fragen von Echo, Resonanz, Zeit und Neid. Die Recherche gibt zudem einen Einblick in den künstlerischen Entstehungsprozess eines der Werke von Exit Like an Animal Vol. 2, das im April 2027 im Hamburger Sprechwerk Premiere haben wird.\nWerke von:\nMequetrefe Collective\nChoreografie [&] Tanz: Ángel Negrete [&] Emilio Ángeles\nMarsthetics\nChoreografie [&] Tanz: Marc Jacobsen\nChoreografie: Lisa Marie Papenfuß\nTanz: Ella Dahlmeier, Jolene Harder, Alex-Jay Peters, Sofia Krell, Sünje Stäcker, Uljana Vartanians, Anna Tjards, Laurie Schepers, Pia Marie Kaufhold, Leonie Rakutt, Deina Figueira Bravo, Elisa Gillot, Cilia Kabbani, Dana Hinkelmann\nChoreografie: Sage Kibardin\nTanz: Amélie Blömer, Victoria Jordan, Polina Kovalenko, Lotte Marburg, Lola Wolf\nChoreografie [&] Tanz: Laurie Schepers und Cilia Kabbani\nChoreografie [&] Tanz: Polina Kovalenko",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "hoheluftschiff-kindertheater",
+      "name": "HoheLuftschiff Kindertheater",
+      "address": "Kaiser-Friedrich-Ufer 23, 20253 Hamburg",
+      "lat": 53.57762,
+      "lng": 9.97402,
+      "shows": [
+        {
+          "id": "unsichtbares-schnupperflug",
+          "title": "Unsichtbares - Schnupperflug",
+          "venue": "",
+          "times": [
+            "15:00",
+            "16:00"
+          ],
+          "description": "Im Rahmen der Theaternacht Hamburg zeigen wir Auszüge aus dem Stück \"Unsichtbares\":\nEin Haus, ein Baum, ein Hund. Das ist einfach: sehen, anfassen.\n\nKuschelwärme, Verwunderung und Muffensausen: Schon schwieriger und trotzdem da!\nWie fühlt sich Wind zwischen den Ästen an?\n\nWo versteckt sich Zeit, wenn niemand auf sie achtet?\n\nWenn alle ganz leise sind, könnten wir die Stille dann hören?\nGemeinsam machen wir uns auf die Suche nach den unsichtbaren Dingen, die wir riechen, hören und fühlen.\nEine Performance für Junges Publikum ab 3 Jahren.\nTickets bekommt ihr direkt über die Theaternacht. Dauer je Schnupperflug: Etwa 20 Minuten.",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "junges-schauspielhaus-hamburg",
+      "name": "Junges SchauSpielHaus Hamburg",
+      "address": "Wiesendamm 28, 22305 Hamburg",
+      "lat": 53.58778659999999,
+      "lng": 10.0372107,
+      "shows": [
+        {
+          "id": "theaternacht-im-jungen-schauspielhaus",
+          "title": "Theaternacht im Jungen SchauSpielHaus",
+          "venue": "",
+          "times": [
+            "15:00"
+          ],
+          "description": "Das Junge SchauSpielHaus bietet zur Hamburger Theaternacht ein buntes Programm für Kinder und Jugendliche.\n\nDie Türen sind von 15.00 bis 18.00 Uhr geöffnet.\n\nIm Foyer gibt es Kinderschminken, ein Glücksrad und eine Fotostation mit Kostümen und Requisiten.\nAuf den Bühne und Probebühnen zeigen wir Einblicke in die Kinderstücke „Nimmerland“, „Die Schönen und das Biest“, „Die fürchterlichen Fünf“, „Der Himmel, die Vögel, der Schnee beim richtigen Namen genannt“.",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "kampnagel",
+      "name": "Kampnagel",
+      "address": "Jarrestraße 20, 22303 Hamburg",
+      "lat": 53.5837,
+      "lng": 10.0223,
+      "shows": [
+        {
+          "id": "boy-division-das-quiz-1",
+          "title": "BOY DIVISION – DAS QUIZ",
+          "venue": "",
+          "times": [
+            "23:00"
+          ],
+          "description": "Schon ein »normales« Konzert der Hamburger Band BOY DIVISION mutiert bei manchen schnell zum vergnüglichen Musikquiz, ist es doch nicht immer ganz einfach, die Originale der bisweilen eigenwillig umgestalten Songs zu erkennen. Aus dieser »Not« wurde bald eine Tugend: BOY DIVISION, seit fast 30 Jahren im Rennen und seit 2010 bei jeder Theaternacht auf Kampnagel mit den unterschiedlichsten Programmen vertreten, haben in all den Jahren diverse Musikquiz-Formate ersonnen und präsentiert. Eine kompakte Werkschau gibt es exklusiv an diesem Abend im Bunker an der Feldstraße, garniert mit der einen oder anderen Überraschung. Und so bietet sich dem Publikum die stets willkommene Gelegenheit, das im Laufe des Lebens angehäufte und leider relativ unnütze Wissen spaß- und gewinnbringend einzubringen. Neben dem Klassiker »Songpantomime« darf auch u.a. mit Ratekategorien wie Künstler*innennamen, Coverversionen, fiktive Hochzeiten und Songtexten, die durchs Megaphon gelesen werden, gerechnet werden. Achtung: KEIN Konzert!",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "kellertheater",
+      "name": "Kellertheater",
+      "address": "Johannes Brahms Platz 1, 20355 Hamburg",
+      "lat": 53.5546657,
+      "lng": 9.978934999999979,
+      "shows": [
+        {
+          "id": "der-blaue-saphir-theaternacht",
+          "title": "Der blaue Saphir (Ausschnitte zur Theaternacht)",
+          "venue": "",
+          "times": [
+            "17:00",
+            "18:00"
+          ],
+          "description": "Ein Hamburger Kinderkrimi\nZwei Gauner und ihre Hehlerin haben es auf einen sehr wertvollen Saphir abgesehen.\nAber sie haben die Rechnung ohne die drei Kids der Gamer-Gang gemacht, die sich\n\nmutig und schlau ins Gangstermilieu stürzen…",
+          "teaser": ""
+        },
+        {
+          "id": "diener-zweier-herren--theaternacht",
+          "title": "Diener zweier Herren (Ausschnitte zur Theaternacht)",
+          "venue": "",
+          "times": [
+            "19:00",
+            "19:30"
+          ],
+          "description": "Ein turbulentes Dienerinnen-Spektakel\nCarlo Goldonis 1746 uraufgeführte Verwechslungskomödie „Der Diener zweier Herren“ knüpft an die Tradition der Commedia dell’arte an. Durch allerlei Verwicklungen wird Truffaldina zur Dienerin gleich zweier Herren – was doppeltes Essen und Einkommen verspricht, aber mindestens ebenso viel Chaos und Stress nach sich zieht (Minijobs scheinen Tradition zu haben.).\nDoch nicht nur in der Handlung geht einiges durcheinander: Auch in der Schauspieltruppe herrscht Verwirrung. Plötzlich stehen zwei Truffaldina-Darstellerinnen auf der Bühne, die Rolle der Blandina scheint unklar besetzt, und selbst die Frage, wer Tebaldo spielt, bleibt offen. Die Besetzung zeigt dabei spielerisch, dass Diener- und Herrenrollen keineswegs an ein Geschlecht gebunden sind. Freut Euch auf große Spielfreude, überraschende Wendungen – und einen „Diener“, wie man ihn so sicher noch nie gesehen hat.",
+          "teaser": ""
+        },
+        {
+          "id": "diener-zweier-herren-theaternacht",
+          "title": "Das Kellertheater liest! (Ausschnitte zur Theaternacht)",
+          "venue": "",
+          "times": [
+            "20:00",
+            "21:30"
+          ],
+          "description": "Das Kellertheater liest: Highlights aus unseren aktuellen und geplanten Leseprogrammen.",
+          "teaser": ""
+        },
+        {
+          "id": "diener-zweier-herren-5",
+          "title": "Diesseits (Ausschnitte zur Theaternacht)",
+          "venue": "",
+          "times": [
+            "20:30",
+            "21:00"
+          ],
+          "description": "Eine Tragikomödie über Tod, Hoffnung und Augenblicke\nPaula ist Anfang vierzig, klug, scharfzüngig – und sie weiß, dass sie einen Gehirntumor hat. Ob er gut- oder bösartig ist, erfährt sie erst morgen. 24 Stunden also zwischen Hoffnung und Abgrund. 24 Stunden, in denen plötzlich alles auf dem Spiel steht.\nStatt sich zurückzuziehen, wirft Paula sich mit voller Wucht ins Leben. Sie verlässt ihren gewohnten Alltag, gerät in absurde, komische und schmerzhafte Situationen, trifft Menschen, die sie aus dem Gleichgewicht bringen – und redet unaufhörlich, als könnte sie mit Worten der Angst davonzulaufen. Zwischen schwarzem Humor und tiefer Verzweiflung, zwischen Todesangst und Lebenshunger beginnt sie, Dinge zu tun, die sie sich vorher nie erlaubt hätte.\nDIESSEITS ist eine zeitgenössische Tragikomödie über das Warten auf eine Diagnose – und über den Moment, in dem man aufhört zu warten und anfängt zu handeln. Ein Stück über die radikale Ehrlichkeit sich selbst gegenüber, über verpasste Chancen, spontane Entscheidungen und den Mut, das eigene Leben endlich in die Hand zu nehmen. Rasend komisch, schmerzhaft ehrlich und voller Herz: ein Theaterabend, der zum Lachen bringt, zum Weinen verführt – und dazu, das eigene „Diesseits“ neu zu betrachten.",
+          "teaser": ""
+        },
+        {
+          "id": "zeugin-der-anklage-theaternacht",
+          "title": "Zeugin der Anklage (Ausschnitte zur Theaternacht)",
+          "venue": "",
+          "times": [
+            "22:00",
+            "22:30"
+          ],
+          "description": "Nachdem die wohlhabende Miss French tot in ihrer Wohnung aufgefunden wird, gerät der charmante Leonard Vole unter Tatverdacht. Die Tatsache, dass Miss French ihn kurz vor ihrem Tod als Alleinerben in ihrem Testament bedacht hatte, liefert ein lupenreines Mordmotiv. Als Vole des Mordes angeklagt wird, beteuert er unschuldig zu sein und macht seine Ehefrau Romaine zur Entlastungszeugin. Als diese im Zeugenstand erscheint, ändert sich alles…",
+          "teaser": ""
+        },
+        {
+          "id": "ich-horte-dinge-in-der-hoelle-theaternacht",
+          "title": "Ich hörte Dinge in der Hölle (Ausschnitte zur Theaternacht)",
+          "venue": "",
+          "times": [
+            "23:15",
+            "23:45"
+          ],
+          "description": "Ein düsteres Theaterstück mit Geschichten von Edgar Allen Poe, Bram Stoker und M. R. James\nFünf Wanderer treffen sich in einer stürmischen Nacht in einer abgelegenen Waldhütte. Sie sind pitschnass, müde und ... etwas scheint in den Wäldern umherzustreifen und sie zu verfolgen. Zur Ablenkung beginnen sie, sich gruselige Geschichten zu erzählen. Wird die Gruppe die Nacht überstehen?",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "klaubauter-theater",
+      "name": "Klaubauter Theater",
+      "address": "Jungestraße 7a, 20535 Hamburg",
+      "lat": 53.5554,
+      "lng": 10.0276,
+      "shows": [
+        {
+          "id": "hamburger-theaternacht-2026-in-our-bodies",
+          "title": "Hamburger Theaternacht 2026 - In Our Bodies",
+          "venue": "",
+          "times": [
+            "18:00",
+            "19:00",
+            "20:00",
+            "21:00"
+          ],
+          "description": "Das Klabauterschiff auf Reisen – 18.00 & 19.00 Uhr (Familienprogramm Theaternacht)\nWie entsteht eigentlich ein Abenteuer? Eine Hexe flieht vor ihrem egoistischen Ex-Mann, einem Zauberer. Mit einem selbstgebauten magischen Schiff möchte sie ans andere Ende der Welt reisen. Doch schon bald sammelt sich eine ungewöhnliche Crew an Bord: ein Maler, eine Fee, Räuber Hotzenplotz mit Jennifer und ihren Schafen, Tabaluga, Weltstar Maddy Monroe und viele weitere Gestalten. Gemeinsam geraten sie ins Bermuda-Dreieck, begegnen der Eiskönigin, suchen einen geheimnisvollen Schatz und stellen sich magischen Gefahren. Aus spontanen Begegnungen, überraschenden Wendungen und der Phantasie der Spielenden entstand im Rahmen eines Workshops zu Improvisation die Geschichte des magischen Klabauterschiffs: eine Abenteuerreise voller Humor, Musik, Improvisation und Lust am gemeinsamen Erzählen. Leitung: Tom Kramer\nIn Our Bodies – In Our Nature – 20.00 & 21.00 Uhr (Theaternacht)\nIn Our Bodies – In Our Nature ist ein Tanz- und Performanceprojekt, das die Verbindung zwischen dem menschlichen Körper und der natürlichen Umwelt erforscht und zum künstlerischen Spielfeld macht. Mithilfe von Bewegung, Stimme und Performance begeben sich die Performer*innen auf eine choreografische Spurensuche nach Verflechtungen zwischen Körpern, Pflanzen, Landschaften und atmosphärischen Kräften. Magisch, fantastisch genauso wie gewöhnlich, alltäglich fragen sie: Wo endet der Körper – und wo beginnt die „natürliche“ Umwelt? Gibt es denn eine „Natur“, die getrennt von uns ist? Wer oder was in dieser „natürlichen“ Welt hat eine Stimme und wessen Stimme wird gehört? In Our Bodies – In Our Nature lädt das Publikum dazu ein, den eigenen Körper als Teil einer gemeinsamen Ökologie wahrzunehmen und neue Formen von Verbundenheit, Fürsorge und Koexistenz mit der lebendigen Welt zu erkunden. Leitung: Verena Steiner",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "komodie-winterhuder-fahrhaus",
+      "name": "Komödie Winterhuder Fährhaus",
+      "address": "Hudtwalckerstraße 13, 22299 Hamburg",
+      "lat": 53.5938,
+      "lng": 9.9943,
+      "shows": [
+        {
+          "id": "henning-kothe-urlaub-auf-rezept-2",
+          "title": "Henning Kothe - Urlaub auf Rezept",
+          "venue": "",
+          "times": [
+            "17:30",
+            "18:10",
+            "18:50"
+          ],
+          "description": "Wenn Hamburgs wohl musikalischster Arzt die Bühne betritt, ist beste Unterhaltung garantiert: Henning Kothe präsentiert bei der Theaternacht Hamburg die Highlights aus seinem Programm Urlaub auf Rezept. Mit viel Humor, Musik und einem scharfen Blick nimmt er die schönsten und skurrilsten Seiten des Reisens aufs Korn. Bekannt aus den NDR-Geschichten „Wat secht de Dokter dorto“ sorgt der Lungenfacharzt und Entertainer für jede Menge Lacher – denn Lachen ist bekanntlich die beste Medizin.",
+          "teaser": ""
+        },
+        {
+          "id": "uli-bildstein-mit-tobias-neumann-und-johannes-huth-zwischen-dir-und-mir-chansons-mit-wumms",
+          "title": "Uli Bildstein mit Tobias Neumann und Johannes  Huth: Zwischen Dir und mir – Chansons mit Wumms",
+          "venue": "",
+          "times": [
+            "19:30",
+            "20:10",
+            "20:50"
+          ],
+          "description": "Uli Bildstein, Ensemble-Mitglied der Berlin Comedian Harmonists, erzählt von den kleinen Dramen des Alltags, die uns ausmachen, von unerfüllten Wünschen und großer Freiheit. Gewitzt, gefühlvoll und mit Kraft. Lieder von Brecht, Kreisler, Grebe u.a., begleitet von Tobias Neumann am Klavier und von Johannes Huth am Bass.",
+          "teaser": ""
+        },
+        {
+          "id": "szenen-aus-maennerbeschaffungsmassnahmen",
+          "title": "Szenen aus Männerbeschaffungsmaßnahmen",
+          "venue": "",
+          "times": [
+            "21:30",
+            "22:10",
+            "22:50"
+          ],
+          "description": "Szenen aus Männerbeschaffungsmaßnahmen, dem ersten Stück der neuen Spielzeit. Dating Apps, Selbstoptimierung und die Sehnsucht nach echter Nähe: In ihrem ungewöhnlichen Coaching Männerbeschaffungsmaßnahmen will die charismatische Diplom-Psychologin Dr. Christiane Pschorauer Frauen wieder zum Fühlen bringen. Vier Teilnehmerinnen wagen das emotionale Experiment und begegnen dabei ihren verborgenen Wünschen, überra schenden Erkenntnissen und einem geheim nisvollen Pianisten. Freuen Sie sich auf eine musikalische Komödie voller Witz, Charme und Herz. Bei der Theaternacht Hamburg erhalten Sie mit ausgewählten Szenen einen exklusiven Vorgeschmack auf die erste Spielzeit-Produk tion, in der u.a. die Schlagerstars Linda Hesse und Julia Lindholm mit dabei sind.",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "kunstklinik-eppendorf",
+      "name": "Kunstklinik Eppendorf",
+      "address": "Martinistraße 44a, 20251 Hamburg",
+      "lat": 53.59179121435326,
+      "lng": 9.98184609073791,
+      "shows": [
+        {
+          "id": "schnupper-theaterworkshop-fuer-maerchen-musicals-fuer-kinder",
+          "title": "Schnupper Theaterworkshop für Märchen Musicals für Kinder",
+          "venue": "",
+          "times": [
+            "15:00"
+          ],
+          "description": "Wir freuen uns wieder Teil der Hamburger Theaternacht zu sein.\n\nUnser Theaterprogramm in der Kunstklinik läuft von 15-18 Uhr.\n15.00 – 15.30 Uhr: Schnupper Theaterworkshop für Märchen Musicals\nGeeignet für Kinder ab 4 Jahren\n\nTaucht ein in die Welt des Theaters und seid einmal ein Star! Lernt unsere Schauspieler hautnah kennen und verwandelt euch in alle Rollen, die ihr euch wünscht. Für Verkleidung ist gesorgt.\nWir freuen uns auf euch!",
+          "teaser": ""
+        },
+        {
+          "id": "dornroeschen-galli-mitspieltheater-fuer-die-ganze-familie",
+          "title": "Dornröschen - Galli Mitspieltheater für die ganze Familie",
+          "venue": "",
+          "times": [
+            "16:00"
+          ],
+          "description": "Wir freuen uns wieder Teil der Hamburger Theaternacht zu sein.\n\nUnser Theaterprogramm in der Kunstklinik läuft von 15-18 Uhr.\n16.00 – 16.30 Uhr: Galli Mitspieltheater für die ganze Familie – Dornröschen\nEmpfohlen ab 3 Jahren\n\nHeidi Hinrichs erzählt, singt und tanzt den Märchenklassiker und das Publikum darf mitmachen! Die Kinder können hierbei in alle Rollen springen und die Geschichte kreativ mitgestalten.",
+          "teaser": ""
+        },
+        {
+          "id": "preview-der-galli-young-stars-fuer-ihr-neues-theaterstueck-das-haessliche-entlein",
+          "title": "Preview der Galli Young Stars für ihr neues Theaterstück „Das hässliche Entlein“",
+          "venue": "",
+          "times": [
+            "16:45"
+          ],
+          "description": "Wir freuen uns wieder Teil der Hamburger Theaternacht zu sein.\n\nUnser Theaterprogramm in der Kunstklinik läuft von 15-18 Uhr.\n16.45 – 17.15 Uhr: Kleine Preview der Galli Young Stars für ihr neues Theaterstück „Das hässliche Entlein“\nEmpfohlen ab 3 Jahren\n\nKinder spielen Theater für Kinder? Ja genau! Unsere Galli Young Stars spielen nach ihren großen Erfolgen bereits zum 4. Mal in unserem festen Theaterprogramm und das Schönste ist: Ihr dürft live dabei sein und einen Einblick bekommen! Lasst euch verzaubern!",
+          "teaser": ""
+        },
+        {
+          "id": "einblicke-in-die-galli-theaterwelt",
+          "title": "Ein Blick hinter die Galli-Kulissen & Abschlusstanz",
+          "venue": "",
+          "times": [
+            "17:30"
+          ],
+          "description": "Wir freuen uns wieder Teil der Hamburger Theaternacht zu sein.\n\nUnser Theaterprogramm in der Kunstklinik läuft von 15-18 Uhr.\n17.30 – 17.45 Uhr: Ein Blick hinter die Kulissen\n\nEin geheimer Einblick für Klein und Groß!\n18 Uhr: Abschlusstanz für alle\n\nWir freuen uns auf Euch!",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "lichthof-theater",
+      "name": "LICHTHOF Theater",
+      "address": "Mendelssohnstraße 15, 22761 Hamburg",
+      "lat": 53.5631995,
+      "lng": 9.914273900000012,
+      "shows": [
+        {
+          "id": "theaternacht-hamburg-kandinsky-vs-klee",
+          "title": "Theaternacht | Kandinsky vs. Klee",
+          "venue": "",
+          "times": [
+            "19:00",
+            "19:30",
+            "20:00"
+          ],
+          "description": "THEATERNACHT HAMBURG 2026: Einblicke in laufende und kommende Produktionen\nFRANZ VON STROLCHEN | PAUL BEHREN | SOFIA GREBEN | CANDID RÜTTER | CY LINKE UND TEAM\nZur Theaternacht gibt es im LICHTHOF Einblicke in zwei sehr unterschiedliche Welten: Highlights aus KANDINSKY vs. KLEE, einem Live-Painting-Theater, das Malerei und Bühnenkunst zusammenbringt, sowie erste Ausblicke auf aktuelle Nachwuchsproduktionen. Unter anderem zeigt Paul Behren, der dem Hamburger Publikum als Schauspieler bekannt ist, seine ersten Schritte als Choreograf. Ein Programm für alle, die Theater abseits des Gewohnten schätzen.\nLICHTHOF Programm | Sa. 5.9.26:\n\n19:00 Uhr: KANDINSKY vs. KLEE\n\n19:30 Uhr: KANDINSKY vs. KLEE\n\n20:00 Uhr: KANDINSKY vs. KLEE\n\n20:30 Uhr: ALMUT\n\n21:00 Uhr: KÖSH\n\n21:30 Uhr: ALMUT\n\n22:00 Uhr: THE POLITE MACHINE\n\n23:00 Uhr | Verrückte Stunde: KAPUTT, LIEBEN TeiL 1\n\n23:30 Uhr | Verrückte Stunde: KAPUTT, LIEBEN TeiL 2\n\n-----------\nKANDINSKY vs. KLEE | Highlights aus dem Live-Painting-Theater von Franz von Strolchen\n\nDas Publikum teilt sich in Team Kandinsky und Team Klee und malt jeweils an einem Bild. Es erwartet euch eine aberwitzigen Spielanordnung, die zu Kreativität verführt, aber auch zu Rebellion, zu Empathie und zur eigenen Haltung.\nALMUT | Erste Einblicke in Paul Behrens choreografische Arbeit\n\nPaul Behren setzt sich in ALMUT  choreografisch mit dem Leben seiner Großmutter Almut Wolf auseinander, die als sogenannte „Halbjüdin“ den Nationalsozialismus in Hamburg überlebte.\nKÖSH | Erste Einblicke in Sofia Grebens Tanzsolo\n\nIn ihrer Soloperformance KÖSH (kasachisch für: nomadische Bewegung) verkörpert Choreografin Sofia Greben die Figur einer Nomadin, deren Körper nie zur Ruhe kommt und sesshaft wird.\nTHE POLITE MACHINE | Showing von WE PRODUCE Stipendiat Candid Rütter\n\nIn Rahmen eines WE PRODUCE Recherchestipendiums setzt sich Candid Rütter mit dem Verhältnis des Menschen zu vernetzten, technischen Systemen und Alltagsgegenständen auseinander.\nVerrückte Stunde: KAPUTT, LIEBEN | Performance von Cy Linke und Team\n\nDas LICHTHOF tauscht von 23 Uhr bis 24 Uhr mit dem Thalia in der Gaußstraße die Bühne und zeigt die Performance KAPUTT, LIEBEN von Cy Linke und Team. Eine Performance über das Miteinander in Momenten von Joy, Killjoy und Krisen. Radikal, ehrlich, poetisch.\n\n-----------\nDie Theaternacht im LICHTHOF wird unterstützt durch die LICHTHOF Stiftung",
+          "teaser": ""
+        },
+        {
+          "id": "theaternacht-almut",
+          "title": "Theaternacht | Almut",
+          "venue": "",
+          "times": [
+            "20:30",
+            "21:30"
+          ],
+          "description": "THEATERNACHT HAMBURG 2026: Einblicke in laufende und kommende Produktionen\nFRANZ VON STROLCHEN | PAUL BEHREN | SOFIA GREBEN | CANDID RÜTTER | CY LINKE UND TEAM\nZur Theaternacht gibt es im LICHTHOF Einblicke in zwei sehr unterschiedliche Welten: Highlights aus KANDINSKY vs. KLEE, einem Live-Painting-Theater, das Malerei und Bühnenkunst zusammenbringt, sowie erste Ausblicke auf aktuelle Nachwuchsproduktionen. Unter anderem zeigt Paul Behren, der dem Hamburger Publikum als Schauspieler bekannt ist, seine ersten Schritte als Choreograf. Ein Programm für alle, die Theater abseits des Gewohnten schätzen.\nLICHTHOF Programm | Sa. 5.9.26:\n\n19:00 Uhr: KANDINSKY vs. KLEE\n\n19:30 Uhr: KANDINSKY vs. KLEE\n\n20:00 Uhr: KANDINSKY vs. KLEE\n\n20:30 Uhr: ALMUT\n\n21:00 Uhr: KÖSH\n\n21:30 Uhr: ALMUT\n\n22:00 Uhr: THE POLITE MACHINE\n\n23:00 Uhr | Verrückte Stunde: KAPUTT, LIEBEN TeiL 1\n\n23:30 Uhr | Verrückte Stunde: KAPUTT, LIEBEN TeiL 2\n\n-----------\nKANDINSKY vs. KLEE | Highlights aus dem Live-Painting-Theater von Franz von Strolchen\n\nDas Publikum teilt sich in Team Kandinsky und Team Klee und malt jeweils an einem Bild. Es erwartet euch eine aberwitzigen Spielanordnung, die zu Kreativität verführt, aber auch zu Rebellion, zu Empathie und zur eigenen Haltung.\nALMUT | Erste Einblicke in Paul Behrens choreografische Arbeit\n\nPaul Behren setzt sich in ALMUT  choreografisch mit dem Leben seiner Großmutter Almut Wolf auseinander, die als sogenannte „Halbjüdin“ den Nationalsozialismus in Hamburg überlebte.\nKÖSH | Erste Einblicke in Sofia Grebens Tanzsolo\n\nIn ihrer Soloperformance KÖSH (kasachisch für: nomadische Bewegung) verkörpert Choreografin Sofia Greben die Figur einer Nomadin, deren Körper nie zur Ruhe kommt und sesshaft wird.\nTHE POLITE MACHINE | Showing von WE PRODUCE Stipendiat Candid Rütter\n\nIn Rahmen eines WE PRODUCE Recherchestipendiums setzt sich Candid Rütter mit dem Verhältnis des Menschen zu vernetzten, technischen Systemen und Alltagsgegenständen auseinander.\nVerrückte Stunde: KAPUTT, LIEBEN | Performance von Cy Linke und Team\n\nDas LICHTHOF tauscht von 23 Uhr bis 24 Uhr mit dem Thalia in der Gaußstraße die Bühne und zeigt die Performance KAPUTT, LIEBEN von Cy Linke und Team. Eine Performance über das Miteinander in Momenten von Joy, Killjoy und Krisen. Radikal, ehrlich, poetisch.\n\n-----------\nDie Theaternacht im LICHTHOF wird unterstützt durch die LICHTHOF Stiftung",
+          "teaser": ""
+        },
+        {
+          "id": "theaternacht-koesh",
+          "title": "Theaternacht | Kösh",
+          "venue": "",
+          "times": [
+            "21:00"
+          ],
+          "description": "THEATERNACHT HAMBURG 2026: Einblicke in laufende und kommende Produktionen\nFRANZ VON STROLCHEN | PAUL BEHREN | SOFIA GREBEN | CANDID RÜTTER | CY LINKE UND TEAM\nZur Theaternacht gibt es im LICHTHOF Einblicke in zwei sehr unterschiedliche Welten: Highlights aus KANDINSKY vs. KLEE, einem Live-Painting-Theater, das Malerei und Bühnenkunst zusammenbringt, sowie erste Ausblicke auf aktuelle Nachwuchsproduktionen. Unter anderem zeigt Paul Behren, der dem Hamburger Publikum als Schauspieler bekannt ist, seine ersten Schritte als Choreograf. Ein Programm für alle, die Theater abseits des Gewohnten schätzen.\nLICHTHOF Programm | Sa. 5.9.26:\n\n19:00 Uhr: KANDINSKY vs. KLEE\n\n19:30 Uhr: KANDINSKY vs. KLEE\n\n20:00 Uhr: KANDINSKY vs. KLEE\n\n20:30 Uhr: ALMUT\n\n21:00 Uhr: KÖSH\n\n21:30 Uhr: ALMUT\n\n22:00 Uhr: THE POLITE MACHINE\n\n23:00 Uhr | Verrückte Stunde: KAPUTT, LIEBEN TeiL 1\n\n23:30 Uhr | Verrückte Stunde: KAPUTT, LIEBEN TeiL 2\n\n-----------\nKANDINSKY vs. KLEE | Highlights aus dem Live-Painting-Theater von Franz von Strolchen\n\nDas Publikum teilt sich in Team Kandinsky und Team Klee und malt jeweils an einem Bild. Es erwartet euch eine aberwitzigen Spielanordnung, die zu Kreativität verführt, aber auch zu Rebellion, zu Empathie und zur eigenen Haltung.\nALMUT | Erste Einblicke in Paul Behrens choreografische Arbeit\n\nPaul Behren setzt sich in ALMUT  choreografisch mit dem Leben seiner Großmutter Almut Wolf auseinander, die als sogenannte „Halbjüdin“ den Nationalsozialismus in Hamburg überlebte.\nKÖSH | Erste Einblicke in Sofia Grebens Tanzsolo\n\nIn ihrer Soloperformance KÖSH (kasachisch für: nomadische Bewegung) verkörpert Choreografin Sofia Greben die Figur einer Nomadin, deren Körper nie zur Ruhe kommt und sesshaft wird.\nTHE POLITE MACHINE | Showing von WE PRODUCE Stipendiat Candid Rütter\n\nIn Rahmen eines WE PRODUCE Recherchestipendiums setzt sich Candid Rütter mit dem Verhältnis des Menschen zu vernetzten, technischen Systemen und Alltagsgegenständen auseinander.\nVerrückte Stunde: KAPUTT, LIEBEN | Performance von Cy Linke und Team\n\nDas LICHTHOF tauscht von 23 Uhr bis 24 Uhr mit dem Thalia in der Gaußstraße die Bühne und zeigt die Performance KAPUTT, LIEBEN von Cy Linke und Team. Eine Performance über das Miteinander in Momenten von Joy, Killjoy und Krisen. Radikal, ehrlich, poetisch.\n\n-----------\nDie Theaternacht im LICHTHOF wird unterstützt durch die LICHTHOF Stiftung",
+          "teaser": ""
+        },
+        {
+          "id": "theaternacht-the-polite-maschine",
+          "title": "Theaternacht | The Polite Maschine",
+          "venue": "",
+          "times": [
+            "22:00"
+          ],
+          "description": "THEATERNACHT HAMBURG 2026: Einblicke in laufende und kommende Produktionen\nFRANZ VON STROLCHEN | PAUL BEHREN | SOFIA GREBEN | CANDID RÜTTER | CY LINKE UND TEAM\nZur Theaternacht gibt es im LICHTHOF Einblicke in zwei sehr unterschiedliche Welten: Highlights aus KANDINSKY vs. KLEE, einem Live-Painting-Theater, das Malerei und Bühnenkunst zusammenbringt, sowie erste Ausblicke auf aktuelle Nachwuchsproduktionen. Unter anderem zeigt Paul Behren, der dem Hamburger Publikum als Schauspieler bekannt ist, seine ersten Schritte als Choreograf. Ein Programm für alle, die Theater abseits des Gewohnten schätzen.\nLICHTHOF Programm | Sa. 5.9.26:\n\n19:00 Uhr: KANDINSKY vs. KLEE\n\n19:30 Uhr: KANDINSKY vs. KLEE\n\n20:00 Uhr: KANDINSKY vs. KLEE\n\n20:30 Uhr: ALMUT\n\n21:00 Uhr: KÖSH\n\n21:30 Uhr: ALMUT\n\n22:00 Uhr: THE POLITE MACHINE\n\n23:00 Uhr | Verrückte Stunde: KAPUTT, LIEBEN TeiL 1\n\n23:30 Uhr | Verrückte Stunde: KAPUTT, LIEBEN TeiL 2\n\n-----------\nKANDINSKY vs. KLEE | Highlights aus dem Live-Painting-Theater von Franz von Strolchen\n\nDas Publikum teilt sich in Team Kandinsky und Team Klee und malt jeweils an einem Bild. Es erwartet euch eine aberwitzigen Spielanordnung, die zu Kreativität verführt, aber auch zu Rebellion, zu Empathie und zur eigenen Haltung.\nALMUT | Erste Einblicke in Paul Behrens choreografische Arbeit\n\nPaul Behren setzt sich in ALMUT  choreografisch mit dem Leben seiner Großmutter Almut Wolf auseinander, die als sogenannte „Halbjüdin“ den Nationalsozialismus in Hamburg überlebte.\nKÖSH | Erste Einblicke in Sofia Grebens Tanzsolo\n\nIn ihrer Soloperformance KÖSH (kasachisch für: nomadische Bewegung) verkörpert Choreografin Sofia Greben die Figur einer Nomadin, deren Körper nie zur Ruhe kommt und sesshaft wird.\nTHE POLITE MACHINE | Showing von WE PRODUCE Stipendiat Candid Rütter\n\nIn Rahmen eines WE PRODUCE Recherchestipendiums setzt sich Candid Rütter mit dem Verhältnis des Menschen zu vernetzten, technischen Systemen und Alltagsgegenständen auseinander.\nVerrückte Stunde: KAPUTT, LIEBEN | Performance von Cy Linke und Team\n\nDas LICHTHOF tauscht von 23 Uhr bis 24 Uhr mit dem Thalia in der Gaußstraße die Bühne und zeigt die Performance KAPUTT, LIEBEN von Cy Linke und Team. Eine Performance über das Miteinander in Momenten von Joy, Killjoy und Krisen. Radikal, ehrlich, poetisch.\n\n-----------\nDie Theaternacht im LICHTHOF wird unterstützt durch die LICHTHOF Stiftung",
+          "teaser": ""
+        },
+        {
+          "id": "theaternacht-kaputt-lieben-1",
+          "title": "Theaternacht | Verrückte Stunde: Kaputt Lieben Teil 1",
+          "venue": "",
+          "times": [
+            "23:00"
+          ],
+          "description": "THEATERNACHT HAMBURG 2026: Einblicke in laufende und kommende Produktionen\nFRANZ VON STROLCHEN | PAUL BEHREN | SOFIA GREBEN | CANDID RÜTTER | CY LINKE UND TEAM\nZur Theaternacht gibt es im LICHTHOF Einblicke in zwei sehr unterschiedliche Welten: Highlights aus KANDINSKY vs. KLEE, einem Live-Painting-Theater, das Malerei und Bühnenkunst zusammenbringt, sowie erste Ausblicke auf aktuelle Nachwuchsproduktionen. Unter anderem zeigt Paul Behren, der dem Hamburger Publikum als Schauspieler bekannt ist, seine ersten Schritte als Choreograf. Ein Programm für alle, die Theater abseits des Gewohnten schätzen.\nLICHTHOF Programm | Sa. 5.9.26:\n\n19:00 Uhr: KANDINSKY vs. KLEE\n\n19:30 Uhr: KANDINSKY vs. KLEE\n\n20:00 Uhr: KANDINSKY vs. KLEE\n\n20:30 Uhr: ALMUT\n\n21:00 Uhr: KÖSH\n\n21:30 Uhr: ALMUT\n\n22:00 Uhr: THE POLITE MACHINE\n\n23:00 Uhr | Verrückte Stunde: KAPUTT, LIEBEN TeiL 1\n\n23:30 Uhr | Verrückte Stunde: KAPUTT, LIEBEN TeiL 2\n\n-----------\nKANDINSKY vs. KLEE | Highlights aus dem Live-Painting-Theater von Franz von Strolchen\n\nDas Publikum teilt sich in Team Kandinsky und Team Klee und malt jeweils an einem Bild. Es erwartet euch eine aberwitzigen Spielanordnung, die zu Kreativität verführt, aber auch zu Rebellion, zu Empathie und zur eigenen Haltung.\nALMUT | Erste Einblicke in Paul Behrens choreografische Arbeit\n\nPaul Behren setzt sich in ALMUT  choreografisch mit dem Leben seiner Großmutter Almut Wolf auseinander, die als sogenannte „Halbjüdin“ den Nationalsozialismus in Hamburg überlebte.\nKÖSH | Erste Einblicke in Sofia Grebens Tanzsolo\n\nIn ihrer Soloperformance KÖSH (kasachisch für: nomadische Bewegung) verkörpert Choreografin Sofia Greben die Figur einer Nomadin, deren Körper nie zur Ruhe kommt und sesshaft wird.\nTHE POLITE MACHINE | Showing von WE PRODUCE Stipendiat Candid Rütter\n\nIn Rahmen eines WE PRODUCE Recherchestipendiums setzt sich Candid Rütter mit dem Verhältnis des Menschen zu vernetzten, technischen Systemen und Alltagsgegenständen auseinander.\nVerrückte Stunde: KAPUTT, LIEBEN | Performance von Cy Linke und Team\n\nDas LICHTHOF tauscht von 23 Uhr bis 24 Uhr mit dem Thalia in der Gaußstraße die Bühne und zeigt die Performance KAPUTT, LIEBEN von Cy Linke und Team. Eine Performance über das Miteinander in Momenten von Joy, Killjoy und Krisen. Radikal, ehrlich, poetisch.\n\n-----------\nDie Theaternacht im LICHTHOF wird unterstützt durch die LICHTHOF Stiftung",
+          "teaser": ""
+        },
+        {
+          "id": "theaternacht-verrueckte-stunde-kaputt-lieben-teil-2",
+          "title": "Theaternacht | Verrückte Stunde: Kaputt Lieben TeiL 2",
+          "venue": "",
+          "times": [
+            "23:30"
+          ],
+          "description": "THEATERNACHT HAMBURG 2026: Einblicke in laufende und kommende Produktionen\nFRANZ VON STROLCHEN | PAUL BEHREN | SOFIA GREBEN | CANDID RÜTTER | CY LINKE UND TEAM\nZur Theaternacht gibt es im LICHTHOF Einblicke in zwei sehr unterschiedliche Welten: Highlights aus KANDINSKY vs. KLEE, einem Live-Painting-Theater, das Malerei und Bühnenkunst zusammenbringt, sowie erste Ausblicke auf aktuelle Nachwuchsproduktionen. Unter anderem zeigt Paul Behren, der dem Hamburger Publikum als Schauspieler bekannt ist, seine ersten Schritte als Choreograf. Ein Programm für alle, die Theater abseits des Gewohnten schätzen.\nLICHTHOF Programm | Sa. 5.9.26:\n\n19:00 Uhr: KANDINSKY vs. KLEE\n\n19:30 Uhr: KANDINSKY vs. KLEE\n\n20:00 Uhr: KANDINSKY vs. KLEE\n\n20:30 Uhr: ALMUT\n\n21:00 Uhr: KÖSH\n\n21:30 Uhr: ALMUT\n\n22:00 Uhr: THE POLITE MACHINE\n\n23:00 Uhr | Verrückte Stunde: KAPUTT, LIEBEN TeiL 1\n\n23:30 Uhr | Verrückte Stunde: KAPUTT, LIEBEN TeiL 2\n\n-----------\nKANDINSKY vs. KLEE | Highlights aus dem Live-Painting-Theater von Franz von Strolchen\n\nDas Publikum teilt sich in Team Kandinsky und Team Klee und malt jeweils an einem Bild. Es erwartet euch eine aberwitzigen Spielanordnung, die zu Kreativität verführt, aber auch zu Rebellion, zu Empathie und zur eigenen Haltung.\nALMUT | Erste Einblicke in Paul Behrens choreografische Arbeit\n\nPaul Behren setzt sich in ALMUT  choreografisch mit dem Leben seiner Großmutter Almut Wolf auseinander, die als sogenannte „Halbjüdin“ den Nationalsozialismus in Hamburg überlebte.\nKÖSH | Erste Einblicke in Sofia Grebens Tanzsolo\n\nIn ihrer Soloperformance KÖSH (kasachisch für: nomadische Bewegung) verkörpert Choreografin Sofia Greben die Figur einer Nomadin, deren Körper nie zur Ruhe kommt und sesshaft wird.\nTHE POLITE MACHINE | Showing von WE PRODUCE Stipendiat Candid Rütter\n\nIn Rahmen eines WE PRODUCE Recherchestipendiums setzt sich Candid Rütter mit dem Verhältnis des Menschen zu vernetzten, technischen Systemen und Alltagsgegenständen auseinander.\nVerrückte Stunde: KAPUTT, LIEBEN | Performance von Cy Linke und Team\n\nDas LICHTHOF tauscht von 23 Uhr bis 24 Uhr mit dem Thalia in der Gaußstraße die Bühne und zeigt die Performance KAPUTT, LIEBEN von Cy Linke und Team. Eine Performance über das Miteinander in Momenten von Joy, Killjoy und Krisen. Radikal, ehrlich, poetisch.\n\n-----------\nDie Theaternacht im LICHTHOF wird unterstützt durch die LICHTHOF Stiftung",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "monsun-theater",
+      "name": "monsun theater",
+      "address": "Billrothstraße 79, 22767 Hamburg",
+      "lat": 53.55368,
+      "lng": 9.94714,
+      "shows": [
+        {
+          "id": "die-prinzessin-auf-der-erbse-18",
+          "title": "Die Prinzessin auf der Erbse",
+          "venue": "",
+          "times": [
+            "17:30"
+          ],
+          "description": "Die Louise-Schroeder-Schule kooperiert mit zahlreichen Kulturorganisationen und -initiativen, Galerien sowie freischaffenden Künstlerinnen und Künstlern – und seit 2025 auch mit dem monsun.theater zwei Straßenecken weiter.\nTheater ist bereits ab Klasse 1 fest im Stundenplan verankert. Neben der Schulaufführungen nehmen viele unserer Klassen regelmäßig an verschiedenen Theaterfestivals teil. Der Theatertag „Louise macht Theater“ kurz vor den Sommerferien ist zwar noch jung, aber schon ein echtes Highlight im Schuljahr – wie ein kleines Theaterfestival, ganz ohne Wettbewerb. An diesem Tag sind alle Kinder die Stars! Sie spielen für andere Kinder, schauen sich gegenseitig zu und erleben die Bühne eines echten Theaters.\nEine Klasse (3c) hat nun die Möglichkeit, zu einer weiteren Vorstellung im Rahmen der Theaternacht Hamburg.\nSPIEL\nSchüler:innen der Louise Schröder Schule\nLEITUNG\nSilva Tunc",
+          "teaser": ""
+        },
+        {
+          "id": "fucking-beautiful",
+          "title": "fucking beautiful",
+          "venue": "",
+          "times": [
+            "19:00"
+          ],
+          "description": "nach einem Text von Lili Roesing\nWir existieren mittlerweile fast alle in mehreren Räumen. Im realen Leben und im digitalen Leben. Vielleicht sind wir alle schonmal beim scrollen auf Videos der Welnessculture gestoßen. Es wird Zeit sich auf sich zu konzentrieren, seinen eigenen „Peace zu protecten“, sich sein Leben zu manifestieren, für die eigene Gesundheit ins Gym zu gehen (natürlich nicht einfach um Hot auszusehen). Mindfulness, longevity, self-care, gut-health, holistic-healtg, clean-eating....\nUnter dem Branding der Selbstfürsorge, wird ein kapitalisitsch geprägter Lebensstil propagiert, in dem es vor allem vordergründig ist, sich nur noch mit sich selbst zu beschäftigen und sich in das unpolitische, individuelle Zurückzuziehen. Aber wer sind wir, wenn wir alleine sind?\nVierzehn junge Performer:innen dekonstruieren Körper- und Stimmtexte, entwickeln eigene Songs und Choreografien und schreiben damit ihre jeweils eigene Komposition. Sprache wird als lebendiger Organismus verstanden, der sich fortwährend transformiert. Das Projekt erforscht Praktiken des „Sich-Riskierens“ auf der Bühne – ästhetisch wie gesellschaftlich.\nMit „fucking beautiful“ realisiert die neu gegründete StudiCompagnie des monsun.theaters unter der künstlerischen Leitung von Dr. phil. Alina Gregor eine performative Inszenierungskomposition in Anlehnung an den Theatertext von Lili Roesing.\nSPIEL\nIsabelle Bonin\n\nNina Bryde\n\nDidi Fung\n\nLukas Hartl\n\nPia Kehl\n\nPaul Lehrich\n\nGreta Papenthien\n\nAlessandra Strutzke\n\nMilena Thompson\n\nAntonia Valdes\n\nJule Weidner\n\nHanna Zelmanovics\nKÜNSTLERISCHE MITARBEIT\nPia Kehl\nREGIEASSISTENZ\nDina Polus\n\nCharlotte Goralsky\n\nYunseo Sunny Choi\nKÜNSTLERISCHE LEITUNG\nAlina Gregor",
+          "teaser": ""
+        },
+        {
+          "id": "hard-land",
+          "title": "Hard Land",
+          "venue": "",
+          "times": [
+            "19:00",
+            "19:30"
+          ],
+          "description": "von Benedict Wells\n„… und ich fühlte mich so, wie ich mich schon mein ganzes Leben lang fühlen wollte: übermütig und wach und mittendrin und unsterblich.”\nSommer 1985. In einer verschlafenen Kleinstadt beginnt für den 15-jährigen Sam eine Zeit, die alles verändert. Zwischen flirrenden Kinonächten, neuen Freundschaften und der ersten großen Liebe entdeckt er ein Leben, das sich plötzlich weit und möglich anfühlt. Doch mitten in dieses fragile Glück bricht ein Verlust, der ihn zwingt, Abschied zu nehmen und sich selbst neu zu begegnen.\nHard Land erzählt von Zugehörigkeit und Aufbruch, von Freundschaft, Trauer und den Momenten, die sich unauslöschlich einprägen – wie ein Song, der lange nachhallt.\nEine Produktion von frau emma gelb. Gefördert durch die Behörde für Kultur und Medien Hamburg und die Proberaumförderung des Dachverbands freie darstellende Künste Hamburg (DfdK). Die Aufführungsrechte liegen beim Diogenes Verlag.\nIDEE & KONZEPT\nAmelie Möller\n\nMeike Krämer",
+          "teaser": ""
+        },
+        {
+          "id": "wir-doch-nicht",
+          "title": "Wir doch nicht",
+          "venue": "",
+          "times": [
+            "19:00",
+            "20:30"
+          ],
+          "description": "Nach dem gleichnamigen Roman von Nora Burgard-Arp\n„Wir würden doch merken, wenn es kippt?”\nZwei Menschen. Ein geschlossenes System. Fragen über Fragen. Routinen, Beziehungen und ein Raum, der langsam auseinanderfällt. Wände werden zu durchlässigen Grenzen. Eine Tür öffnet sich, doch niemand geht hindurch.\nDie  Zukunft: Deutschland wird von einer autoritären Partei regiert, die Leben, Körper und Rechte kontrolliert. Mathilda beendet heimlich ihre Schwangerschaft und beginnt damit einen inneren Aufstand gegen ein System aus Überwachung, Unterdrückung und Angst.\nAnhand Mathildas Geschichte aus dem gleichnamigen Roman von Nora Burgard-Arp stellt Wir doch nicht unbequeme Fragen an unsere Gegenwart: Wie viel Kontrolle akzeptieren wir aus Angst? Wann wird Anpassung zur Gewohnheit? Und warum fühlt sich Schweigen manchmal einfacher an als Widerstand? Am Ende richtet sich der Blick zurück auf uns. Wie weit lassen wir es zu? Wie lange glauben wir, nicht betroffen zu sein?\nEin schauspiel-performatives Fragenkorsett über politische Verschiebungen, Selbstbestimmung und das späte Erwachen in einer Gesellschaft, die glaubt, nicht gemeint zu sein.\nDie Eigenproduktion des monsun.theaters wird gefördert durch die Behörde für Kultur und Medien Hamburg. Die Aufführungsrechte des Romans „Wir doch nicht“ von Nora Burgard-Arp liegen beim Katapult-Verlag GmbH.\nSPIEL\nMelissa Anna Schmidt\n\nTobias Wollschläger\nSOUND\nKarl Degenhardt\nLICHT & TON\nKatharina Theßeling\n\nIurii Astakhov\nVIDEO & TECHNIK\nMartin Hüsges\nPRODUKTIONSASSISTENZ\nGhislain Martinez\nPRODUKTIONSLEITUNG\nFrancoise Hüsges\n\nEmilie Lietz\nKONZEPT & RAUM\nFrancoise Hüsges\nKONZEPT & REGIE\nJohanna Hasse",
+          "teaser": ""
+        },
+        {
+          "id": "blablabla-6",
+          "title": "BLABLABLA",
+          "venue": "",
+          "times": [
+            "20:00"
+          ],
+          "description": "Ein Tanz-Stück von Chorosom von Menschen mit und ohne Behinderung\nWas geschieht, wenn Diskriminierung nicht erklärt, sondern getanzt wird – und wie verändert sich unser Blick, wenn Körper sprechen und wir bereit sind, wirklich hinzusehen?\n„BLABLABLA“ bringt persönliche Erfahrungen von Ausgrenzung auf die Bühne: als Bewegung, als Erinnerung, als Widerstand. Schmerz, Wut und Hoffnung werden sichtbar und körperlich erfahrbar.\nIn intensiven Begegnungen tragen und stützen sich die Tänzer:innen, suchen nach Nähe und nach einem gemeinsamen Rhythmus. Der Körper wird dabei zum Ort der Auseinandersetzung und zum Raum für Solidarität. Was oft unsichtbar bleibt, erhält Präsenz.\n\n„Durch Bewegung bin ich mir selbst näher gekommen.”\n\nStimmen erzählen davon, wie sich Erstarrung in Wut und Kraft verwandeln konnte. „BLABLABLA“ zeigt diese Prozesse unverstellt – verletzlich, laut und kraftvoll.\nDie Performance ist ein klares Statement gegen Sexismus und jede Form von Diskriminierung. Sie schafft einen Raum, in dem FLINTA-Perspektiven geteilt, gestärkt und gemeinsam verhandelt werden. Zugleich richtet sich der Blick nach vorn: auf Sehnsucht, Selbstermächtigung und den Wunsch nach Sichtbarkeit.\nDas Stück wurde mit einer künstlerischen Audiodeskription entwickelt.\nGefördert durch die Freie und Hansestadt Hamburg, Behörde für Kultur und Medien, Unterstützt von der Wiese eG und Hamburger Sprechwerk.\nTANZ\nSahra Bazyar-Planke\n\nNana Anine Jørgensen\n\nKatrin Kats\n\nGina Laskowski\n\nMelanie Sandrock\n\nZoé Champagne\n\nMenja Radke\n\nEileen Rossow\n\nAmélie Schlachter\n\nLisa Timmermann\nKOSTÜM & SOUNDDESIGN\nJuli Vance\nMUSIK\nJuli Vance\n\nLiam Vance\nTEXT\nKatrin Kats\nAUDIODESKRIPTION\nSoi Anifantis-Scherb\nENTWICKLUNG KÜNSTLERISCHE AUDIODESKRIPTION\nNaomi Sanfo-Ansorge\nTRAILER\nLarissa Potapov\nKÜNSTLERISCHE PROJEKTLEITUNG\nChorosom\nCHOREOGRAFIEASSISTENZ\nSoi Anifantis-Scherb\n\nSahra Bazyar-Planke\nCHOREOGRAFIE\nKatharina Jacobsen",
+          "teaser": ""
+        },
+        {
+          "id": "bitte-laecheln-2026",
+          "title": "Bitte Lächeln!",
+          "venue": "",
+          "times": [
+            "20:00",
+            "21:00"
+          ],
+          "description": "Da lächeln die Ohren! Herrliche Grooves, wunderbare Melodien und spritzige Texte. Wenn die acht Musiker von BITTE LÄCHELN! ihre Instrumente auspacken und die Songs anstimmen, gibt ́s Reggae, Rock, Pop, Ska und Blues zu hören und eine absolut authentische Bühnenshow zu sehen.\nDie mehrfach ausgezeichnete inklusive Band hat bereits drei CD ́s veröffentlicht, hat live in Sibirien gespielt, mit Stefan Gwildis und Guildo Horn performed und es bei den ARD Tagesthemen bis in die erste Reihe geschafft. Das in der Band dabei vier behinderte Musiker und vier nicht behinderte Musiker spielen ist außergewöhnlich und verleiht dem Projekt des Liedermachers, Musikers und Produzenten Mirko Frank, des Kulturvereins SMØRREBRØD e.V. und LMB Hamburge.V. ein ganz besondere Note.",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "mut-theater",
+      "name": "MUT! Theater",
+      "address": "Amandastraße 58, 20357 Hamburg",
+      "lat": 53.56553,
+      "lng": 9.96162,
+      "shows": [
+        {
+          "id": "die-herausforderung-des-ungebrochenen-3",
+          "title": "Die Herausforderung des Ungebrochenen",
+          "venue": "",
+          "times": [
+            "19:00",
+            "20:00",
+            "21:00",
+            "22:00",
+            "23:00"
+          ],
+          "description": "Was bedeutet Freiheit in einer Welt, in der Gedanken zum Verbrechen werden können? „Ungebrochen – Die Herausforderung“ ist ein politisches Theaterstück über Widerstand, Identität und das Recht auf Selbstbestimmung. Inspiriert vom Schicksal eines politischen Häftlings, erzählt die Inszenierung anhand von Elementen aus dem Leben von Kurden. Das Stück beleuchtet Mechanismen sichtbarer und unsichtbarer Gewalt in repressiven Systemen und lädt zur kritischen Auseinandersetzung mit Demokratie, Macht und Erinnerungskultur ein. Ein eindringlicher Theaterabend über Unbeugsamkeit – und die Kraft der Gedanken gegen das Vergessen.\nRegie und Text: Mahmut Canbay,      Schauspiel: Emrah Demir",
+          "teaser": ""
+        },
+        {
+          "id": "die-nashoerner-1",
+          "title": "Die Nashörner",
+          "venue": "",
+          "times": [
+            "19:30",
+            "20:30",
+            "21:30",
+            "22:30",
+            "23:30"
+          ],
+          "description": "BAM! POP! RHINO!\n\nWillkommen in unserer Welt: Ein schrilles Technicolor-Paradies voller individueller\n\nMacken, ein Sprechblasengewitter aus Neonfarben und lebendiger Exzentrik! Hier\n\nist jeder ein Unikat, jede Meinung ein greller Farbtupfer. Doch unter der glitzernden\n\nPop-Art-Oberfläche gärt etwas. Ein Rhythmus setzt ein, ein tiefes Grollen. Ein\n\nNashorn prescht durch die Gassen, dann zwei. Es werden immer mehr. Bald\n\nversinkt die ganze Stadt im Ausnahmezustand. Die Sättigung beginnt zu schwinden.\n\nIonescos absurder Humor trifft im diesjährigen Theaterprojekt der iSA\n\nSchauspielakademie auf die harte Kante unserer Gegenwart. Die „Nashörnitis“ wird\n\nzum viralen Hype, der uns heute in den Echokammern fanatischer Ideologien und in\n\npopulistischen Sprechchören begegnet. Doch warum fühlt es sich für viele so\n\nverdammt gut an, individuelle Freiheiten aufzugeben und Teil einer grauen,\n\nstampfenden Masse zu sein? Wer hält die Komplexität einer Welt voller\n\nWidersprüche noch aus, wenn radikale Fronten so verführerisch die Sicherheit\n\nmoralischer Überlegenheit versprechen?\n\nWenn jede Farbnuance erlischt und nur noch das grobe Raster des „Wir gegen Die“\n\nübrig bleibt, stellt sich die alles entscheidende Frage:\n\nWER BLEIBT MENSCH - UND WER WIRD ZUM DICKHÄUTER?\n\nInszenierung: Véronique Elling\n\nBühne & Ausstattung: Sophie Elise Hummrich\n\nEnsemble: Chiara Ratz, Janne Wulf, Lysander Van Gowindra, Marjolaine Zuschneid,\n\nPaulina Nikolla, Sina Herbst, Svenja Perbandt, Tariqe Schaefer, Veronika Wiegers",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "ohnsorg-theater",
+      "name": "Ohnsorg-Theater",
+      "address": "Heidi-Kabel-Platz 1, 20099 Hamburg",
+      "lat": 53.5545,
+      "lng": 10.00703,
+      "shows": [
+        {
+          "id": "theaternacht-requisitenspass-theatermalereien-kostuemallerlei",
+          "title": "Requisitenspaß, Theatermalereien & Kostümallerlei",
+          "venue": "Studiobühne",
+          "times": [
+            "15:00",
+            "15:30",
+            "16:00",
+            "16:30",
+            "17:00",
+            "17:30",
+            "18:00",
+            "18:30"
+          ],
+          "description": "Alle 30 Minuten öffnet der Malsaal seine Türen: Hier kann man inmitten von Kulissen, Requisiten und Kostümteilen in andere Welten eintauchen – unbedingt für lustige Schnappschüsse geeignet. Ein Spaß für Groß und Klein (ab 6 Jahren). Die Gruppen werden pünktlich im Foyer abgeholt. Die Gruppen sind auf 20 Personen begrenzt. Bitte melden Sie sich bei Ankunft im Theater am Infotresen an, um Ihr kostenloses Ticket zu sichern.",
+          "teaser": ""
+        },
+        {
+          "id": "theaternacht-die-kleine-dame-de-luette-daam",
+          "title": "Die kleine Dame – De lütte Daam",
+          "venue": "Studiobühne",
+          "times": [
+            "16:00",
+            "17:00"
+          ],
+          "description": "Wer chamäleonisiert denn da und treibt allerlei lustigen Schabernack mit dem garstigen Hausmeister Herrn Leberwurst? Das kann nur die kleine Dame sein …\n\nWir zeigen Ausschnitte aus unserem neuen zweisprachigen Kinderstück nach dem Roman von Stefanie Taschinski. Für alle ab 6 Jahren.",
+          "teaser": ""
+        },
+        {
+          "id": "theaternacht-fisch-foer-veer-ein-letztes-mahl",
+          "title": "Fisch för veer - Ein letztes Mahl",
+          "venue": "",
+          "times": [
+            "19:00"
+          ],
+          "description": "Ein Diener für drei Damen - eine Krimikomödie mit Geheimnissen und Überraschungen. Wir zeigen szenische Highlights aus unserer Eröffnungsproduktion!",
+          "teaser": ""
+        },
+        {
+          "id": "theaternacht-novecento-de-geschicht-vun-den_ozeanpianist",
+          "title": "Novecento – De Geschicht vun den Ozeanpianist",
+          "venue": "Studiobühne",
+          "times": [
+            "19:30",
+            "20:30"
+          ],
+          "description": "Seine Heimat ist das Meer. An Bord eines Ozeandampfers spielt er jeden Abend mit der Atlantic Jazz Band für die Reichen der Luxusklasse, die Reisenden aus der zweiten Klasse und schließlich auch für die Ärmsten der dritten Klasse. Novecento ist der beste Pianist, den der Ozean jemals gehört hat und seine Töne lassen das Publikum in andere Sphären gleiten. Als Säugling wurde er in einer Zitronenkiste an Bord aufgefunden und von der Bordmannschaft großgezogen. Nie hat er das Schiff verlassen, und doch war er an so vielen Orten dieser Welt …Novecento ist eine Geschichte über die Liebe zur Musik, die Kraft der Fantasie und das Geschenk zu leben.",
+          "teaser": ""
+        },
+        {
+          "id": "theaternacht-de-ohnsorg-suesters-1",
+          "title": "De Ohnsorg Süsters",
+          "venue": "",
+          "times": [
+            "20:00",
+            "22:00"
+          ],
+          "description": "Hits und Evergreens launig verswingt, hinreißend gesungen von Tanja Bahmani, Caroline Kiesewetter und Nele Larsen – drei Hamburger Deerns echt Plattdüütsch by Nature!",
+          "teaser": ""
+        },
+        {
+          "id": "theaternacht-mahoin-konzert-1",
+          "title": "Mahoin – Konzert!",
+          "venue": "",
+          "times": [
+            "21:00",
+            "23:00"
+          ],
+          "description": "Die fünf Jungs von mahoin sind eine Matrosen-Marching-Band der Extraklasse. Handmade im Hamburger Hafen. Exklusiv zur Theaternacht geben sie ein kurzes, knackiges Gute-Laune-Konzert.",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "opernloft",
+      "name": "OPERNLOFT",
+      "address": "Van-der-Smissen-Straße 4, 22767 Hamburg",
+      "lat": 53.5434,
+      "lng": 9.9411,
+      "shows": [
+        {
+          "id": "theaternacht-2025-opern-slam-im-opernloft",
+          "title": "Theaternacht 2026 - Opern-Slam im Opernloft",
+          "venue": "",
+          "times": [
+            "18:30",
+            "19:30",
+            "20:30",
+            "21:30",
+            "22:30"
+          ],
+          "description": "Opernloft Saal\n\n18:30 – 00:00 Uhr: Opern-Slam-Marathon, Einlass jederzeit möglich\nDer Opern-Slam im Opernloft ist Kult. Und zur Theaternacht haben wir ein besonderes Special für Sie: den Opern-Slam-Marathon. Das einzigartige Spaßkonzert geht über mehrere Runden und vereint Oper, Entertainment, Witz und große Emotionen. Das Ensemble kämpft nicht nur mit seiner Stimme, sondern auch mit Humor und Herz um Ihren Applaus. Denn am Ende entscheiden Sie, wer gewinnt.\nIn verschiedenen Kategorien treten die Sänger*innen gegeneinander an. Von der großen Opernarie über den heißen Musical-Hit bis zum flotten Schlager ist alles dabei. Nach jeweils 90 Sekunden beendet ein Schiffshorn den Gesang. Die beiden Moderatorinnen achten strengstens auf die Einhaltung der Regeln und testen dabei auch das Wissen des Publikums: Wer weiß, aus welcher Oper eine Arie stammt, bekommt einen Schnaps aufs Haus. Jede Runde dauert etwa 15 Minuten. Einlass ist jederzeit möglich.\n\nOpernloft Foyer\n\n18:00 – 00:00 Uhr: Prost!\nAn unserer sieben Meter langen Bar servieren wir den Opernloft-Spritz in Weiß, Rot, Rosé und Gold. Dazu gibt es ausgewählte Weine, verschiedene Sorten Bier vom Fass und erfrischende Schorlen. Alle Getränke können Sie mit in den Saal nehmen.\n\nElbterrasse und Bistro\n\n18:00 – 00:00 Uhr: Hier wird serviert!\nAuf unserer überdachten Elbterrasse direkt am Kai genießen Sie leckeres Essen – vom knusprigen Flammkuchen bis zur feinen Lachsfrikadelle. Etwas muckeliger ist es im Bistro. Auch von dort haben Sie direkten Blick auf die Elbe. Außerdem bieten wir leckere Fischbrötchen zum Mitnehmen an.",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "schmidtchen",
+      "name": "Schmidtchen",
+      "address": "Spielbudenplatz 21-22, 20359 Hamburg",
+      "lat": 53.5492145,
+      "lng": 9.96425750000003,
+      "shows": [
+        {
+          "id": "schmidt-kindertheater-fuer-die-ganze-familie",
+          "title": "Schmidt-Kindertheater für die ganze Familie",
+          "venue": "",
+          "times": [
+            "15:00",
+            "16:00"
+          ],
+          "description": "Kindertheater? Gibt’s im Schmidtchen! Wir machen mit viel Herzblut und Liebe Theater für die ganze Familie. Gezeigt wird ein kunterbunter Mix aus den schönsten Liedern der Schmidt-Kinderstücke – mit dabei „Der achtsame Tiger“ und die Lieblingssongs aus „Der Räuber Hotzenplotz“. Außerdem erwartet euch ein improvisierter Theaterspaß mit Schauspielerin Kirsten Sprick („Die Pfefferkörner“) alias kikikustik. Carolin Spieß moderiert das fröhliche Familienprogramm voller Musik, Spaß und Theaterzauber für kleine und große Gäste.",
+          "teaser": ""
+        },
+        {
+          "id": "ein-schmidtiges-potpourri-1",
+          "title": "Ein schmidtiges Potpourri",
+          "venue": "",
+          "times": [
+            "19:00",
+            "20:00",
+            "21:00",
+            "22:00"
+          ],
+          "description": "Beste Unterhaltung, schräge Typen und jede Menge Spaß: In dieser rasanten Mixed-Show geben sich beliebte Schmidt-Künstler*innen und angesagte Comedy-Acts das Mikro in die Hand. Wortgewandt und mit viel Witz führt Schmidtchen-Gastgeber Henning Mehrtens durch den Abend und sorgt für allerbeste Stimmung. Mit dabei: Vanessa Maurischat, die mit dem Skalpell des Humors alle großen und kleinen Neurosen des Alltags seziert. Zwischen Liebeswahn und Lebensmüdigkeit jongliert sie mit Pointen, Pianotasten und psychologischer Präzision – mal bitterböse, mal berührend, aber immer herrlich komisch. Piero Masztalerz präsentiert eine einzigartige Mischung aus Live-Comedy und Animation: Dabei liefert er sich urkomische Wortgefechte mit seinen eigenen Cartoonfiguren, die längst Kult geworden sind. Und Comedian Archie Clapp sorgt mit britischem Charme, hohem Tempo und maximaler Pointendichte für einen interaktiven Comedy-Abend, der seinesgleichen sucht. Ein Muss für alle Fans des schrägen Schmidt-Humors!",
+          "teaser": ""
+        },
+        {
+          "id": "reeperbahn-royale-3",
+          "title": "Reeperbahn Royale",
+          "venue": "",
+          "times": [
+            "23:23"
+          ],
+          "description": "Ihr liebt Late Nights? Ihr habt Bock auf schräge Spiele und seid offen für jede Menge Spaß? Dann herzlich willkommen bei „Reeperbahn Royale“! Nirgendwo sind sich Show und Publikum näher als hier. Gastgeber Henning Mehrtens lädt zum Theaternacht-Special – unterstützt von Ein-Mann-Band Otto Puttel und Rockröhre Lia Joham. Comedian Archie Clapp, der mit seinem unverwechselbaren Mix aus Stand-up, Musik und Impro für zusätzliche Eskalationsstufen sorgt, spielt gemeinsam mit dem Publikum um Ruhm, Ehre und feine Preise, bis der Schmidt-Supergast feststeht, der mit einem Mega-Gewinn nach Hause geht.",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "st-pauli-theater",
+      "name": "St. Pauli Theater",
+      "address": "Spielbudenplatz 29, 20359 Hamburg",
+      "lat": 53.54911509999999,
+      "lng": 9.963043500000026,
+      "shows": [
+        {
+          "id": "theaternacht-2026-heaven-can-wait-chor",
+          "title": "Theaternacht 2026: HEAVEN CAN WAIT CHOR",
+          "venue": "",
+          "times": [
+            "23:00"
+          ],
+          "description": "Binge-Watching, nur in echt. Am 5. September 2026 wird Hamburg wieder zur Bühne: Bei der 22. Theaternacht Hamburg.\nEs öffnen wieder über 35 Bühnen eine Nacht lang ihre Türen und Vorhänge und laden zu einer einzigartigen Entdeckungsreise durch die vielfältige Theaterlandschaft der Stadt ein.Über 200 Programmpunkte laden dazu ein, neue Bühnen zu entdecken, einen Blick hinter die Kulissen zu werfen und das abwechslungsreiche Angebot der Hamburger Theater zu erleben. Von großen Bühnen bis zur freien Szene, von Schauspiel und Tanz bis Musiktheater – die Theaternacht Hamburg macht die Vielfalt des Theaters an einem Abend erlebbar.\nUnser Theaternacht-Programm:\nHEAVEN CAN WAIT CHOR\nAuf der Theaternacht präsentiert der HEAVEN CAN WAIT CHOR einen Ausschnitt aus der aktuellen Show „Jetzt erst recht!“.\n\nSeit über 10 Jahren erobert der Chor aus Hamburg die Publikumsherzen. Und weil man auch mit Ü70 nie zu alt ist, starten sie mit ihrem Programm „Jetzt erst recht!“ durch! Neu: Es werden auch selbst komponierte und getextete Lieder präsentiert. Und so rocken die (G)Oldies auch mit dem aktuellen Programm wieder die Bühne: bunt, jung und frech.",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "thalia-gaustrae",
+      "name": "Thalia Gaußstraße",
+      "address": "Gaußstraße 190, 22765 Hamburg",
+      "lat": 53.55917050000001,
+      "lng": 9.9250763,
+      "shows": [
+        {
+          "id": "hamburger-theaternacht",
+          "title": "Hamburger Theaternacht",
+          "venue": "",
+          "times": [
+            "18:00"
+          ],
+          "description": "THALIA THEATER\n19.00, Eröffnung Sonja Anders und Hajo Tuschy\n19.15–19.45, Die Kleine Meerjungfrau\n19.30–20.00, Freiflug: Möchte die Witwe angesprochen werden, platziert sie auf dem Grab die Gießkanne mit dem Ausguss nach vorne (Nachtasyl)\n19.30–22.00, Backstage-Führungen (je 40 Minuten)\n20.00–20.30, Die Kleine Meerjungfrau\n20.30–21.00, Freiflug: Preußens Glory Hole (Nachtasyl)\n21.15–21.35, The Boys Are Kissing\n21.25–21.55, Freiflug: Preußens Glory Hole (Nachtasyl)\n21.50–22.10, The Boys Are Kissing\n22.25–22.55, Ole allein zu Haus (Nachtasyl)\n22.45–24.00, Konzert Jannik Hinsch und Schlägerpunk\n00.00–03.00, Aftershowparty\n\nThalia Gaußstraße\n18.00–18.30, Club 5: Momo oder eine Reflexion über die Zeit (BOX)\n19.00–22.00, Kostümfundus-Führungen (je 30 Minuten)\n19.00–19.30, No Body\n19.45–20.15, No Body\n20.15–20.35, Kartenverlosung\n21.10–21.40, The piano has been drinking - not me!!!\n21.45–22.15, Zünzle oder die allabendlichen Brandfantasien (BOX)\n23.00–23.25, Verrückte Stunde: KÖSH (LICHTHOF Theater)\n23.35–00.00, Verrückte Stunde: ALMUT (LICHTHOF Theater)\n\nAuch in diesem Jahr wird die Theaternacht das Thalia Theater wieder in einen Ort voller Kunst, Musik und besonderer Einblicke verwandeln. Das Programm erstreckt sich von derGroßen Bühne über das Foyer bis hinauf ins Nachtasyl. Theaterführungen ermöglichen zudem Blicke hinter die Kulissen und in Werkstätten, die dem Publikum sonst verborgen bleiben.\nNach der Begrüßung auf der Großen Bühne erwachen beliebte Inszenierungen der vergangenen und aktuellen Spielzeit zum Leben: Die kleine Meerjungfrau (Regie Bastian Krafft) und The Boys Are Kissing (Regie Anne Lenk) präsentieren sich jeweils in zwei kurzen Ausschnitten. Den Abschluss auf der Großen Bühne und zugleich das musikalische Warm-up für die Aftershowparty liefert die Band Schlägerpunk von Ensemblemitglied Jannik Hinsch.\nIm Nachtasyl sind die Freiflüge Möchte die Witwe angesprochen werden, platziert sie auf dem Grab die Gießkanne mit dem Ausguss nach vorne (Szenische Einrichtung Rahel Schnitter) und Preußens Glory Hole (Szenische Einrichtung Leo Borgmann) sowie der Dauerbrenner Ole Allein zu Haus von Julian Greis zu sehen. Ab Mitternacht werden Mittelrangfoyer und Nachtasyl zur Tanzfläche: Elias Arens und Leona London aus Die kleine Meerjungfrau übernehmen die DJ-Decks und lassen die Theaternacht gemeinsam mit dem Publikum und der gesamten Theaterschar ausklingen.\nAuch zur Theaternacht öffnet das Thalia Gaußstraße seine Türen und lädt zu einem vielseitigen Programm zwischen Bühne, Backstage und Grillen im Hof ein. Zu sehen sind Ausschnitte aus der aktuellen Produktion No Body (Regie Mable Preach). Des Weiteren gewährt Ensemblemitglied Bernd Grawert Einblicke in seinen musikalischen Abend The piano has been drinking - not me!!! Tom Waits meets Ricky Lee Jones (Mit Bernd Grawert). Außerdem präsentiert der Club 5 (Leitung Victoria Raffetto Cavallo) der Künstlerischen Vermittlung seine aktuelle Inszenierung. Wer schon immer einmal den Kostümfundus des Theaters bestaunen wollte, hat bei halbstündigen Führungen die Gelegenheit dazu. Den Abschluss des Abends läutet um 23:00 Uhr „Die verrückte Stunde“ ein - den Haus-Tausch mit dem Lichthof Theater: Während das Thalia Theater dort mit der Produktion Kaputt, Lieben von Cy Linke zu Gast ist, ziehen zeitgleich Paul Behren mit ALMUT und Sofia Greben mit KÖSH in die Gaußstraße ein\n\nHinweis - Von A nach B\nMobil durch die Theaternacht Hamburg - ganz wie Du willst! Ob mit Bus, E-Rad oder E-Scooter - auch dieses Jahr kommst Du komfortabel, flexibel und nachhaltig von Bühne zu Bühne. Die Nutzung der Moja-Shuttlebusse ist im Ticktpreis enthalten. Fahrten mit dem regulären öffentlichen Nahverkehr (HVV) nicht, hierfür benötigst Du eine eigene Fahrkarte. Mehr Infos findest Du hier.",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "thalia-theater",
+      "name": "Thalia Theater",
+      "address": "Alstertor 1, 20095 Hamburg",
+      "lat": 53.55182,
+      "lng": 9.99819,
+      "shows": [
+        {
+          "id": "hamburger-theaternacht-1",
+          "title": "Hamburger Theaternacht",
+          "venue": "",
+          "times": [
+            "19:00"
+          ],
+          "description": "THALIA THEATER\n19.00, Eröffnung Sonja Anders und Hajo Tuschy\n19.15–19.45, Die Kleine Meerjungfrau\n19.30–20.00, Freiflug: Möchte die Witwe angesprochen werden, platziert sie auf dem Grab die Gießkanne mit dem Ausguss nach vorne (Nachtasyl)\n19.30–22.00, Backstage-Führungen (je 40 Minuten)\n20.00–20.30, Die Kleine Meerjungfrau\n20.30–21.00, Freiflug: Preußens Glory Hole (Nachtasyl)\n21.15–21.35, The Boys Are Kissing\n21.25–21.55, Freiflug: Preußens Glory Hole (Nachtasyl)\n21.50–22.10, The Boys Are Kissing\n22.25–22.55, Ole allein zu Haus (Nachtasyl)\n22.45–24.00, Konzert Jannik Hinsch und Schlägerpunk\n00.00–03.00, Aftershowparty\n\nThalia Gaußstraße\n18.00–18.30, Club 5: Momo oder eine Reflexion über die Zeit (BOX)\n19.00–22.00, Kostümfundus-Führungen (je 30 Minuten)\n19.00–19.30, No Body\n19.45–20.15, No Body\n20.15–20.35, Kartenverlosung\n21.10–21.40, The piano has been drinking - not me!!!\n21.45–22.15, Zünzle oder die allabendlichen Brandfantasien (BOX)\n23.00–23.25, Verrückte Stunde: KÖSH (LICHTHOF Theater)\n23.35–00.00, Verrückte Stunde: ALMUT (LICHTHOF Theater)\n\nAuch in diesem Jahr wird die Theaternacht das Thalia Theater wieder in einen Ort voller Kunst, Musik und besonderer Einblicke verwandeln. Das Programm erstreckt sich von derGroßen Bühne über das Foyer bis hinauf ins Nachtasyl. Theaterführungen ermöglichen zudem Blicke hinter die Kulissen und in Werkstätten, die dem Publikum sonst verborgen bleiben.\nNach der Begrüßung auf der Großen Bühne erwachen beliebte Inszenierungen der vergangenen und aktuellen Spielzeit zum Leben: Die kleine Meerjungfrau (Regie Bastian Krafft) und The Boys Are Kissing (Regie Anne Lenk) präsentieren sich jeweils in zwei kurzen Ausschnitten. Den Abschluss auf der Großen Bühne und zugleich das musikalische Warm-up für die Aftershowparty liefert die Band Schlägerpunk von Ensemblemitglied Jannik Hinsch.\nIm Nachtasyl sind die Freiflüge Möchte die Witwe angesprochen werden, platziert sie auf dem Grab die Gießkanne mit dem Ausguss nach vorne (Szenische Einrichtung Rahel Schnitter) und Preußens Glory Hole (Szenische Einrichtung Leo Borgmann) sowie der Dauerbrenner Ole Allein zu Haus von Julian Greis zu sehen. Ab Mitternacht werden Mittelrangfoyer und Nachtasyl zur Tanzfläche: Elias Arens und Leona London aus Die kleine Meerjungfrau übernehmen die DJ-Decks und lassen die Theaternacht gemeinsam mit dem Publikum und der gesamten Theaterschar ausklingen.\nAuch zur Theaternacht öffnet das Thalia Gaußstraße seine Türen und lädt zu einem vielseitigen Programm zwischen Bühne, Backstage und Grillen im Hof ein. Zu sehen sind Ausschnitte aus der aktuellen Produktion No Body (Regie Mable Preach). Des Weiteren gewährt Ensemblemitglied Bernd Grawert Einblicke in seinen musikalischen Abend The piano has been drinking - not me!!! Tom Waits meets Ricky Lee Jones (Mit Bernd Grawert). Außerdem präsentiert der Club 5 (Leitung Victoria Raffetto Cavallo) der Künstlerischen Vermittlung seine aktuelle Inszenierung. Wer schon immer einmal den Kostümfundus des Theaters bestaunen wollte, hat bei halbstündigen Führungen die Gelegenheit dazu. Den Abschluss des Abends läutet um 23:00 Uhr „Die verrückte Stunde“ ein - den Haus-Tausch mit dem Lichthof Theater: Während das Thalia Theater dort mit der Produktion Kaputt, Lieben von Cy Linke zu Gast ist, ziehen zeitgleich Paul Behren mit ALMUT und Sofia Greben mit KÖSH in die Gaußstraße ein\n\nHinweis - Von A nach B\nMobil durch die Theaternacht Hamburg - ganz wie Du willst! Ob mit Bus, E-Rad oder E-Scooter - auch dieses Jahr kommst Du komfortabel, flexibel und nachhaltig von Bühne zu Bühne. Die Nutzung der Moja-Shuttlebusse ist im Ticktpreis enthalten. Fahrten mit dem regulären öffentlichen Nahverkehr (HVV) nicht, hierfür benötigst Du eine eigene Fahrkarte. Mehr Infos findest Du hier.",
+          "teaser": ""
+        },
+        {
+          "id": "aftershowparty-der-hamburger-theaternacht",
+          "title": "Aftershowparty der Hamburger Theaternacht",
+          "venue": "",
+          "times": [
+            "23:59"
+          ],
+          "description": "Was wäre eine Theaternacht ohne eine ausgelassene Aftershowparty? Besucher*innen und Theaterschaffende feiern gemeinsam den Ausklang des Abends – in diesem Jahr ab 00.00 Uhr im Thalia Theater. Das Theater wird zum Dancefloor wenn der DJ an den Turntables steht – perfekte Voraussetzungen für einen unvergesslichen Abschluss der Theaternacht Hamburg. Der Eintritt zur Party ist im regulären Theaternacht-Ticket enthalten. Wer ausschließlich zur Aftershowparty möchte, kann ein separates Ticket für 10 Euro erwerben.\n\nLeona London (Mittelrangfoyer)\nLeona London bringt jede Tanzfläche zum Strahlen. Mit einer mitreißenden Mischung aus Pop, Classics, Eurovision-Hits, Queer Pop und Dance sorgt sie für beste Stimmung und unvergessliche Nächte. Bereits beim Harbour Pride im Rahmen des Hamburger Hafengeburtstags begeisterte sie das Publikum und stand ebenso hinter den Decks der MainStage des Hamburger CSD.\nAuch im Hamburger Nachtleben ist Leona keine Unbekannte: Regelmäßig versorgt sie die Gäste der legendären und wohl bekanntesten queeren Bar Hamburgs, der WunderBar, mit den besten Tunes – von kultigen Klassikern bis zu aktuellen Dancefloor-Hymnen. Wo Leona London auflegt, sind gute Laune, volle Tanzflächen und jede Menge Glitzer garantiert.\n\nStormy Denials alias Elias Arens (Nachtasyl)\nDen Untiefen des Pink Dolphin Club entsprungen, streift Stormy Denials ihre Meerjungfrauenflosse ab und serviert einen groovegeladenen Mix. Funkige Elemente und Hip-Hop Einflüsse treffen auf rollende Basslines und treibende Beats. Ein verspielter Wellengang für alle, die sich im Wandel und in der Bewegung zu Hause fühlen.",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "the-english-theatre",
+      "name": "The English Theatre",
+      "address": "Lerchenfeld 14, 22081 Hamburg",
+      "lat": 53.5695439,
+      "lng": 10.028873400000066,
+      "shows": [
+        {
+          "id": "the-picture-of-dorian-gray-by-oscar-wilde",
+          "title": "The Picture of Dorian Gray by Oscar Wilde",
+          "venue": "",
+          "times": [
+            "19:30",
+            "20:30",
+            "21:30",
+            "22:30",
+            "23:30"
+          ],
+          "description": "the picture of dorian gray\nby Oscar Wilde\nadapted by Merlin Holland and John O’Connor\ndirected by Paul Glaser\n4 September – 31 October 2026\n\nThe timeless masterpiece!\nFew plays have stood the test of time quite like this one: Oscar Wilde’s classic THE PICTURE OF DORIAN GRAY needs little introduction. Adapted by Merlin Holland and John O’Connor, this exceptional tale is coming to the stage.\nDorian Gray, young, handsome, and innocent, makes the fateful decision to immortalize his beauty in a portrait of himself. Over the years, he remains untouched by the ravages of time, while the painting ages in his stead. But can this choice really have no consequences?\nBrimming with Wilde’s wit and sharp dialogue, the play asks what the true cost of excess and hedonism really is when the consequences are ignored.\nTHE PICTURE OF DORIAN GRAY will captivate you from the moment you sit down, and then slowly and quietly send a chill down your spine. Hauntingly beautiful – you shouldn’t miss this theatrical gem!",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "theater-an-der-marschnerstrae",
+      "name": "Theater an der Marschnerstraße",
+      "address": "Marschnerstraße 46, 22081 Hamburg",
+      "lat": 53.57374,
+      "lng": 10.04005,
+      "shows": [
+        {
+          "id": "ausblick-auf-die-spielzeit-202627-1",
+          "title": "Ausblick auf die Spielzeit 2026/27",
+          "venue": "",
+          "times": [
+            "19:00",
+            "20:00",
+            "21:00",
+            "22:00"
+          ],
+          "description": "Die Ensemble des Theater an der Marschnerstrasse zeigen Ausschnitte aus den ersten Stücken der Spielzeit 2026/27:\nDer Hund der Baskervilles - Krimi von Thomas Birkmeir\n\nSophie - Schauspiel von Roos Ouvehand\n\nViel Lärm um nichts - Komödie von William Shakespeare\n\nDracula - Schauspiel von Johannes Kaetzler\n\nund die Hamburg Players-Improv - auf Englisch",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "theaterdeck-hamburg",
+      "name": "Theaterdeck Hamburg",
+      "address": "Maurienstraße 19, 22305 Hamburg",
+      "lat": 53.5859,
+      "lng": 10.045,
+      "shows": [
+        {
+          "id": "auszuege-aus-unseren-stuecken",
+          "title": "Michel aus Lönnberga - Szenenschnipsel zum Vorfreuen",
+          "venue": "",
+          "times": [
+            "15:45",
+            "16:30"
+          ],
+          "description": "Das Theaterdeck Hamburg ist ein lebendiger Ort für Kreativität und Begegnung – im Herzen von Barmbek, in der historischen Zinnschmelze. Seit seiner Wiedereröffnung 2015 bereichert es die Hamburger Kulturszene mit Energie, Vielfalt und Offenheit. Auf dem Spielplan stehen Theaterstücke, Workshops und Kurse, die Lust machen, Neues auszuprobieren und gemeinsam Kunst zu erleben. Ob professionell inszenierte Produktionen oder Improvisationstheater für Jugendliche – hier trifft Leidenschaft auf Engagement, Spielfreude auf künstlerische Vielfalt. Offen, inklusiv und immer im Austausch: Wir machen Theater mit Liebe zum Detail und dem Ton, der mitten ins Herz trifft.\nUnser Programm für die Theaternacht:\n\n15:45 bis ca.16:15 Auszüge aus MICHEL AUS LÖNNEBERGA\n\nmit anschließendem Gespräch und Fotomoment mit Michel, Ida und allen anderen\n16:30 bis ca.17:00 Auszüge aus MICHEL AUS LÖNNEBERGA\n\nmit anschließendem Gespräch und Fotomoment mit Michel, Ida und allen anderen\n17:30 bis ca.18:00 Auszüge aus DUNKELNACHT von Kirsten Boie (empfohlen ab 13 Jahren)\n\nmit anschließendem Gespräch mit den Schauspielenden und dem Regisseur\n18:15 bis ca.18:45 Auszüge aus DUNKELNACHT von Kirsten Boie (empfohlen ab 13 Jahren)\n\nmit anschließendem Gespräch mit den Schauspielenden und dem Regisseur\n19:15 bis ca. 19:40 Auszüge aus SCHIMMELREITER nach Theador Storm\n\nmit anschließendem Gespräch mit den Schauspielenden und dem Regisseur\n15:30 bis 20:00 Verschnaufen in unserem Waffelkaffe auf der Studiobühne\nUnser Zuschauerraum ist klein, die Anzahl der Plätze ist begrenzt. Ein Einlass nach Beginn der Darbietung ist nur begrenzt möglich.",
+          "teaser": ""
+        },
+        {
+          "id": "auszuege-aus-unseren-stuecken-1",
+          "title": "Dunkelnacht - Eindrücke und Gespräch",
+          "venue": "",
+          "times": [
+            "17:30",
+            "18:15"
+          ],
+          "description": "Das Theaterdeck Hamburg ist ein lebendiger Ort für Kreativität und Begegnung – im Herzen von Barmbek, in der historischen Zinnschmelze. Seit seiner Wiedereröffnung 2015 bereichert es die Hamburger Kulturszene mit Energie, Vielfalt und Offenheit. Auf dem Spielplan stehen Theaterstücke, Workshops und Kurse, die Lust machen, Neues auszuprobieren und gemeinsam Kunst zu erleben. Ob professionell inszenierte Produktionen oder Improvisationstheater für Jugendliche – hier trifft Leidenschaft auf Engagement, Spielfreude auf künstlerische Vielfalt. Offen, inklusiv und immer im Austausch: Wir machen Theater mit Liebe zum Detail und dem Ton, der mitten ins Herz trifft.\nUnser Programm für die Theaternacht:\n\n15:45 bis ca.16:15 Auszüge aus MICHEL AUS LÖNNEBERGA\n\nmit anschließendem Gespräch und Fotomoment mit Michel, Ida und allen anderen\n16:30 bis ca.17:00 Auszüge aus MICHEL AUS LÖNNEBERGA\n\nmit anschließendem Gespräch und Fotomoment mit Michel, Ida und allen anderen\n17:30 bis ca.18:00 Auszüge aus DUNKELNACHT von Kirsten Boie (empfohlen ab 13 Jahren)\n\nmit anschließendem Gespräch mit den Schauspielenden und dem Regisseur\n18:15 bis ca.18:45 Auszüge aus DUNKELNACHT von Kirsten Boie (empfohlen ab 13 Jahren)\n\nmit anschließendem Gespräch mit den Schauspielenden und dem Regisseur\n19:15 bis ca. 19:40 Auszüge aus SCHIMMELREITER nach Theador Storm\n\nmit anschließendem Gespräch mit den Schauspielenden und dem Regisseur\n15:30 bis 20:00 Verschnaufen in unserem Waffelkaffe auf der Studiobühne\nUnser Zuschauerraum ist klein, die Anzahl der Plätze ist begrenzt. Ein Einlass nach Beginn der Darbietung ist nur begrenzt möglich.",
+          "teaser": ""
+        },
+        {
+          "id": "theaternacht-hamburg-19",
+          "title": "Schimmelreiter - Eindrücke und Gespräch",
+          "venue": "",
+          "times": [
+            "19:15"
+          ],
+          "description": "Das Theaterdeck Hamburg ist ein lebendiger Ort für Kreativität und Begegnung – im Herzen von Barmbek, in der historischen Zinnschmelze. Seit seiner Wiedereröffnung 2015 bereichert es die Hamburger Kulturszene mit Energie, Vielfalt und Offenheit. Auf dem Spielplan stehen Theaterstücke, Workshops und Kurse, die Lust machen, Neues auszuprobieren und gemeinsam Kunst zu erleben. Ob professionell inszenierte Produktionen oder Improvisationstheater für Jugendliche – hier trifft Leidenschaft auf Engagement, Spielfreude auf künstlerische Vielfalt. Offen, inklusiv und immer im Austausch: Wir machen Theater mit Liebe zum Detail und dem Ton, der mitten ins Herz trifft.\nUnser Programm für die Theaternacht:\n\n15:45 bis ca.16:15 Auszüge aus MICHEL AUS LÖNNEBERGA\n\nmit anschließendem Gespräch und Fotomoment mit Michel, Ida und allen anderen\n16:30 bis ca.17:00 Auszüge aus MICHEL AUS LÖNNEBERGA\n\nmit anschließendem Gespräch und Fotomoment mit Michel, Ida und allen anderen\n17:30 bis ca.18:00 Auszüge aus DUNKELNACHT von Kirsten Boie (empfohlen ab 13 Jahren)\n\nmit anschließendem Gespräch mit den Schauspielenden und dem Regisseur\n18:15 bis ca.18:45 Auszüge aus DUNKELNACHT von Kirsten Boie (empfohlen ab 13 Jahren)\n\nmit anschließendem Gespräch mit den Schauspielenden und dem Regisseur\n19:15 bis ca. 19:40 Auszüge aus SCHIMMELREITER nach Theador Storm\n\nmit anschließendem Gespräch mit den Schauspielenden und dem Regisseur\n15:30 bis 20:00 Verschnaufen in unserem Waffelkaffe auf der Studiobühne\nUnser Zuschauerraum ist klein, die Anzahl der Plätze ist begrenzt. Ein Einlass nach Beginn der Darbietung ist nur begrenzt möglich.",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "theaterschiff-hamburg",
+      "name": "Theaterschiff Hamburg",
+      "address": "Holzbrücke 2, 20459 Hamburg",
+      "lat": 53.5468457,
+      "lng": 9.988795099999999,
+      "shows": [
+        {
+          "id": "theaternacht-2026-work-life-what",
+          "title": "Work Life What?",
+          "venue": "",
+          "times": [
+            "19:00",
+            "19:45"
+          ],
+          "description": "Comedy. Kabarett. Beatbox.\nDas gab’s noch nie: Comedy, Kabarett & Beatbox! Ein neues Dreamteam erobert die Comedy-Bühnen: Beatbox-Weltmeister Mando Beatbox, Wortakrobat Daniel Heinz und Stand-up-Kabarettist Michael Frowin. Drei Männer. Eine Panne. Kein Empfang. Und die Frage aller Fragen: War’s das schon – oder kommt noch was im Leben? Daniel und Michael stranden im runtergekommenen „Hotel California“. Zwischen Karriere, Krise und Klangschale kämpfen sie mit dem täglichen Spagat des Lebens:  Getrieben von „Ich muss“ und „Ich muss loslassen“. Ein Comedy-Abenteuer zwischen Lotusblüte und Lachflash. Lachen garantiert – Erleuchtung optional.",
+          "teaser": ""
+        },
+        {
+          "id": "theaternacht-2026",
+          "title": "Desperate Boatwives",
+          "venue": "",
+          "times": [
+            "20:30",
+            "21:15",
+            "22:00"
+          ],
+          "description": "Comedy, Drama & Show\n\nDiese Show zeigt, was auf unserer kleinen Bühne möglich ist! Drei Frauen, zwei Ziele, ein Schiff und null Plan. Eigentlich wollten die Freundinnen nur ein entspanntes Mädels-Wochenende verbringen – mit Aperol und ohne Abenteuer. Doch dann erfahren sie, dass die gebuchte Showtruppe das Schiff verwechselt hat. Dumm für die Showtruppe, genial für die drei Freundinnen: Sie waren vor Jahren auf Pellworm doch erfolgreiche Stars! Und heute feiern sie ihr Comeback! Was als kleiner Spaß beginnt, läuft völlig aus dem Ruder. Ein Wellenritt aus Pailletten, falschen Wimpern und Tanzschritten, die man so nur auf Pellworm kennt.",
+          "teaser": ""
+        },
+        {
+          "id": "theaternacht-2026-1",
+          "title": "Verrückte Stunde mit dem Ernst Deutsch Theater",
+          "venue": "",
+          "times": [
+            "23:00",
+            "23:45"
+          ],
+          "description": "Auf ein Käffchen mit einem Wehrdienstverweigerer\n\nSchon vor der Premiere geben Daniel Schütter, Olivier David und Co. Einblick ins neue Stück “Nur über meine Leiche”. Erleben Sie Ausschnitte aus dem Stück, erfahren Sie Wissenswertes zum Konzept und zu den beteiligten Künstler*innen. Freuen Sie sich auf ausgeplauderte Geheimnisse, spannende Backstage-Stories und tolle Begegnungen.",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "wiese-e-g",
+      "name": "WIESE e.G.",
+      "address": "Wiesendamm 24, 22305 Hamburg",
+      "lat": 53.5877,
+      "lng": 10.0383,
+      "shows": [
+        {
+          "id": "minotauros-goes-musical",
+          "title": "Minotauros goes Musical",
+          "venue": "",
+          "times": [
+            "19:00",
+            "20:00",
+            "21:00"
+          ],
+          "description": "Das Theaterensemble der Elbe-Werkstätten GmbH aus Hamburg wurde 1999 von Olga Brandin gegründet. Spätestens seit der Leitungsübernahme durch Moritz Schilk (2022) verortet sich die Kompanie in der Tradition der Hamburger Sprechtheater und nimmt damit eine einzigartige Rolle in der deutschsprachigen Theaterlandschaft ein. Sie versteht sich mit ihrem professionellen Wirken als Botschafterin für eine inklusivere Gesellschaft – Kunst um der Kultur willen!\nNeben den aktuellen Produktionen wie Pilks Irrenhaus nach Ken Campbell und ihrem allseits beliebten Revue à la carte-Programm, stellt sich die Kompanie in diesem Jahr einer besonderen Herausforderung: eine Musical-Performancenummer.\nZum allerersten Mal in der 27-jährigen Geschichte erarbeiten die Schauspieler:innen der Kompanie ein Bühnenstück, welches gleichermaßen aus den Elementen Gesang, Tanz und Schauspiel besteht. Zu sehen gibt es einen Ausschnitt aus Cats von Andrew Lloyd-Webber. Dabei versuchen sie nicht, das Original zu kopieren, sondern inszenieren die Nummer auf ihre ganz persönliche Art und Weise – dem typisch-schrägen Minotauros-Stil.\nEine besondere Herausforderung besteht darin, Figuren darzustellen, die keine Menschen sind, sondern Tiere mit menschlichen Eigenschaften und Verhaltensweisen.\nIm Mittelpunkt steht dabei die Frage: Was ist menschlich – und was nicht-menschlich? Eine Frage, die gerade in einer Gesellschaft, die nach Inklusion strebt, neue Perspektiven eröffnet.\nLasst euch überraschen!",
+          "teaser": ""
+        }
+      ]
+    }
+  ]
+}
