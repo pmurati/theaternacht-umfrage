@@ -1,0 +1,2138 @@
+{
+  "generated_at": "2026-08-22T16:32:14+00:00",
+  "source_url": "https://theater-hamburg.org/downloads/theaternacht_hamburg_programmheft_2026.pdf",
+  "theaters": [
+    {
+      "id": "alma-hoppes-lustspielhaus",
+      "name": "Alma Hoppes Lustspielhaus",
+      "address": "Ludolfstraße 53, 20249 Hamburg",
+      "lat": 53.5930603,
+      "lng": 9.99274509999998,
+      "shows": [
+        {
+          "id": "das-kabarett-alma-hoppe",
+          "title": "Das Kabarett Alma Hoppe",
+          "venue": "",
+          "times": [
+            "22:00"
+          ],
+          "description": "präsentiert Aktuelles und Zugespitztes mit hohem Spaßfaktor und Auszüge aus ihren aktuellen Programmen. Satire pur: Immer einen Tick echter als die Wirklichkeit.",
+          "teaser": ""
+        },
+        {
+          "id": "kabarett-alma-hoppe-live",
+          "title": "Kabarett Alma Hoppe live",
+          "venue": "",
+          "times": [
+            "23:00",
+            "00:00"
+          ],
+          "description": "Sie sind das Genetische am Konflikt und das Demografische am Faktor. Mit einer beachtlichen Bereitschaft zur gegenseitigen Demontage liefern die beiden ein Wortgefecht voller Pointen und Abgründe.",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "altonaer-theater",
+      "name": "Altonaer Theater",
+      "address": "Museumstraße 17, 22765 Hamburg",
+      "lat": 53.54839,
+      "lng": 9.93461000000002,
+      "shows": [
+        {
+          "id": "ronja-raubertochter",
+          "title": "Ronja Räubertochter",
+          "venue": "",
+          "times": [
+            "18:00",
+            "18:30"
+          ],
+          "description": "– nach Astrid Lindgren. Mehr als eine Räubergeschichte: Auf spielerische Weise werden Themen wie Gerechtigkeit, Freundschaft und Familie verhandelt. Und die Kleinen zeigen den Großen einmal mehr, wie Versöhnung funktionieren kann.",
+          "teaser": ""
+        },
+        {
+          "id": "sturmhohe",
+          "title": "Sturmhöhe",
+          "venue": "",
+          "times": [
+            "19:00",
+            "21:30"
+          ],
+          "description": "– nach Emily Brontë. Auf den windgepeitschten Mooren Englands entspinnt sich eine Liebe voller Sehnsucht und Eifersucht. Das packende Drama ist vielen bekannt durch seine zahlreichen Verfilmungen und den berühmten Popsong von Kate Bush. Erlebe eines der spannendsten Werke der britischen Literatur bei uns auf der Bühne!",
+          "teaser": ""
+        },
+        {
+          "id": "achtsam-morden",
+          "title": "Achtsam morden",
+          "venue": "",
+          "times": [
+            "19:30"
+          ],
+          "description": "– nach Karsten Dusse. Der erste Teil unserer enorm erfolgreichen Serie über einen Rechtsanwalt, der mit viel Humor versucht Achtsamkeitsseminar und organisierte Kriminalität unter einen Hut zu bringen.",
+          "teaser": ""
+        },
+        {
+          "id": "22-bahnen",
+          "title": "22 Bahnen",
+          "venue": "",
+          "times": [
+            "20:00"
+          ],
+          "description": "– nach Caroline Wahl. Zwei junge Schwestern suchen ihren Weg zwischen Verantwortung, Familie und Freiheit – eine wunderschöne und berührende Geschichte. Caroline Wahl schrieb mit 22 Bahnen den großen Bestseller der jüngsten Zeit!",
+          "teaser": ""
+        },
+        {
+          "id": "das-kind-in-mir-will-achtsam-morden",
+          "title": "Das Kind in mir will achtsam morden",
+          "venue": "",
+          "times": [
+            "20:30"
+          ],
+          "description": "– nach Karsten Dusse. Wegen des großen Erfolges wird auch in der neuen Saison weiter achtsam gemordet. Im zweiten Teil stellt sich Björn Diemel seinem inneren Kind. Werde wieder von drei Schauspieler*innen in unzähligen witzigen Rollen überrascht.",
+          "teaser": ""
+        },
+        {
+          "id": "der-club-der-toten-dichter",
+          "title": "Der Club der toten Dichter",
+          "venue": "",
+          "times": [
+            "21:00",
+            "22:00"
+          ],
+          "description": "– von Tom Schulman. Eins unserer beliebtesten Stücke! Ein unkonventioneller Lehrer inspiriert seine Schüler, Traditionen zu hinterfragen und den Mut zu finden, ihr eigenes Leben zu gestalten.",
+          "teaser": ""
+        },
+        {
+          "id": "achtsam-morgen-durch-bewusste-ernahrung",
+          "title": "Achtsam morgen durch bewusste Ernährung",
+          "venue": "",
+          "times": [
+            "22:30"
+          ],
+          "description": "– nach Karsten Dusse. Ein weiterer Teil der kultigen Romanreihe: Dieses Mal kämpft Björn Diemel zwischen Ernährungsberatung und Achtsamkeitscoaching mit neuen schwerwiegenden Herausforderungen. Zum Brüllen komisch!",
+          "teaser": ""
+        },
+        {
+          "id": "karaoke-im-cafe-oelsner",
+          "title": "Karaoke im Café Oelsner",
+          "venue": "",
+          "times": [
+            "23:00"
+          ],
+          "description": "Sing mit uns aus ganzem Herzen oder lass den Abend entspannt bei einem Drink an der Bar ausklingen.",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "ballettzentrum-hamburg-john-neumeier",
+      "name": "Ballettzentrum Hamburg – John Neumeier",
+      "address": "Caspar-Voght-Straße 54, 20535 Hamburg",
+      "lat": null,
+      "lng": null,
+      "shows": [
+        {
+          "id": "proben-der-compagnie-des-hamburg-ballett",
+          "title": "Proben der Compagnie des Hamburg Ballett",
+          "venue": "",
+          "times": [
+            "18:00"
+          ],
+          "description": "",
+          "teaser": ""
+        },
+        {
+          "id": "training-mit-schuler-innen-der-ballettschule-des-hamburg-ballett",
+          "title": "Training mit Schüler*innen der Ballettschule des Hamburg Ballett",
+          "venue": "",
+          "times": [
+            "18:00"
+          ],
+          "description": "",
+          "teaser": ""
+        },
+        {
+          "id": "tanz-mitmachprogramm",
+          "title": "Tanz-Mitmachprogramm",
+          "venue": "",
+          "times": [
+            "18:00"
+          ],
+          "description": "für Kinder, Jugendliche und Erwachsene. Keine Tanzvorkenntnisse erforderlich.",
+          "teaser": ""
+        },
+        {
+          "id": "q-a-mit-kunstlerischem-ballettdirektor-lloyd-riggins-und-geschaftsfuhrendem-ballettbetriebsdirektor-nicolas-hartmann",
+          "title": "Q&A mit Künstlerischem Ballettdirektor Lloyd Riggins und Geschäftsführendem Ballettbetriebsdirektor Nicolas Hartmann",
+          "venue": "",
+          "times": [
+            "18:00"
+          ],
+          "description": "Was du die Ballettdirektion schon immer fragen wolltest.",
+          "teaser": ""
+        },
+        {
+          "id": "einblick-in-die-arbeit-des-bundesjugendballett-john-neumeier",
+          "title": "Einblick in die Arbeit des Bundesjugendballett John Neumeier",
+          "venue": "",
+          "times": [
+            "21:00"
+          ],
+          "description": "",
+          "teaser": ""
+        },
+        {
+          "id": "inside-out",
+          "title": "Inside out",
+          "venue": "",
+          "times": [
+            "21:00"
+          ],
+          "description": "Eine Tanzvorstellung ohne Publikum – geht das? Nur, wenn die Zuschauer*innen selbst zu Akteur*innen werden! Bei Inside Out trägt jede*r Teilnehmer*in Kopfhörer, über die Aufgaben zum Mitmachen abgespielt werden. Jede*r tanzt für sich, aber alle tanzen zusammen. Keine Tanzvorkenntnisse erforderlich.",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "centralkomitee",
+      "name": "Centralkomitee",
+      "address": "Steindamm 45, 20099 Hamburg",
+      "lat": 53.5548548,
+      "lng": 10.0144556,
+      "shows": [
+        {
+          "id": "stand-up-komitee",
+          "title": "Stand Up Komitee",
+          "venue": "",
+          "times": [
+            "19:00",
+            "20:30",
+            "22:00",
+            "23:30"
+          ],
+          "description": "Lennart Hamann, Anna Bartling, Hinnerk Köhn und Hannes Maaß laden ein zu vier Shows in einer Nacht. Bei der Theaternacht Hamburg präsentieren sie dir ihr bestes Material. 4x eine 3/4 Stunde Programm, 4x Lachen garantiert mit Pointen, Punchlines, Anekdoten und Impro. Die ganze Nacht nur für dich – das Stand Up Komitee bei der Theaternacht Hamburg.",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "deutsches-schauspielhaus",
+      "name": "Deutsches SchauSpielHaus",
+      "address": "Kirchenallee 39, 20099 Hamburg",
+      "lat": 53.5543,
+      "lng": 10.0085,
+      "shows": [
+        {
+          "id": "fundus-flohmarkt-und-tombola",
+          "title": "Fundus-Flohmarkt und Tombola",
+          "venue": "MalerSaal Gang und Parkett-Umgang",
+          "times": [
+            "19:00"
+          ],
+          "description": "",
+          "teaser": ""
+        },
+        {
+          "id": "scenes-from-a-perfect-sky",
+          "title": "Scenes from A Perfect Sky",
+          "venue": "Große Bühne",
+          "times": [
+            "19:00",
+            "20:00",
+            "21:00"
+          ],
+          "description": "... das Leben vor und nach Google: Ausschnitte aus dem Theater-Tanz-Abend A Perfect Sky von Falk Richter und Anouk van Dijk.",
+          "teaser": ""
+        },
+        {
+          "id": "requisiten-show",
+          "title": "Requisiten-Show",
+          "venue": "MalerSaal",
+          "times": [
+            "19:30",
+            "20:30",
+            "21:30"
+          ],
+          "description": "Das Requisiten-Team enthüllt seine geheimsten Tricks und Illusionen – nichts für schwache Nerven!",
+          "teaser": ""
+        },
+        {
+          "id": "lipstick-quings-revolution-in-concert",
+          "title": "Lipstick Quings Revolution in Concert",
+          "venue": "RangFoyer",
+          "times": [
+            "19:30",
+            "20:30",
+            "21:30"
+          ],
+          "description": "less, Micha Krause und Henrik Wehnert performen brandneue Songs aus der Produktion – lyrisch, bunt, unverschämt, empowernd und queer-feministisch!",
+          "teaser": ""
+        },
+        {
+          "id": "n8linie",
+          "title": "N8Linie",
+          "venue": "Kantine",
+          "times": [
+            "19:30",
+            "20:30",
+            "21:30"
+          ],
+          "description": "Vorschau auf das neue Nachtformat. Die N8Linie wird Klub, Konzertbühne, Kellersalon, Kommunikationsraum und Kunstkneipe zugleich. Was genau passiert, bleibt offen. Dass etwas passiert, ist sicher.",
+          "teaser": ""
+        },
+        {
+          "id": "hausfuhrungen",
+          "title": "Hausführungen",
+          "venue": "diverse Orte",
+          "times": [
+            "19:30",
+            "20:30",
+            "21:30"
+          ],
+          "description": "hinter und unter die Kulissen. Treffpunkt: Foyer",
+          "teaser": ""
+        },
+        {
+          "id": "schauspielhaus-band-live",
+          "title": "SchauSpielHaus-Band LIVE",
+          "venue": "Große Bühne",
+          "times": [
+            "22:30"
+          ],
+          "description": "Das Ensemble lädt ein zum Konzert im schönsten Saal Hamburgs.",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "die-hamburgische-staatsoper",
+      "name": "Die Hamburgische Staatsoper",
+      "address": "Dammtorstraße 28, 20354 Hamburg",
+      "lat": null,
+      "lng": null,
+      "shows": [
+        {
+          "id": "kartenverkauf-von-sonderkontingenten",
+          "title": "Kartenverkauf von Sonderkontingenten",
+          "venue": "Eingangsfoyer",
+          "times": [
+            "18:00"
+          ],
+          "description": "",
+          "teaser": ""
+        },
+        {
+          "id": "oper-ballet-orchester-premieren-und-programm-der-spielzeit-2026-2027",
+          "title": "Oper / Ballet / Orchester: Premieren und Programm der Spielzeit 2026/2027",
+          "venue": "Foyer",
+          "times": [
+            "18:00"
+          ],
+          "description": "werden an individuell gestalteten Einzeltischen von Stückpat*innen präsentiert.",
+          "teaser": ""
+        },
+        {
+          "id": "kammermusik-philharmonisches-staatsorchester-hamburg",
+          "title": "Kammermusik, Philharmonisches Staatsorchester Hamburg",
+          "venue": "Stifterlounge und Foyer 2. Rang",
+          "times": [
+            "19:00"
+          ],
+          "description": "",
+          "teaser": ""
+        },
+        {
+          "id": "offene-probe-der-oper-macbeth",
+          "title": "Offene Probe der Oper Macbeth",
+          "venue": "Hauptbühne",
+          "times": [
+            "19:00",
+            "20:30"
+          ],
+          "description": "von Giuseppe Verdi. Tobias Kratzer, Tomáš Hanus, Solist*innen: Kartal Karagedik, Nino Machaidze u.a., Chor der Hamburgischen Staatsoper, Philharmonisches Staatsorchester. Wo ist der Mensch amoralischen Schicksalsmächten unterworfen? Wo beginnen Entscheidungsfreiheit und persönliche Schuld? Verdis erste Shakespeare-Oper zeigt Macbeth und Lady Macbeth als inniges Paar, verbunden in einer Liebe, die sie gemeinsam Morde begehen lässt. Trotz ihres nachtschwarzen Grundgestus enthält die Partitur zarte Momente der Wärme und Zuneigung. Ein spannungsreicher Spielzeit-Auftakt voller großem, italienischem Gesang!",
+          "teaser": ""
+        },
+        {
+          "id": "philharmonic-clowns",
+          "title": "Philharmonic Clowns",
+          "venue": "Foyer 2. Rang",
+          "times": [
+            "22:00"
+          ],
+          "description": "",
+          "teaser": ""
+        },
+        {
+          "id": "dj-auf-der-dachterrasse",
+          "title": "DJ auf der Dachterrasse",
+          "venue": "Stifterlounge",
+          "times": [
+            "22:00"
+          ],
+          "description": "",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "ernst-deutsch-theater",
+      "name": "Ernst Deutsch Theater",
+      "address": "Friedrich-Schütter-Platz 1, 22087 Hamburg",
+      "lat": 53.56938,
+      "lng": 10.02641,
+      "shows": [
+        {
+          "id": "musikalische-einstimmung",
+          "title": "Musikalische Einstimmung",
+          "venue": "Foyer",
+          "times": [
+            "18:00"
+          ],
+          "description": "",
+          "teaser": ""
+        },
+        {
+          "id": "flashmob-des-bundesjugendballett",
+          "title": "Flashmob des Bundesjugendballett",
+          "venue": "Vorplatz",
+          "times": [
+            "18:30"
+          ],
+          "description": "",
+          "teaser": ""
+        },
+        {
+          "id": "der-geizige",
+          "title": "Der Geizige",
+          "venue": "Hauptbühne",
+          "times": [
+            "19:00"
+          ],
+          "description": "Ausschnitt aus dem Publikumshit, der 2027 wieder bei uns zu sehen ist.",
+          "teaser": ""
+        },
+        {
+          "id": "don-quijote",
+          "title": "Don Quijote",
+          "venue": "LABOR",
+          "times": [
+            "19:00",
+            "20:00"
+          ],
+          "description": "Vorsicht, verwirrte (?) Ritter! Komödien-Ausschnitt nach Miguel de Cervantes.",
+          "teaser": ""
+        },
+        {
+          "id": "ein-kaffchen-mit-clockwork-orange",
+          "title": "Ein Käffchen mit Clockwork Orange",
+          "venue": "Hauptbühne",
+          "times": [
+            "19:30"
+          ],
+          "description": "Backstage-Stories und Einblicke ins Stück.",
+          "teaser": ""
+        },
+        {
+          "id": "das-bundesjugendballett",
+          "title": "Das Bundesjugendballett",
+          "venue": "LABOR",
+          "times": [
+            "19:30"
+          ],
+          "description": "Begeistert mit einem Ausschnitt aus seinem vielfältigen Repertoire.",
+          "teaser": ""
+        },
+        {
+          "id": "windstarke-17",
+          "title": "Windstärke 17",
+          "venue": "Hauptbühne",
+          "times": [
+            "20:00",
+            "22:30"
+          ],
+          "description": "Ausschnitt aus Ayla Yeginers Inszenierung nach dem Buch von Caroline Wahl.",
+          "teaser": ""
+        },
+        {
+          "id": "ein-kaffchen-mit-einem-wehrdienstverweigerer",
+          "title": "Ein Käffchen mit einem Wehrdienstverweigerer",
+          "venue": "Hauptbühne",
+          "times": [
+            "20:30"
+          ],
+          "description": "Was experimentieren Daniel Schütter, Olivier David und Co. unter dem Titel Nur über meine Leiche im neuen EDT LABOR?",
+          "teaser": ""
+        },
+        {
+          "id": "das-elbe-vom-ei",
+          "title": "Das Elbe vom Ei",
+          "venue": "LABOR",
+          "times": [
+            "20:30",
+            "21:30"
+          ],
+          "description": "Impro-Comedy vom Feinsten.",
+          "teaser": ""
+        },
+        {
+          "id": "keine-aufstiegsgeschichte",
+          "title": "Keine Aufstiegsgeschichte",
+          "venue": "Hauptbühne",
+          "times": [
+            "21:00",
+            "22:00"
+          ],
+          "description": "The hype is real! Ausschnitt aus dem „schon-lange-nicht-mehr-Geheimtipp“ nach Olivier Davids Buch.",
+          "teaser": ""
+        },
+        {
+          "id": "einblicke-in-die-optimistinnen",
+          "title": "Einblicke in Die Optimistinnen",
+          "venue": "LABOR",
+          "times": [
+            "21:00"
+          ],
+          "description": "Nach Gün Tanks Roman über Freundschaft und Widerstand.",
+          "teaser": ""
+        },
+        {
+          "id": "ein-kaffchen-mit-einem-madchen-auf-dem-altar",
+          "title": "Ein Käffchen mit einem Mädchen auf dem Altar",
+          "venue": "Hauptbühne",
+          "times": [
+            "21:30"
+          ],
+          "description": "Einblicke ins Stück und Wissenswertes zur Entstehung der deutschen Erstaufführung.",
+          "teaser": ""
+        },
+        {
+          "id": "freche-mowe",
+          "title": "Freche Möwe",
+          "venue": "LABOR",
+          "times": [
+            "22:00",
+            "22:30",
+            "23:00"
+          ],
+          "description": "Ehrliche Stand-Up-Comedy.",
+          "teaser": ""
+        },
+        {
+          "id": "theaterschiff-hamburg-work-life-what",
+          "title": "Theaterschiff Hamburg: Work Life What?",
+          "venue": "Hauptbühne",
+          "times": [
+            "23:00",
+            "23:30"
+          ],
+          "description": "Ein Comedy-Abenteuer zwischen Lotusblüte und Lachflash. Kabarett trifft Beatbox.",
+          "teaser": ""
+        },
+        {
+          "id": "best-of-poetry-slam-von-kampf-der-kunste",
+          "title": "Best of Poetry Slam von Kampf der Künste",
+          "venue": "Hauptbühne",
+          "times": [
+            "00:00"
+          ],
+          "description": "",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "first-stage-theater",
+      "name": "FIRST STAGE Theater",
+      "address": "Thedestraße 15, 22767 Hamburg",
+      "lat": 53.5524,
+      "lng": 9.9486,
+      "shows": [
+        {
+          "id": "dear-evan-hansen",
+          "title": "Dear Evan Hansen",
+          "venue": "",
+          "times": [
+            "17:30",
+            "18:30",
+            "19:30",
+            "20:45",
+            "21:45"
+          ],
+          "description": "Als besonderes Highlight gibt es einen kleinen, exklusiven Vorgeschmack auf das kommende Musical Dear Evan Hansen, das im Januar und Februar 2027 im FIRST STAGE Theater zu sehen sein wird. Ein Abend, der die Magie des Theaters in all ihren Facetten feiert!",
+          "teaser": ""
+        },
+        {
+          "id": "die-jubilaumsgala-2026",
+          "title": "Die Jubiläumsgala 2026",
+          "venue": "",
+          "times": [],
+          "description": "10 Jahre First Stage.",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "flachsland-hamburger-puppentheater",
+      "name": "flachsland – Hamburger Puppentheater",
+      "address": "Bramfelder Straße 9, 22305 Hamburg",
+      "lat": 53.58311,
+      "lng": 10.046109999999999,
+      "shows": [
+        {
+          "id": "alles-familie",
+          "title": "Alles Familie",
+          "venue": "",
+          "times": [
+            "15:00",
+            "16:00",
+            "17:00"
+          ],
+          "description": "Auszüge von Alles Familie – Biografisches Figurentheater. Was alles ist Familie? Die 7-jährige Anni wohnt mit ihren Eltern in einem Hochhaus. Ihre Eltern haben nie viel Zeit. So fühlt sich Anni öfter mal allein, doch zum Glück wohnen ja in dem Haus viele andere Familien mit vielen Kindern. Ob Fußball spielen oder Altstoffe sammeln, Gummihopse oder Drachensteigen, (ab)hängen an der Teppichstange oder Höhle spielen, immer ist etwas los. Ein Haus voll mit Kinderkrach und Nachbarschaftslärm. Schau mit durch die Schlüssellöcher von Annegret Geists Vergangenheit, hinein in die unterschiedlichsten Familien und in das große Miteinander. Wie schön es ist, wenn es nach Lieblingsessen duftet und die Türen meistens offen sind. Alles Familie von TheaterGeist ist ein biografisches Stück über unterschiedliche Familienformen und das Miteinander in einer Gesellschaft. Es wurde durch die Förderung von NEUSTART Kultur und den Fonds Darstellende Künste ermöglicht.",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "fundus-theater",
+      "name": "FUNDUS THEATER",
+      "address": "Sievekingdamm 3, 20535 Hamburg",
+      "lat": 53.55644,
+      "lng": 10.04287,
+      "shows": [
+        {
+          "id": "wir-bauen-ein-luftschloss",
+          "title": "Wir bauen ein Luftschloss",
+          "venue": "Platz der Kinderrechte",
+          "times": [
+            "15:00"
+          ],
+          "description": "Ein offenes Format. Wir brauchen Luft zum Atmen. Die Luft ist immer um uns herum. Sie wird von allen Lebewesen der Erde gemeinsam gemacht und als Wind hergebracht. Die Luft ist kostbar. Trotzdem vergessen wir sie oft. Die Klimakrise ist eine Krise der Luft. Damit wir sie nicht wieder vergessen, wollen wir zusammen ein Luftschloss bauen. Ein Luftschloss, um die Luft zu feiern. Aber wie? Indem wir CO₂ einsparen und akrobatisch durch die Luft fliegen! Mit Wind und Duft und Wolken und dem Atem der Bäume! Mit Fallschirmen, Schwimmringen, Nebelmaschinen und Helium-Ballons! Mit den Mikro-Wesen, die in der Luft leben, die ihr in unserer Augmented Reality suchen könnt. Viele Künstler*innen hatten auch schon Ideen dazu. Die bauen wir in unser Luftschloss ein und werden selbst zu Luftkünstler*innen.",
+          "teaser": ""
+        },
+        {
+          "id": "regelmaige-fuhrungen",
+          "title": "Regelmäßige Führungen",
+          "venue": "im Theater",
+          "times": [
+            "15:00"
+          ],
+          "description": "Außerdem führen wir in kleinen Gruppen durch das Theater und hinter die Kulissen. Entdecke die Kuriositäten unserer Requisite und schau in unsere Werkstatt und Garderobe. Du wirst feststellen, dass das Theaterhaus weitläufiger ist, als es scheint.",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "galli-theater-hamburg",
+      "name": "Galli Theater Hamburg",
+      "address": "Gastspielort: Kunstklinik Eppendorf, Martinistraße 44a, 20251 Hamburg-Nord",
+      "lat": null,
+      "lng": null,
+      "shows": [
+        {
+          "id": "schnupper-theaterworkshop-fur-marchen-musicals",
+          "title": "Schnupper Theaterworkshop für Märchen Musicals",
+          "venue": "",
+          "times": [
+            "15:00"
+          ],
+          "description": "Tauch ein in die Welt des Theaters und sei einmal ein Star! Für Kinder ab 4 Jahren.",
+          "teaser": ""
+        },
+        {
+          "id": "galli-mitspieltheater-fur-die-ganze-familie-dornroschen",
+          "title": "Galli Mitspieltheater für die ganze Familie - Dornröschen",
+          "venue": "",
+          "times": [
+            "16:00"
+          ],
+          "description": "Heidi Hinrichs erzählt, singt und tanzt den Märchenklassiker und das Publikum darf mitmachen! Empfohlen ab 3 Jahren.",
+          "teaser": ""
+        },
+        {
+          "id": "kleine-preview-der-galli-young-stars-fur-ihr-neues-theaterstuck-das-hassliche-entlein",
+          "title": "Kleine Preview der Galli Young Stars für ihr neues Theaterstück Das hässliche Entlein",
+          "venue": "",
+          "times": [
+            "16:45"
+          ],
+          "description": "Kinder spielen Theater für Kinder mit den Galli Young Stars. Empfohlen ab 3 Jahren.",
+          "teaser": ""
+        },
+        {
+          "id": "ein-blick-hinter-die-kulissen",
+          "title": "Ein Blick hinter die Kulissen",
+          "venue": "",
+          "times": [
+            "17:30"
+          ],
+          "description": "Ein geheimer Einblick für Klein und Groß.",
+          "teaser": ""
+        },
+        {
+          "id": "abschlusstanz-fur-alle",
+          "title": "Abschlusstanz für alle",
+          "venue": "",
+          "times": [
+            "18:00"
+          ],
+          "description": "",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "hamburger-kammerspiele",
+      "name": "Hamburger Kammerspiele",
+      "address": "Hartungstraße 9–11, 20146 Hamburg",
+      "lat": 53.5700093,
+      "lng": 9.985362799999962,
+      "shows": [
+        {
+          "id": "der-tatortreiniger-staffel-2",
+          "title": "Der Tatortreiniger – Staffel 2",
+          "venue": "",
+          "times": [
+            "19:00",
+            "22:00"
+          ],
+          "description": "Die Kultserie kehrt zurück auf die Bühne der Kammerspiele.",
+          "teaser": ""
+        },
+        {
+          "id": "auf-wunder-ist-verlass",
+          "title": "Auf Wunder ist Verlass",
+          "venue": "",
+          "times": [
+            "19:30",
+            "21:30",
+            "23:30"
+          ],
+          "description": "Eine musikalisch-literarische Schiffsreise über Herkunft und Zusammenhalt.",
+          "teaser": ""
+        },
+        {
+          "id": "nachstes-jahr-bornplatzsynagoge",
+          "title": "Nächstes Jahr Bornplatzsynagoge",
+          "venue": "",
+          "times": [
+            "20:00",
+            "23:00"
+          ],
+          "description": "Ausschnitte aus unserem Bühnenstück rund um den Wiederaufbau der Bornplatzsynagoge.",
+          "teaser": ""
+        },
+        {
+          "id": "sie-sagt-er-sagt",
+          "title": "Sie sagt. Er sagt.",
+          "venue": "",
+          "times": [
+            "20:30",
+            "22:30"
+          ],
+          "description": "Spannendes Gerichtsdrama von Ferdinand von Schirach.",
+          "teaser": ""
+        },
+        {
+          "id": "die-vodkagesprache",
+          "title": "Die Vodkagespräche",
+          "venue": "",
+          "times": [
+            "21:00"
+          ],
+          "description": "Einblicke in das gefeierte Kultstück von Arne Nielsen.",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "hamburger-sprechwerk",
+      "name": "Hamburger Sprechwerk",
+      "address": "Klaus-Groth-Straße 23, 20535 Hamburg",
+      "lat": 53.5559427,
+      "lng": 10.029761099999973,
+      "shows": [
+        {
+          "id": "die-insurgentinnen",
+          "title": "Die Insurgentinnen",
+          "venue": "",
+          "times": [
+            "19:00",
+            "19:30",
+            "20:00"
+          ],
+          "description": "Moral war gestern. Heute ist Punk. Was passiert, wenn jugendlicher Idealismus auf die Lebensmitte trifft? Das Theaterstück erzählt von drei Frauen, die zwischen Alltag und Altersvorsorge eine revolutionäre Zelle gründen. Andrea, Jasmin und Iris fragen sich, wo ihre jugendliche Kampfbereitschaft geblieben ist. Ihre Antwort: „Lass es uns einfach jetzt tun!“ Ihr großer Vorteil ist die totale Unscheinbarkeit. Ein schwarzhumoriges Plädoyer für den späten Aufbruch.",
+          "teaser": ""
+        },
+        {
+          "id": "die-zuckerschweine-improtheater",
+          "title": "Die Zuckerschweine – Improtheater",
+          "venue": "",
+          "times": [
+            "20:30",
+            "21:00",
+            "21:30"
+          ],
+          "description": "Sie sind schnell, schrill und unberechenbar. Die waghalsigen Impro-Spieler*innen gehen auf die Bühne, ohne zu wissen, was passiert. Sie haben keinen Text, keine Requisite, keine Regie. Nach den Vorgaben des Publikums entstehen Szenen aus dem Stegreif, die es nur einmal gibt. An jedem ersten Donnerstag im Monat kann man Die Zuckerschweine im Sprechwerk sehen!",
+          "teaser": ""
+        },
+        {
+          "id": "erika-klutz-schule",
+          "title": "Erika Klütz Schule",
+          "venue": "",
+          "times": [
+            "22:00",
+            "22:30",
+            "23:00"
+          ],
+          "description": "Arbeiten junger Künstler*innen aus der Erika Klütz Schule stehen im Mittelpunkt dieses von Suse Tietjen kuratierten Programms zur Theaternacht Hamburg. Zu sehen sind ein Solo, ein Duett, eine Recherche und zwei Gruppenchoreografien. Zwischen zeitgenössischem Tanz und Tanztheater eröffnen die Arbeiten unterschiedliche Perspektiven – von tanzgeschichtlichen Reflexionen bis hin zu Fragen von Echo, Resonanz, Zeit und Neid.",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "hoheluftschiff-kindertheater",
+      "name": "HoheLuftschiff Kindertheater",
+      "address": "Kaiser-Friedrich-Ufer 23, 20253 Hamburg",
+      "lat": 53.57762,
+      "lng": 9.97402,
+      "shows": [
+        {
+          "id": "ausschnitte-aus-dem-stuck-unsichtbares",
+          "title": "Ausschnitte aus dem Stück Unsichtbares",
+          "venue": "",
+          "times": [
+            "15:00",
+            "16:00"
+          ],
+          "description": "Wir machen uns gemeinsam auf die Suche nach den unsichtbaren Dingen, die wir riechen, hören und fühlen. Ein Haus, ein Baum, ein Hund. Das ist einfach: sehen, anfassen. Kuschelwärme, Verwunderung und Muffensausen: Schon schwieriger und trotzdem da! Performance und Tanz für alle ab 3 Jahren.",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "junges-schauspielhaus",
+      "name": "Junges SchauSpielHaus",
+      "address": "Wiesendamm 28, 22305 Hamburg",
+      "lat": 53.58778659999999,
+      "lng": 10.0372107,
+      "shows": [
+        {
+          "id": "zur-theaternacht-hamburg-2026",
+          "title": "Zur Theaternacht Hamburg 2026",
+          "venue": "Große Bühne, Studio, Kleine und Große Probebühne",
+          "times": [
+            "15:00"
+          ],
+          "description": "Zur Theaternacht Hamburg 2026 öffnet das Junge SchauSpielHaus seine Türen und bietet ein vielfältiges Programm für alle Menschen ab 5 Jahren an. Im Foyer gibt es Kinderschminken und Glitzertattoos, ein Glücksrad mit tollen Gewinnen und eine Fotostation mit Kostümen und Requisiten. Auf den Bühnen und Probebühnen gibt es Einblicke in die Kinderstücke Nimmerland und Die Schönen und das Biest aus dem Repertoire. Außerdem gibt es einen Ausblick auf die kommende Produktion Die fürchterlichen Fünf und theaterpädagogische Workshops.",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "kampnagel",
+      "name": "Kampnagel",
+      "address": "Gastspielort: Bunker, Feldstraße 66, 2. Stock, 20359 Hamburg",
+      "lat": 53.5837,
+      "lng": 10.0223,
+      "shows": [
+        {
+          "id": "showing-hajusom-hip-hop-tanzkurs",
+          "title": "Showing Hajusom Hip Hop-Tanzkurs",
+          "venue": "Raum 2",
+          "times": [
+            "19:00",
+            "19:45",
+            "20:30",
+            "21:15"
+          ],
+          "description": "Der Hajusom Hip Hop-Tanzkurs gehört seit Jahren zu den lebendigen Konstanten urbaner Tanzkultur in Hamburg. Gemeinsam mit den Kursleitenden Jenny und Can präsentiert die Dance-Crew einen energiegeladenen Querschnitt ihres aktuellen Programms.",
+          "teaser": ""
+        },
+        {
+          "id": "aber-vielleicht-heute-noch-nicht-von-hajusom-newsom-kollektiv",
+          "title": "Aber vielleicht heute noch nicht von Hajusom / Newsom Kollektiv",
+          "venue": "Raum 1",
+          "times": [
+            "19:15",
+            "20:45",
+            "22:15"
+          ],
+          "description": "Probeneinblicke in das erste gemeinsame Stück des neuen Kollektivs. Die Arbeit führt in eine ferne Zukunft und fragt zwischen Science-Fiction, Performance und spekulativer Erzählung, was von der Menschheit geblieben ist – und was noch werden könnte. Vergangenheit, Gegenwart und Zukunft überlagern sich, zwischen Katastrophe und Neuanfang bleibt offen, ob Veränderung möglich ist.",
+          "teaser": ""
+        },
+        {
+          "id": "singing-with-sounddrops-preview-und-offenes-singen",
+          "title": "Singing with sounddrops – Preview und offenes Singen",
+          "venue": "",
+          "times": [
+            "20:00"
+          ],
+          "description": "Die A-Cappella-Vocalband Sounddrops präsentiert Previews aus ihrem aktuellen Albumprojekt und lädt zum Mitsingen ein. Der inklusive Chor aus dem Künstler*innen-Netzwerk barner 16 verbindet Pop, Jazz, Folk und Klassik in mehrstimmigen Arrangements mit Beatbox – ganz ohne Instrumente oder Dirigat. Aktuell entsteht die erste CD, bei der Theaternacht Hamburg gibt es exklusive Einblicke.",
+          "teaser": ""
+        },
+        {
+          "id": "boy-division-das-quiz",
+          "title": "Boy Division – Das Quiz",
+          "venue": "Raum 2",
+          "times": [
+            "23:00"
+          ],
+          "description": "Schon ein „normales“ Konzert der Hamburger Band BOY DIVISION mutiert bei manchen schnell zum vergnüglichen Musikquiz. Aus dieser „Not“ wurde eine Tugend: Die Band hat zahlreiche Musikquiz-Formate ersonnen und präsentiert an diesem Abend eine kompakte Werkschau mit Überraschungen. Neben dem Klassiker „Songpantomime“ darf auch mit Kategorien wie Künstler*innennamen, Coverversionen, fiktiven Hochzeiten und Songtexten gerechnet werden. Achtung: Kein Konzert!",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "kellertheater-hamburg",
+      "name": "Kellertheater Hamburg",
+      "address": "Johannes-Brahms-Platz 1, 20355 Hamburg",
+      "lat": 53.5546657,
+      "lng": 9.978934999999979,
+      "shows": [
+        {
+          "id": "probenausschnitte-aus-dem-hamburger-kinderkrimi-der-blaue-saphir",
+          "title": "Probenausschnitte aus dem Hamburger Kinderkrimi Der blaue Saphir",
+          "venue": "",
+          "times": [
+            "17:00",
+            "18:00"
+          ],
+          "description": "Zwei Gauner und ihre Hehlerin haben es auf einen sehr wertvollen Saphir abgesehen. Aber sie haben die Rechnung ohne die drei Kids der Gamer-Gang gemacht, die sich mutig und schlau ins Gangstermilieu stürzen. Ab 6 Jahren.",
+          "teaser": ""
+        },
+        {
+          "id": "ausschnitte-aus-diener-zweier-herren",
+          "title": "Ausschnitte aus Diener zweier Herren",
+          "venue": "",
+          "times": [
+            "19:00",
+            "19:30"
+          ],
+          "description": "Ein turbulentes Dienerinnen-Spektakel. Truffaldina wird durch allerlei Verwicklungen zur Dienerin gleich zweier Herren, was doppeltes Essen und Einkommen verspricht, aber mindestens ebenso viel Chaos und Stress nach sich zieht (Minijobs scheinen Tradition zu haben).",
+          "teaser": ""
+        },
+        {
+          "id": "das-kellertheater-liest",
+          "title": "Das Kellertheater liest",
+          "venue": "",
+          "times": [
+            "20:00",
+            "21:30"
+          ],
+          "description": "Highlights aus unseren Leseprogrammen.",
+          "teaser": ""
+        },
+        {
+          "id": "ausschnitte-aus-diesseits",
+          "title": "Ausschnitte aus Diesseits",
+          "venue": "",
+          "times": [
+            "20:30",
+            "21:00"
+          ],
+          "description": "Eine Tragikomödie über Tod, Hoffnung und Augenblicke. Paula ist Anfang vierzig, klug, scharfzüngig – und sie weiß, dass sie einen Gehirntumor hat. Ob er gut- oder bösartig ist, erfährt sie erst morgen. 24 Stunden also, in denen plötzlich alles auf dem Spiel steht.",
+          "teaser": ""
+        },
+        {
+          "id": "ausschnitte-aus-dem-krimi-zeugin-der-anklage",
+          "title": "Ausschnitte aus dem Krimi Zeugin der Anklage",
+          "venue": "",
+          "times": [
+            "22:00",
+            "22:30"
+          ],
+          "description": "Nachdem die wohlhabende Miss French tot in ihrer Wohnung aufgefunden wird, gerät der charmante Leonard Vole unter Tatverdacht. Die Tatsache, dass Miss French ihn als Alleinerben in ihrem Testament bedacht hatte, liefert ein lupenreines Mordmotiv.",
+          "teaser": ""
+        },
+        {
+          "id": "probenausschnitte-aus-ich-horte-dinge-in-der-holle",
+          "title": "Probenausschnitte aus Ich hörte Dinge in der Hölle",
+          "venue": "",
+          "times": [
+            "23:15",
+            "23:45"
+          ],
+          "description": "Ein düsteres Theaterstück mit Geschichten von Edgar Allen Poe, Bram Stoker und M. R. James. Fünf Wanderer treffen sich in einer stürmischen Nacht in einer abgelegenen Waldhütte. Sie sind pitschnass, müde und ... etwas scheint in den Wäldern umherzustreifen und sie zu verfolgen. Zur Ablenkung beginnen sie, sich gruselige Geschichten zu erzählen. Wird die Gruppe die Nacht überstehen?",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "klabauter-theater",
+      "name": "Klabauter Theater",
+      "address": "Jungestraße 7a, 20535 Hamburg",
+      "lat": null,
+      "lng": null,
+      "shows": [
+        {
+          "id": "das-klabauterschiff-auf-reisen",
+          "title": "Das Klabauterschiff auf Reisen",
+          "venue": "",
+          "times": [
+            "18:00",
+            "19:00"
+          ],
+          "description": "Wie entsteht eigentlich ein Abenteuer? Eine Hexe flieht vor ihrem egoistischen Ex-Mann, einem Zauberer. Mit einem selbstgebauten magischen Schiff möchte sie ans andere Ende der Welt reisen. Doch schon bald sammelt sich eine ungewöhnliche Crew an Bord: ein Maler, eine Fee, Räuber Hotzenplotz mit Jennifer und ihren Schafen, Tabaluga, Weltstar Maddy Monroe und viele weitere Gestalten. Gemeinsam geraten sie ins Bermuda-Dreieck, begegnen der Eiskönigin, suchen einen geheimnisvollen Schatz und stellen sich magischen Gefahren. Aus spontanen Begegnungen, überraschenden Wendungen und der Phantasie der Spielenden entstand im Rahmen eines Workshops zu Improvisation die Geschichte des magischen Klabauterschiffs: eine Abenteuerreise voller Humor, Musik, Improvisation und Lust am gemeinsamen Erzählen. Leitung: Tom Kramer. Ab 6 Jahren",
+          "teaser": ""
+        },
+        {
+          "id": "in-our-bodies-in-our-nature",
+          "title": "In Our Bodies – In Our Nature",
+          "venue": "",
+          "times": [
+            "20:00",
+            "21:00"
+          ],
+          "description": "Ein Tanz- und Performanceprojekt, das die Verbindung zwischen dem menschlichen Körper und der natürlichen Umwelt erforscht und zum künstlerischen Spielfeld macht. Mithilfe von Bewegung, Stimme und Performance begeben sich die Performer*innen auf eine choreografische Spurensuche nach Verflechtungen zwischen Körpern, Pflanzen, Landschaften und atmosphärischen Kräften. Magisch, fantastisch genauso wie gewöhnlich, alltäglich fragen sie: Wo endet der Körper – und wo beginnt die „natürliche“ Umwelt? Gibt es denn eine „Natur“, die getrennt von uns ist? Wer oder was in dieser „natürlichen“ Welt hat eine Stimme und wessen Stimme wird gehört?",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "komodie-winterhuder-fahrhaus",
+      "name": "Komödie Winterhuder Fährhaus",
+      "address": "Hudtwalckerstraße 13, 22299 Hamburg",
+      "lat": 53.5938,
+      "lng": 9.9943,
+      "shows": [
+        {
+          "id": "henning-kothe-urlaub-auf-rezept",
+          "title": "Henning Kothe – Urlaub auf Rezept",
+          "venue": "",
+          "times": [
+            "17:30",
+            "18:10",
+            "18:50"
+          ],
+          "description": "Wenn Hamburgs wohl musikalischster Arzt die Bühne betritt, ist beste Unterhaltung garantiert: Henning Kothe präsentiert bei der Theaternacht Hamburg die Highlights aus seinem Programm Urlaub auf Rezept. Mit viel Humor, Musik und einem scharfen Blick nimmt er die schönsten und skurrilsten Seiten des Reisens aufs Korn.",
+          "teaser": ""
+        },
+        {
+          "id": "uli-bildstein-mit-tobias-neumann-und-johannes-huth-zwischen-dir-und-mir-chansons-mit-wumms",
+          "title": "Uli Bildstein mit Tobias Neumann und Johannes Huth: Zwischen Dir und mir – Chansons mit Wumms",
+          "venue": "",
+          "times": [
+            "19:30",
+            "20:10",
+            "20:50"
+          ],
+          "description": "Uli Bildstein, Ensemble-Mitglied der Berlin Comedian Harmonists, erzählt von den kleinen Dramen des Alltags, die uns ausmachen, von unerfüllten Wünschen und großer Freiheit. Gewitzt, gefühlvoll und mit Kraft.",
+          "teaser": ""
+        },
+        {
+          "id": "szenen-aus-mannerbeschaffungsmanahmen",
+          "title": "Szenen aus Männerbeschaffungsmaßnahmen",
+          "venue": "",
+          "times": [
+            "21:30",
+            "22:10",
+            "22:50"
+          ],
+          "description": "In ihrem ungewöhnlichen Coaching will die charismatische Diplom-Psychologin Dr. Christiane Pschorauer Frauen wieder zum Fühlen bringen. Vier Teilnehmerinnen wagen das emotionale Experiment.",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "lichthof-theater",
+      "name": "LICHTHOF Theater",
+      "address": "Mendelssohnstraße 15 B, 22761 Hamburg",
+      "lat": 53.5631995,
+      "lng": 9.914273900000012,
+      "shows": [
+        {
+          "id": "kandinsky-vs-klee-live-painting-theater",
+          "title": "Kandinsky vs. Klee – Live-Painting-Theater",
+          "venue": "",
+          "times": [
+            "19:00",
+            "19:30",
+            "20:00"
+          ],
+          "description": "Eine Show über Linien und Grenzen, Zugehörigkeit und Abschottung und darüber, was es braucht, sich füreinander zu interessieren und anzufreunden.",
+          "teaser": ""
+        },
+        {
+          "id": "almut",
+          "title": "Almut",
+          "venue": "",
+          "times": [
+            "20:30",
+            "21:30"
+          ],
+          "description": "Paul Behren setzt sich in einer choreografischen Arbeit mit dem Leben seiner Großmutter Almut Wolf auseinander.",
+          "teaser": ""
+        },
+        {
+          "id": "kosh",
+          "title": "Kösh",
+          "venue": "",
+          "times": [
+            "21:00"
+          ],
+          "description": "In ihrer Soloperformance verkörpert Choreografin Sofia Greben die Figur einer Nomadin, deren Körper nie zur Ruhe kommt und sesshaft wird, ausgehend von ihren eigenen Erfahrungen mit Migration und Entwurzelung.",
+          "teaser": ""
+        },
+        {
+          "id": "the-polite-machine",
+          "title": "The Polite Machine",
+          "venue": "",
+          "times": [
+            "22:00"
+          ],
+          "description": "Candid Rütter setzt sich mit dem Verhältnis des Menschen zu vernetzten, technischen Systemen und Alltagsgegenständen auseinander.",
+          "teaser": ""
+        },
+        {
+          "id": "die-verruckte-stunde-mit-dem-thalia-gaustrae-kaputt-lieben-teil-1",
+          "title": "Die Verrückte Stunde mit dem Thalia Gaußstraße: Kaputt, lieben (Teil 1)",
+          "venue": "",
+          "times": [
+            "23:00"
+          ],
+          "description": "Eine Performance über das Miteinander in Momenten von Joy, Killjoy und Krisen.",
+          "teaser": ""
+        },
+        {
+          "id": "die-verruckte-stunde-mit-dem-thalia-gaustrae-kaputt-lieben-teil-2",
+          "title": "Die Verrückte Stunde mit dem Thalia Gaußstraße: Kaputt, lieben (Teil 2)",
+          "venue": "",
+          "times": [
+            "23:30"
+          ],
+          "description": "",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "markk-museum-am-rothenbaum",
+      "name": "MARKK – Museum am Rothenbaum",
+      "address": "Rothenbaumchaussee 64, 20148 Hamburg",
+      "lat": null,
+      "lng": null,
+      "shows": [
+        {
+          "id": "performative-aneignung-im-museum",
+          "title": "Performative Aneignung im Museum",
+          "venue": "Foyer",
+          "times": [
+            "19:00"
+          ],
+          "description": "Eine abendliche Begehung mit dem Leiter für Veranstaltungen und Kurator Gabriel Schimmeroth. Das MARKK ist neben seinen Ausstellungen und dem Diskursprogramm regelmäßig Ort für performative Formate. Im Programm des MARKK steht häufig die künstlerische Aneignung der historischen Räume im Mittelpunkt. Gabriel Schimmeroth zeigt Museumsorte vom Historischen Hörsaal über die Bibliothek bis zum Gewölbesaal und gibt Einblicke in die Kooperationen zwischen Oper, Performance und partizipativen Theater. Treffpunkt: Foyer",
+          "teaser": ""
+        },
+        {
+          "id": "fuhrung-katzen",
+          "title": "Führung Katzen!",
+          "venue": "Foyer",
+          "times": [
+            "19:30"
+          ],
+          "description": "Mit Kuratorin Dr. Lotte Warnsholdt. Was verrät uns die Katze über unsere Gesellschaft? In dieser besonderen Führung durch die Ausstellung KATZEN! führt dich die Kuratorin durch die vielfältigen Bedeutungsräume der Katze, von der heiligen Göttin bis zur Catwoman, von der niedlichen Ikone bis zur politischen Projektionsfläche. Erfahre mehr über kuratorische Entscheidungen, überraschende Objektgeschichten und die Frage, warum die Katze nicht nur flauschig, sondern auch hochpolitisch sein kann. Im Rahmen der Theaternacht legt Lotte Warnsholdt den Schwerpunkt auf Kabuki-Theater und den Auftritt der Katze in Wahlkämpfen. Treffpunkt: Foyer",
+          "teaser": ""
+        },
+        {
+          "id": "wenn-die-katze-hei-lauft",
+          "title": "Wenn die Katze heiß läuft",
+          "venue": "Im Zwischenraum und der Katzenausstellung",
+          "times": [
+            "20:00"
+          ],
+          "description": "Eine Gebrauchsanweisung für überhitzte Katzen von Gina Enslin und Anne Pretzsch. Die Performance nimmt die „läufige“ Katze als Ausgangspunkt, um über „Hitze“ in ihren vielfältigen Bedeutungen nachzudenken – biologisch, emotional, gesellschaftlich und klimatisch. Im Zentrum stehen Fragen von Unterdrückung und Objektivierung von Natur, Tieren und Menschen (insbesondere FLINTA). „Hitze“ erscheint dabei als vieldeutiges Konzept: zugleich Kraft, Gefahr, Widerstand sowie möglicher Anfang oder Ende.",
+          "teaser": ""
+        },
+        {
+          "id": "menschen-sind-doof-aber-ist-okay-weil-katzen",
+          "title": "Menschen sind doof, aber ist okay, weil Katzen",
+          "venue": "Im Zwischenraum und der Katzenausstellung",
+          "times": [
+            "21:00"
+          ],
+          "description": "Randale statt Detox mit Julia Nitschke. Diese Lecture Performance verbindet Internetkultur, Katzenbilder und kulturwissenschaftliche Perspektiven. Ausgehend von der engen Verknüpfung von Katzen-Content mit anderen Internetphänomenen reflektiert Julia Nitschke Themen wie Solidarität, Widerstand und Liebe. Der Vortrag ist humorvoll und zugleich politisch – eine Verbindung von Popkultur und aktivistischen Impulsen.",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "minotauros-kompanie",
+      "name": "MINOTAUROS KOMPANIE",
+      "address": "Wiesendamm 24, 22305 Hamburg",
+      "lat": null,
+      "lng": null,
+      "shows": [
+        {
+          "id": "minotauros-goes-musical",
+          "title": "Minotauros goes Musical",
+          "venue": "",
+          "times": [
+            "19:00",
+            "20:00",
+            "21:00"
+          ],
+          "description": "Neben den aktuellen Produktionen wie Pilks Irrenhaus nach Ken Campbell und ihrem allseits beliebten Revue à la carte-Programm, stellt sich die Kompanie in diesem Jahr einer besonderen Herausforderung: eine Musical-Performancenummer. Zum allerersten Mal in der 27-jährigen Geschichte erarbeiten die Schauspieler*innen der Kompanie ein Bühnenstück, welches gleichermaßen aus den Elementen Gesang, Tanz und Schauspiel besteht. Zu sehen gibt es einen Ausschnitt aus Cats von Andrew Lloyd-Webber. Dabei versuchen sie nicht, das Original zu kopieren, sondern inszenieren die Nummer auf ihre ganz persönliche Art und Weise – dem typisch-schrägen Minotauros-Stil. Eine besondere Herausforderung besteht darin, Figuren darzustellen, die keine Menschen sind, sondern Tiere mit menschlichen Eigenschaften und Verhaltensweisen. Daraus entsteht die Frage: Was ist menschlich – und was nicht? Eine Frage, die gerade in einer Gesellschaft, die nach Inklusion strebt, neue Perspektiven eröffnet. Lass dich überraschen!",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "monsun-theater",
+      "name": "monsun.theater",
+      "address": "Billrothstraße 79, 22767 Hamburg",
+      "lat": 53.55368,
+      "lng": 9.94714,
+      "shows": [
+        {
+          "id": "raincatchers",
+          "title": "raincatchers",
+          "venue": "",
+          "times": [
+            "17:00"
+          ],
+          "description": "Der Film der inklusiven Tanzkompanie SZENE 2WEI, die zum Abschluss des AUSSICHT Festivals mit ihrer neuen Produktion YOU am 12. September 2026 ihre Hamburg Premiere feiern.",
+          "teaser": ""
+        },
+        {
+          "id": "annelieschens-und-peterchens-mondfahrt",
+          "title": "Annelieschens und Peterchens Mondfahrt",
+          "venue": "",
+          "times": [
+            "17:00"
+          ],
+          "description": "Hier stehen Kinder im Mittelpunkt. Eine Ausstellung mit ersten Einblicken in das neue Weihnachtsmärchen. Das Weihnachtsmärchen feiert am dritten Advent, den 13. Dezember 2026, Premiere. Ab 5 Jahren.",
+          "teaser": ""
+        },
+        {
+          "id": "die-prinzessin-auf-der-erbse",
+          "title": "Die Prinzessin auf der Erbse",
+          "venue": "",
+          "times": [
+            "17:30"
+          ],
+          "description": "Die Klasse 3c der Louise-Schroeder-Schule aus der Nachbarschaft präsentiert ihre Version von Die Prinzessin auf der Erbse.",
+          "teaser": ""
+        },
+        {
+          "id": "fucking-beautiful",
+          "title": "fucking beautiful",
+          "venue": "",
+          "times": [
+            "19:00"
+          ],
+          "description": "Die neu gegründete studioCompagnie des monsun.theaters stellt ihre Produktion fucking beautiful (Premiere: 15. Januar 2027) vor. Die Gruppe setzt sich mit der Frage, wer wir eigentlich sind, wenn wir allein sind, auseinander.",
+          "teaser": ""
+        },
+        {
+          "id": "hard-land",
+          "title": "Hard Land",
+          "venue": "",
+          "times": [
+            "19:30"
+          ],
+          "description": "Eine berührende Geschichte über Freundschaft, erste Liebe, Verlust, Erwachsenwerden und ein Sommer voller Aufbruch und Erinnerung. Das Kollektiv frau emma gelb gibt eine Vorschau auf ihre neue Produktion Hard Land nach dem Roman von Benedict Wells (Premiere: 15. Oktober 2026). Ab 14 Jahren.",
+          "teaser": ""
+        },
+        {
+          "id": "blablabla",
+          "title": "BLABLABLA",
+          "venue": "",
+          "times": [
+            "20:00"
+          ],
+          "description": "Mit der AUSSICHT Festival Produktion BLABLABLA von Chorosom wird Tanz zum Ausdruck von Widerstand, Solidarität und Selbstermächtigung. Die Performance macht Erfahrungen von Diskriminierung körperlich erfahrbar und schafft Raum für FLINTA-Perspektiven.",
+          "teaser": ""
+        },
+        {
+          "id": "wir-doch-nicht",
+          "title": "Wir doch nicht",
+          "venue": "",
+          "times": [
+            "20:30"
+          ],
+          "description": "Hier geben wir einen ersten Einblick in die neue Eigenproduktion von Johanna Hasse und Francoise Hüsges Wir doch nicht nach dem Roman von Nora Burgard-Arp. Das schauspiel-performative Projekt fragt nach Selbstbestimmung, politischer Verantwortung und den Gefahren gesellschaftlicher Gewöhnung an autoritäre Entwicklungen. Diese Produktion kommt am 27. November 2026 zur Uraufführung.",
+          "teaser": ""
+        },
+        {
+          "id": "bitte-lacheln",
+          "title": "BITTE LÄCHELN!",
+          "venue": "",
+          "times": [
+            "21:00"
+          ],
+          "description": "Musikalisch klingt der Abend stimmungsvoll aus: Die inklusive Band BITTE LÄCHELN! präsentiert sich aus unserem AUSSICHT Festival Programm mit ihrem unverwechselbaren Mix aus Reggae, Rock, Pop, Ska und Blues.",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "mut-theater",
+      "name": "MUT! Theater",
+      "address": "Amandastraße 58, 20357 Hamburg",
+      "lat": 53.56553,
+      "lng": 9.96162,
+      "shows": [
+        {
+          "id": "die-herausforderung-des-ungebrochenen",
+          "title": "Die Herausforderung des Ungebrochenen",
+          "venue": "",
+          "times": [
+            "19:00",
+            "20:00",
+            "21:00",
+            "22:00",
+            "23:00"
+          ],
+          "description": "Was bedeutet Freiheit in einer Welt, in der Gedanken zum Verbrechen werden können? Das politische Theaterstück erzählt von Widerstand, Identität und Selbstbestimmung. Inspiriert vom Schicksal eines politischen Häftlings erzählt die Inszenierung anhand kurdischer Lebensrealitäten von sichtbarer und unsichtbarer Gewalt in repressiven Systemen. Sie lädt zur Auseinandersetzung mit Demokratie, Macht und Erinnerungskultur ein. Ein eindringlicher Theaterabend über Unbeugsamkeit und die Kraft der Gedanken gegen das Vergessen. Regie und Text: Mahmut Canbay, Schauspiel: Emrah Demir. Ab 14 Jahren.",
+          "teaser": ""
+        },
+        {
+          "id": "die-nashorner",
+          "title": "Die Nashörner",
+          "venue": "",
+          "times": [
+            "19:30",
+            "20:30",
+            "21:30",
+            "22:30",
+            "23:30"
+          ],
+          "description": "Nach Eugène Ionesco. Willkommen in unserer Welt: Ein schrilles Technicolor-Paradies voller individueller Macken und lebendiger Exzentrik! Hier ist jeder ein Unikat, jede Meinung ein Farbtupfer. Doch unter der glitzernden Pop-Art-Oberfläche gärt etwas. Ein tiefes Grollen setzt ein. Ein Nashorn prescht durch die Gassen, dann zwei und immer mehr. Die ganze Stadt versinkt im Ausnahmezustand. Ionescos Humor trifft auf die harte Kante unserer Gegenwart. Die „Nashörnitis“ wird zum viralen Hype, der uns heute in fanatischen Ideologien und populistischen Sprechchören begegnet. Warum fällt es vielen so leicht, Freiheiten aufzugeben und Teil einer grauen Masse zu werden? Wer hält die Widersprüche unserer Welt noch aus, wenn radikale Fronten moralische Überlegenheit versprechen? Wenn jede Farbnuance erlischt und nur noch „Wir gegen Die“ bleibt, stellt sich die entscheidende Frage: Wer bleibt Mensch – und wer wird zum Dickhäuter? Inszenierung: Véronique Elling. Bühne und Ausstattung: Sophie Elise Hummrich. Produktion: iSA – internationale Schauspiel-Akademie für Film und Theater.",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "ohnsorg-theater",
+      "name": "Ohnsorg-Theater",
+      "address": "Heidi-Kabel-Platz 1, 20099 Hamburg",
+      "lat": 53.5545,
+      "lng": 10.00703,
+      "shows": [
+        {
+          "id": "requisitenspa-theatermalereien-und-kostumallerlei",
+          "title": "Requisitenspaß, Theatermalereien und Kostümallerlei",
+          "venue": "Malsaal",
+          "times": [
+            "15:00",
+            "15:30",
+            "16:00",
+            "16:30",
+            "17:00",
+            "17:30",
+            "18:00",
+            "18:30"
+          ],
+          "description": "Alle 30 Minuten öffnet der Malsaal seine Türen: Hier kann man inmitten von Kulissen, Requisiten und Kostümteilen in andere Welten eintauchen – unbedingt für lustige Schnappschüsse geeignet. Gruppen bis 20 Personen, Anmeldung am Infotresen erforderlich. Ab 6 Jahren.",
+          "teaser": ""
+        },
+        {
+          "id": "die-kleine-dame-de-lutte-daam",
+          "title": "Die kleine Dame – De lütte Daam",
+          "venue": "Ohnsorg-Studio",
+          "times": [
+            "16:00",
+            "17:00"
+          ],
+          "description": "Wer chamäleonisiert denn da und treibt allerlei lustigen Schabernack mit dem garstigen Hausmeister Herrn Leberwurst? Das kann nur die kleine Dame sein … Wir zeigen Ausschnitte aus unserem neuen zweisprachigen Kinderstück nach dem Roman von Stefanie Taschinski. Ab 6 Jahren.",
+          "teaser": ""
+        },
+        {
+          "id": "fisch-for-veer-ein-letztes-mahl",
+          "title": "Fisch för veer – Ein letztes Mahl",
+          "venue": "Großes Haus",
+          "times": [
+            "19:00"
+          ],
+          "description": "Ein Diener für drei Damen – eine Krimikomödie mit Geheimnissen und Überraschungen. Wir zeigen szenische Highlights aus unserer Eröffnungsproduktion!",
+          "teaser": ""
+        },
+        {
+          "id": "novecento-de-geschicht-vun-den-ozeanpianist",
+          "title": "Novecento – De Geschicht vun den Ozeanpianist",
+          "venue": "Ohnsorg-Studio",
+          "times": [
+            "19:30",
+            "20:30"
+          ],
+          "description": "Auf einem Ozeandampfer geboren, ging er nie von Bord und wurde durch sein magisches Klavierspiel zu einer Legende …",
+          "teaser": ""
+        },
+        {
+          "id": "de-ohnsorg-susters",
+          "title": "De Ohnsorg Süsters",
+          "venue": "Großes Haus",
+          "times": [
+            "20:00",
+            "22:00"
+          ],
+          "description": "Hits und Evergreens launig verswingt, hinreißend gesungen von Tanja Bahmani, Caroline Kiesewetter und Nele Larsen – drei Hamburger Deerns echt Plattdüütsch by Nature!",
+          "teaser": ""
+        },
+        {
+          "id": "mahoin",
+          "title": "mahoin",
+          "venue": "Großes Haus",
+          "times": [
+            "21:00",
+            "23:00"
+          ],
+          "description": "Die fünf Jungs von mahoin sind eine Matrosen-Marching-Band der Extraklasse. Handmade im Hamburger Hafen. Exklusiv zur Theaternacht Hamburg geben sie ein kurzes, knackiges Gute-Laune-Konzert.",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "opernloft-im-alten-fahrterminal-altona",
+      "name": "Opernloft im Alten Fährterminal Altona",
+      "address": "Van-der-Smissen-Straße 4, 22767 Hamburg",
+      "lat": 53.5434,
+      "lng": 9.9411,
+      "shows": [
+        {
+          "id": "prost",
+          "title": "Prost!",
+          "venue": "Foyer",
+          "times": [
+            "18:00"
+          ],
+          "description": "An unserer sieben Meter langen Bar servieren wir den Opernloft-Spritz in Weiß, Rot, Rosé und Gold. Dazu gibt es ausgewählte Weine, verschiedene Sorten Bier vom Fass und erfrischende Schorlen. Alle Getränke kannst du mit in den Saal nehmen.",
+          "teaser": ""
+        },
+        {
+          "id": "hier-wird-serviert",
+          "title": "Hier wird serviert!",
+          "venue": "Elbterrasse und Bistro",
+          "times": [
+            "18:00"
+          ],
+          "description": "Auf unserer überdachten Elbterrasse direkt am Kai genießt ihr leckeres Essen – vom knusprigen Flammkuchen bis zur feinen Lachsfrikadelle. Etwas muckeliger ist es im Bistro mit direktem Blick auf die Elbe. Außerdem bieten wir leckere Fischbrötchen zum Mitnehmen an.",
+          "teaser": ""
+        },
+        {
+          "id": "opern-slam-marathon",
+          "title": "Opern-Slam-Marathon",
+          "venue": "Saal",
+          "times": [
+            "18:30"
+          ],
+          "description": "Der Opern-Slam im Opernloft ist Kult. Und zur Theaternacht Hamburg haben wir ein besonderes Special für dich: den Opern-Slam-Marathon. Das einzigartige Spaßkonzert geht über mehrere Runden und vereint Oper, Entertainment, Witz und große Emotionen. Das Ensemble kämpft nicht nur mit seiner Stimme, sondern auch mit Humor und Herz um Ihren Applaus. Denn am Ende entscheidet das Publikum, wer gewinnt. In verschiedenen Kategorien treten die Sänger*innen gegeneinander an. Von der großen Opernarie über den heißen Musical-Hit bis zum flotten Schlager ist alles dabei. Nach jeweils 90 Sekunden beendet ein Schiffshorn den Gesang. Die beiden Moderatorinnen achten strengstens auf die Einhaltung der Regeln und testen dabei auch das Wissen des Publikums: Wer weiß, aus welcher Oper eine Arie stammt, bekommt einen Schnaps aufs Haus. Jede Runde dauert etwa 15 Minuten. Einlass ab 18:30 Uhr jederzeit möglich.",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "schmidtchen",
+      "name": "Schmidtchen",
+      "address": "Spielbudenplatz 21-22, 20359 Hamburg",
+      "lat": 53.5492145,
+      "lng": 9.96425750000003,
+      "shows": [
+        {
+          "id": "schmidt-kindertheater-fur-die-ganze-familie",
+          "title": "Schmidt-Kindertheater für die ganze Familie",
+          "venue": "",
+          "times": [
+            "15:00",
+            "16:00"
+          ],
+          "description": "Kindertheater? Gibt’s im Schmidtchen! Ein kunterbunter Mix aus den schönsten Liedern der Schmidt-Kinderstücke – mit dabei Der achtsame Tiger und die Lieblingssongs aus Der Räuber Hotzenplotz. Carolin Spieß moderiert das fröhliche Familienprogramm voller Musik, Spaß und Theaterzauber.",
+          "teaser": ""
+        },
+        {
+          "id": "ein-schmidtiges-potpourri",
+          "title": "Ein schmidtiges Potpourri",
+          "venue": "",
+          "times": [
+            "19:00",
+            "20:00",
+            "21:00",
+            "22:00"
+          ],
+          "description": "Beste Unterhaltung, schräge Typen und jede Menge Spaß: In dieser rasanten Mixed-Show geben sich beliebte Schmidt-Künstler*innen und angesagte Comedy-Acts das Mikro in die Hand. Wortgewandt und mit viel Witz führt Schmidtchen-Gastgeber Henning Mehrtens durch den Abend.",
+          "teaser": ""
+        },
+        {
+          "id": "reeperbahn-royale",
+          "title": "Reeperbahn Royale",
+          "venue": "",
+          "times": [
+            "23:23"
+          ],
+          "description": "Herzlich willkommen bei Reeperbahn Royale! Gastgeber Henning Mehrtens lädt zum Theaternacht-Special – unterstützt von Ein-Mann-Band Otto Puttel und Rockröhre Lia Joham. Comedian Archie Clapp sorgt für zusätzliche Eskalationsstufen und spielt gemeinsam mit dem Publikum um Ruhm, Ehre und feine Preise.",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "st-pauli-theater",
+      "name": "St. Pauli Theater",
+      "address": "Spielbudenplatz 29-30, 20359 Hamburg",
+      "lat": 53.54911509999999,
+      "lng": 9.963043500000026,
+      "shows": [
+        {
+          "id": "heaven-can-wait-chor",
+          "title": "Heaven Can Wait Chor",
+          "venue": "",
+          "times": [
+            "23:00"
+          ],
+          "description": "Auf der Theaternacht Hamburg präsentiert der Heaven Can Wait Chor einen Ausschnitt aus der aktuellen Show. Seit über 10 Jahren erobert der Chor aus Hamburg die Publikumsherzen. Und weil man auch mit Ü70 nie zu alt ist, starten sie mit ihrem Programm Jetzt erst recht! durch! Neu: Es werden auch selbst komponierte und getextete Lieder präsentiert. Und so rocken die (G)Oldies auch mit dem aktuellen Programm wieder die Bühne: bunt, jung und frech.",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "steife-brise",
+      "name": "Steife Brise",
+      "address": "Am Sandtorkai 46, 20457 Hamburg",
+      "lat": null,
+      "lng": null,
+      "shows": [
+        {
+          "id": "puppets-spezial-bunra-buki",
+          "title": "Puppets Spezial – Bunra Buki",
+          "venue": "",
+          "times": [
+            "15:00",
+            "17:00"
+          ],
+          "description": "Ein außergewöhnlicher Puppenspielakt für alle Altersgruppen.",
+          "teaser": ""
+        },
+        {
+          "id": "cop-drama",
+          "title": "Cop Drama",
+          "venue": "",
+          "times": [
+            "15:30",
+            "17:30",
+            "19:30",
+            "21:30"
+          ],
+          "description": "Mit Spannung und Improvisation wird ein polizeiliches Drama auf die Bühne gebracht.",
+          "teaser": ""
+        },
+        {
+          "id": "seemannsgarn-special",
+          "title": "Seemannsgarn Special",
+          "venue": "",
+          "times": [
+            "16:00",
+            "18:00"
+          ],
+          "description": "Ein maritimes Improvisationstheater, das Geschichten aus dem Seefahrerleben zum Leben erweckt.",
+          "teaser": ""
+        },
+        {
+          "id": "lachflash-family-edition",
+          "title": "Lachflash Family Edition",
+          "venue": "",
+          "times": [
+            "16:30",
+            "18:30"
+          ],
+          "description": "Ein familienfreundlicher Lachanfall durch Improvisationskunst.",
+          "teaser": ""
+        },
+        {
+          "id": "da-steckt-musik-drin",
+          "title": "Da steckt Musik drin",
+          "venue": "",
+          "times": [
+            "19:00",
+            "20:30"
+          ],
+          "description": "Musikalische Improvisation wird lebendig gemacht durch spontane Eingebungen.",
+          "teaser": ""
+        },
+        {
+          "id": "lachflash-spezial",
+          "title": "Lachflash Spezial",
+          "venue": "",
+          "times": [
+            "20:00",
+            "21:00",
+            "22:00"
+          ],
+          "description": "Eine Spezialausgabe des Lachflashes mit humorvollen Einlagen.",
+          "teaser": ""
+        },
+        {
+          "id": "werwolfe-von-hamburg",
+          "title": "Werwölfe von Hamburg",
+          "venue": "",
+          "times": [
+            "22:30"
+          ],
+          "description": "Ein improvisiertes Spiel, das die Werwolf-Geschichte in die Hamburger Nacht bringt.",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "thalia-gaustrae",
+      "name": "Thalia Gaußstraße",
+      "address": "Gaußstraße 190, 22765 Hamburg",
+      "lat": 53.55917050000001,
+      "lng": 9.9250763,
+      "shows": [
+        {
+          "id": "club-5-der-kunstlerischen-vermittlung-momo-oder-eine-reflexion-uber-die-zeit",
+          "title": "Club 5 der Künstlerischen Vermittlung: Momo oder eine Reflexion über die Zeit",
+          "venue": "Box",
+          "times": [
+            "18:00"
+          ],
+          "description": "Künstlerische Leitung: Victoria Raffetto Cavallo. Ab 8 Jahren",
+          "teaser": ""
+        },
+        {
+          "id": "momo-oder-eine-reflexion-uber-die-zeit",
+          "title": "Momo oder eine Reflexion über die Zeit",
+          "venue": "Box",
+          "times": [
+            "18:00"
+          ],
+          "description": "Club 5 der Künstlerischen Vermittlung: Momo oder eine Reflexion über die Zeit (Künstlerische Leitung: Victoria Raffetto Cavallo). Ab 8 Jahren",
+          "teaser": ""
+        },
+        {
+          "id": "fuhrungen-durch-den-kostumfundus",
+          "title": "Führungen durch den Kostümfundus",
+          "venue": "",
+          "times": [
+            "19:00",
+            "19:30",
+            "20:00",
+            "20:30",
+            "21:00"
+          ],
+          "description": "Anmeldung vor Ort erforderlich, aufgrund begrenzter Teilnehmer*innen-Anzahl. Alle 30 Minuten",
+          "teaser": ""
+        },
+        {
+          "id": "no-body",
+          "title": "No Body",
+          "venue": "Studiobühne",
+          "times": [
+            "19:00",
+            "19:45"
+          ],
+          "description": "von Mable Preach (Regie: Mable Preach)",
+          "teaser": ""
+        },
+        {
+          "id": "kartenverlosung",
+          "title": "Kartenverlosung",
+          "venue": "Studiobühne",
+          "times": [
+            "20:15"
+          ],
+          "description": "durch ein Ensemblemitglied",
+          "teaser": ""
+        },
+        {
+          "id": "the-piano-has-been-drinking-not-me",
+          "title": "THE PIANO HAS BEEN DRINKING – NOT ME!!!",
+          "venue": "Studiobühne",
+          "times": [
+            "21:10"
+          ],
+          "description": "Tom Waits meets Ricky Lee Jones von und mit Bernd Grawert",
+          "teaser": ""
+        },
+        {
+          "id": "zunzle-oder-die-allabendlichen-fantasien",
+          "title": "Zünzle oder die allabendlichen Fantasien",
+          "venue": "Box",
+          "times": [
+            "21:45"
+          ],
+          "description": "Von Kaija Knauer (Regie: Ilario Raschèr)",
+          "teaser": ""
+        },
+        {
+          "id": "die-verruckte-stunde-mit-dem-lichthof-theater",
+          "title": "Die Verrückte Stunde mit dem LICHTHOF Theater",
+          "venue": "Studiobühne",
+          "times": [
+            "23:00",
+            "23:35"
+          ],
+          "description": "Almut und Kösh (Tanzproduktion).",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "thalia-theater",
+      "name": "Thalia Theater",
+      "address": "Alstertor, 20095 Hamburg",
+      "lat": 53.55182,
+      "lng": 9.99819,
+      "shows": [
+        {
+          "id": "eroffnung-mit-sonja-anders-und-hajo-tuschy",
+          "title": "Eröffnung mit Sonja Anders und Hajo Tuschy",
+          "venue": "Große Bühne",
+          "times": [
+            "19:00"
+          ],
+          "description": "",
+          "teaser": ""
+        },
+        {
+          "id": "die-kleine-meerjungfrau",
+          "title": "Die Kleine Meerjungfrau",
+          "venue": "Große Bühne",
+          "times": [
+            "19:15",
+            "20:00"
+          ],
+          "description": "nach Hans Christian Andersen (Regie: Bastian Kraft)",
+          "teaser": ""
+        },
+        {
+          "id": "freiflug-mochte-die-witwe-angesprochen-werden-platziert-sie-auf-dem-grab-die-giekanne-mit-dem-ausguss-nach-vorne",
+          "title": "Freiflug: Möchte die Witwe angesprochen werden, platziert sie auf dem Grab die Gießkanne mit dem Ausguss nach vorne",
+          "venue": "Nachtasyl",
+          "times": [
+            "19:30"
+          ],
+          "description": "nach Saša Stanišić. (Regie: Rahel Schnitter)",
+          "teaser": ""
+        },
+        {
+          "id": "die-beliebten-backstage-fuhrungen",
+          "title": "Die beliebten Backstage-Führungen",
+          "venue": "Haupthaus",
+          "times": [
+            "19:30",
+            "20:00",
+            "20:30",
+            "21:00"
+          ],
+          "description": "(circa 40 Minuten). Zu verschiedenen Uhrzeiten, auf verschiedenen Routen durch die Werkstätten des Theaters. Anmeldung vor Ort erforderlich, aufgrund begrenzter Teilnehmer*innen-Anzahl.",
+          "teaser": ""
+        },
+        {
+          "id": "freiflug-preuens-glory-hole",
+          "title": "Freiflug: Preußens Glory Hole",
+          "venue": "Nachtasyl",
+          "times": [
+            "20:30",
+            "21:15"
+          ],
+          "description": "(Regie: Leo Borgmann)",
+          "teaser": ""
+        },
+        {
+          "id": "the-boys-are-kissing",
+          "title": "The Boys Are Kissing",
+          "venue": "Große Bühne",
+          "times": [
+            "21:15",
+            "21:50"
+          ],
+          "description": "von Zak Zarafshan (Regie: Anne Lenk)",
+          "teaser": ""
+        },
+        {
+          "id": "ole-allein-zu-haus",
+          "title": "Ole allein zu Haus",
+          "venue": "Nachtasyl",
+          "times": [
+            "22:15"
+          ],
+          "description": "(Einrichtung: Julian Greis)",
+          "teaser": ""
+        },
+        {
+          "id": "konzert-jannik-hinsch-und-schlagerpunk",
+          "title": "Konzert Jannik Hinsch und Schlägerpunk",
+          "venue": "Große Bühne",
+          "times": [
+            "22:45"
+          ],
+          "description": "",
+          "teaser": ""
+        },
+        {
+          "id": "aftershowparty",
+          "title": "Aftershowparty",
+          "venue": "Foyer und Nachtasyl",
+          "times": [
+            "00:00"
+          ],
+          "description": "",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "the-english-theatre-of-hamburg",
+      "name": "The English Theatre of Hamburg",
+      "address": "Lerchenfeld 14, 22081 Hamburg",
+      "lat": 53.5695439,
+      "lng": 10.028873400000066,
+      "shows": [
+        {
+          "id": "the-picture-of-dorian-gray",
+          "title": "The Picture of Dorian Gray",
+          "venue": "",
+          "times": [
+            "19:30",
+            "20:30",
+            "21:30",
+            "22:30",
+            "23:30"
+          ],
+          "description": "by Oscar Wilde. Few plays have stood the test of time quite like this one: Oscar Wilde’s classic The Picture of Dorian Gray needs little introduction. Adapted by Merlin Holland and John O’Connor, this exceptional tale is coming to the stage. Dorian Gray, young, handsome, and innocent, makes the fateful decision to immortalize his beauty in a portrait of himself. Over the years, he remains untouched by the ravages of time, while the painting ages in his stead. But can this choice really have no consequences? Brimming with Wilde’s wit and sharp dialogue, the play asks what the true cost of excess and hedonism really is when the consequences are ignored. The Picture of Dorian Gray will captivate you from the moment you sit down, and then slowly and quietly send a chill down your spine. Hauntingly beautiful – you shouldn’t miss this theatrical gem!",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "theater-altes-heizkraftwerk",
+      "name": "Theater altes Heizkraftwerk",
+      "address": "Isebekstraße 34, 22769 Hamburg",
+      "lat": null,
+      "lng": null,
+      "shows": [
+        {
+          "id": "ausschnitt-aus-der-jungste-tag",
+          "title": "Ausschnitt aus Der jüngste Tag",
+          "venue": "Große Bühne",
+          "times": [
+            "19:00",
+            "21:45"
+          ],
+          "description": "Ödön von Horváth",
+          "teaser": ""
+        },
+        {
+          "id": "ausschnitt-aus-odon-von-horvath-der-jungste-tag",
+          "title": "Ausschnitt aus Ödön von Horváth: Der jüngste Tag",
+          "venue": "Große Bühne",
+          "times": [
+            "19:00",
+            "21:45"
+          ],
+          "description": "",
+          "teaser": ""
+        },
+        {
+          "id": "ausschnitt-aus-identitat",
+          "title": "Ausschnitt aus Identität",
+          "venue": "Studiobühne",
+          "times": [
+            "19:45"
+          ],
+          "description": "Vinicius Piedade",
+          "teaser": ""
+        },
+        {
+          "id": "ausschnitt-aus-vinicius-piedade-identitat",
+          "title": "Ausschnitt aus Vinicius Piedade: Identität",
+          "venue": "Studiobühne",
+          "times": [
+            "19:45"
+          ],
+          "description": "",
+          "teaser": ""
+        },
+        {
+          "id": "ausschnitt-aus-kasimir-und-karoline",
+          "title": "Ausschnitt aus Kasimir und Karoline",
+          "venue": "Studiobühne",
+          "times": [
+            "20:25"
+          ],
+          "description": "Ödön von Horváth",
+          "teaser": ""
+        },
+        {
+          "id": "ausschnitt-aus-odon-von-horvath-kasimir-und-karoline",
+          "title": "Ausschnitt aus Ödön von Horváth: Kasimir und Karoline",
+          "venue": "Studiobühne",
+          "times": [
+            "20:25"
+          ],
+          "description": "",
+          "teaser": ""
+        },
+        {
+          "id": "frank-wedekind-fruhlings-erwachen",
+          "title": "Frank Wedekind: Frühlings Erwachen",
+          "venue": "Studio M",
+          "times": [
+            "20:50"
+          ],
+          "description": "",
+          "teaser": ""
+        },
+        {
+          "id": "ausschnitt-aus-minetti",
+          "title": "Ausschnitt aus Minetti",
+          "venue": "Studiobühne",
+          "times": [
+            "21:10"
+          ],
+          "description": "Thomas Bernhard",
+          "teaser": ""
+        },
+        {
+          "id": "ausschnitt-aus-thomas-bernhard-minetti",
+          "title": "Ausschnitt aus Thomas Bernhard: Minetti",
+          "venue": "Studiobühne",
+          "times": [
+            "21:10"
+          ],
+          "description": "",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "theater-an-der-marschnerstrasse",
+      "name": "Theater an der Marschnerstrasse",
+      "address": "Marschnerstraße 46, 22081 Hamburg",
+      "lat": 53.57374,
+      "lng": 10.04005,
+      "shows": [
+        {
+          "id": "sophie",
+          "title": "Sophie",
+          "venue": "",
+          "times": [
+            "19:00",
+            "20:00",
+            "21:00",
+            "22:00"
+          ],
+          "description": "Schauspiel von Roos Ouwehand. Im Alter von acht Jahren schmiedet Sophie in ihrem Kinderzimmer zusammen mit ihrem Freund Daniel Zukunftspläne. Und achtzig Jahre später, wieder in diesem Zimmer, träumt Sophie von ihrer Mutter, ihrem Vater und ihrem Sohn. Dazwischen liegt ein ganzes Leben – und eine Familiengeschichte.",
+          "teaser": ""
+        },
+        {
+          "id": "viel-larm-um-nichts",
+          "title": "Viel Lärm um nichts",
+          "venue": "",
+          "times": [
+            "19:00",
+            "20:00",
+            "21:00",
+            "22:00"
+          ],
+          "description": "Komödie von William Shakespeare. Claudio, Benedick und Don Pedro kehren vom Krieg zurück und besuchen einen alten Freund in Messina. Romantik liegt in der Luft. Claudio wirbt um die sittsame Hero. Doch Don Pedros Halbbruder plant Täuschung, Verleumdung und Liebesquälerei. Hoffentlich bleibt am Ende nur viel Lärm um Nichts.",
+          "teaser": ""
+        },
+        {
+          "id": "dracula",
+          "title": "Dracula",
+          "venue": "",
+          "times": [
+            "19:00",
+            "20:00",
+            "21:00",
+            "22:00"
+          ],
+          "description": "Schauspiel von Johannes Kaetzler nach dem Roman von Bram Stoker. Im Jahr 1896 reist der junge Rechtsanwalt Jonathan Harker nach Transsylvanien, um dem mysteriösen Grafen Dracula beim Kauf eines Londoner Domizils zu helfen. Doch in dessen Schloss geschehen seltsame Dinge …",
+          "teaser": ""
+        },
+        {
+          "id": "der-hund-der-baskervilles",
+          "title": "Der Hund der Baskervilles",
+          "venue": "",
+          "times": [
+            "19:00",
+            "20:00",
+            "21:00",
+            "22:00"
+          ],
+          "description": "Krimi von Thomas Birkmeir nach Sir Arthur Conan Doyle. Eine düstere Legende verfolgt die Baskervilles: Ein geisterhafter Hund tötet alle männlichen Erben des Adelsgeschlechts. Als Sir Charles unter mysteriösen Umständen stirbt, wird kein geringerer als der berühmteste Detektiv Englands zu Rate gezogen: Sherlock Holmes.",
+          "teaser": ""
+        },
+        {
+          "id": "hamburg-players-improv",
+          "title": "Hamburg Players Improv",
+          "venue": "",
+          "times": [
+            "19:00",
+            "20:00",
+            "21:00",
+            "22:00"
+          ],
+          "description": "Improvisationstheater auf Englisch. Aus den Vorschlägen des Publikums und der eigenen Spontanität entwickelt die Impro-Gruppe der Hamburg Players Szenen, die nur für den Moment existieren. Die Hamburg Players Impro-Gruppe spielt in englischer Sprache. Aber keine Angst – man muss kein Native Speaker sein, um sich von ihnen bestens unterhalten zu lassen!",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "theater-das-zimmer",
+      "name": "Theater das Zimmer",
+      "address": "Washingtonallee 42, 22111 Hamburg",
+      "lat": null,
+      "lng": null,
+      "shows": [
+        {
+          "id": "improtheater-fur-alle-mit-sandra-kiefer",
+          "title": "Improtheater für alle mit Sandra Kiefer",
+          "venue": "",
+          "times": [
+            "19:00",
+            "23:00"
+          ],
+          "description": "",
+          "teaser": ""
+        },
+        {
+          "id": "gebrullt-vor-lachen",
+          "title": "Gebrüllt vor Lachen",
+          "venue": "",
+          "times": [
+            "19:30",
+            "21:30"
+          ],
+          "description": "Ausschnitt mit Anke Bautzmann und Colin Hausberg",
+          "teaser": ""
+        },
+        {
+          "id": "heute-abend-lola-blau",
+          "title": "Heute Abend: Lola Blau",
+          "venue": "",
+          "times": [
+            "20:00"
+          ],
+          "description": "Lieder aus dem Musical mit Sandra Kiefer",
+          "teaser": ""
+        },
+        {
+          "id": "gretchen-89ff",
+          "title": "Gretchen 89ff",
+          "venue": "",
+          "times": [
+            "20:30",
+            "22:30"
+          ],
+          "description": "Leseprobe mit dem Ensemble",
+          "teaser": ""
+        },
+        {
+          "id": "jane-eyre",
+          "title": "Jane Eyre",
+          "venue": "",
+          "times": [
+            "21:00"
+          ],
+          "description": "Ausschnitt mit Anke Bautzmann und Lena Anne Schäfer",
+          "teaser": ""
+        },
+        {
+          "id": "aus-den-memoiren-des-herren-von-schnabelewopski",
+          "title": "Aus den Memoiren des Herren von Schnabelewopski",
+          "venue": "",
+          "times": [
+            "22:00"
+          ],
+          "description": "Ausschnitt mit Lars Ceglecki",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "theaterdeck-hamburg",
+      "name": "Theaterdeck Hamburg",
+      "address": "Maurienstraße 19, 22305 Hamburg",
+      "lat": 53.5859,
+      "lng": 10.045,
+      "shows": [
+        {
+          "id": "verschnaufen-in-unserem-theaterwaffelcafe",
+          "title": "Verschnaufen in unserem TheaterWaffelCafé",
+          "venue": "Studiobühne",
+          "times": [
+            "15:30"
+          ],
+          "description": "",
+          "teaser": ""
+        },
+        {
+          "id": "auszuge-aus-michel-aus-lonneberga",
+          "title": "Auszüge aus Michel aus Lönneberga",
+          "venue": "",
+          "times": [
+            "15:45",
+            "16:30"
+          ],
+          "description": "Anschließendem Gespräch und Fotomoment mit Michel, Ida und allen anderen. Ab 4 Jahren",
+          "teaser": ""
+        },
+        {
+          "id": "auszuge-aus-dunkelnacht",
+          "title": "Auszüge aus Dunkelnacht",
+          "venue": "",
+          "times": [
+            "17:30",
+            "18:15"
+          ],
+          "description": "Von Kirsten Boie mit anschließendem Gespräch mit den Schauspielenden und dem Regisseur. Ab 13 Jahren",
+          "teaser": ""
+        },
+        {
+          "id": "auszuge-aus-schimmelreiter",
+          "title": "Auszüge aus Schimmelreiter",
+          "venue": "",
+          "times": [
+            "19:15"
+          ],
+          "description": "Nach Theodor Storm mit anschließendem Gespräch mit den Schauspielenden und dem Regisseur.",
+          "teaser": ""
+        }
+      ]
+    },
+    {
+      "id": "theaterschiff-hamburg",
+      "name": "Theaterschiff Hamburg",
+      "address": "Liegeplatz: Holzbrücke 2 / Nikolaifleet, 20459 Hamburg",
+      "lat": 53.5468457,
+      "lng": 9.988795099999999,
+      "shows": [
+        {
+          "id": "work-life-what",
+          "title": "Work Life What?",
+          "venue": "",
+          "times": [
+            "19:00",
+            "19:45"
+          ],
+          "description": "Comedy, Kabarett und Beatbox mit Beatbox-Weltmeister Mando Beatbox, Wortakrobat Daniel Heinz und Stand-up-Kabarettist Michael Frowin.",
+          "teaser": ""
+        },
+        {
+          "id": "desperate-boatwives",
+          "title": "Desperate Boatwives",
+          "venue": "",
+          "times": [
+            "20:30",
+            "21:15",
+            "22:00"
+          ],
+          "description": "Comedy, Drama und Show. Drei Frauen, zwei Ziele, ein Schiff und null Plan.",
+          "teaser": ""
+        },
+        {
+          "id": "die-verruckte-stunde",
+          "title": "Die Verrückte Stunde",
+          "venue": "",
+          "times": [
+            "23:00",
+            "23:40"
+          ],
+          "description": "Auf ein Käffchen mit einem Wehrdienstverweigerer. Wissenswertes über Stück, Konzept und die beteiligten Künstler*innen.",
+          "teaser": ""
+        }
+      ]
+    }
+  ]
+}

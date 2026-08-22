@@ -8,6 +8,7 @@ from pathlib import Path
 from .build import run
 
 DEFAULT_OUT = Path("docs/data/programm.json")
+AGENT_OUT = Path("docs/data/programm_agent.json")
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -19,26 +20,50 @@ def main(argv: list[str] | None = None) -> int:
         "-o",
         "--out",
         type=Path,
-        default=DEFAULT_OUT,
-        help=f"Output JSON path (default: {DEFAULT_OUT})",
+        default=None,
+        help="Output JSON path (default: docs/data/programm.json, "
+        "or docs/data/programm_agent.json with --agent-pdf).",
     )
     parser.add_argument(
         "--enrich",
         action="store_true",
         help="Generate short teaser texts via pydantic_ai/OpenAI (requires OPENAI_API_KEY).",
     )
+    parser.add_argument(
+        "--agent-pdf",
+        action="store_true",
+        help="Alternative source: extract the program per theater from the official "
+        "program booklet (PDF) via a pydantic_ai agent. Writes a separate file for "
+        "manual review and does NOT overwrite programm.json.",
+    )
     args = parser.parse_args(argv)
 
-    programm = run(args.out)
+    if args.agent_pdf:
+        from .agent_pdf import build_from_pdf
+
+        out = args.out or AGENT_OUT
+        programm = build_from_pdf(out, programm_path=DEFAULT_OUT)
+        shows = sum(len(t.shows) for t in programm.theaters)
+        missing = [t.name for t in programm.theaters if t.lat is None]
+        print(f"Wrote {out}: {len(programm.theaters)} theaters, {shows} shows.")
+        if missing:
+            print(
+                f"NOTE: {len(missing)} theaters without coordinates "
+                f"(no match in {DEFAULT_OUT}): {', '.join(missing)}"
+            )
+        return 0
+
+    out = args.out or DEFAULT_OUT
+    programm = run(out)
 
     if args.enrich:
         from .enrich import enrich_programm
 
-        enrich_programm(programm, args.out)
+        enrich_programm(programm, out)
 
     shows = sum(len(t.shows) for t in programm.theaters)
     missing = [t.name for t in programm.theaters if t.lat is None]
-    print(f"Wrote {args.out}: {len(programm.theaters)} theaters, {shows} shows.")
+    print(f"Wrote {out}: {len(programm.theaters)} theaters, {shows} shows.")
     if missing:
         print(
             f"WARNING: {len(missing)} theaters without coordinates: {', '.join(missing)}"
