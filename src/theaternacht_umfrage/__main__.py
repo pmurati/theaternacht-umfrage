@@ -9,6 +9,7 @@ from .build import run
 
 DEFAULT_OUT = Path("docs/data/programm.json")
 AGENT_OUT = Path("docs/data/programm_agent.json")
+MANUAL_OUT = Path("docs/data/programm_manual.json")
 
 
 def main(argv: list[str] | None = None) -> int:
