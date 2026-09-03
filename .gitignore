@@ -25,3 +25,7 @@ htmlcov/
 
 # Scraper cache
 .cache/
+
+# data
+*/poll_results.xlsx
+hvv_Rohdaten/*

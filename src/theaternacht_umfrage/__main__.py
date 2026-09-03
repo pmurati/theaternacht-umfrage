@@ -37,7 +37,36 @@ def main(argv: list[str] | None = None) -> int:
         "program booklet (PDF) via a pydantic_ai agent. Writes a separate file for "
         "manual review and does NOT overwrite programm.json.",
     )
+    parser.add_argument(
+        "--poll",
+        action="store_true",
+        help="Build docs/data/poll_results.json from 'poll results/poll_results.xlsx' "
+        "(sheet 'Antworten') joined against programm_manual.json.",
+    )
+    parser.add_argument(
+        "--transit",
+        action="store_true",
+        help="Build docs/data/transit_matrix.json: a theatre-to-theatre public "
+        "transport travel matrix for the night of 2026-09-05 from the hvv GTFS "
+        "feed in hvv_Rohdaten/.",
+    )
     args = parser.parse_args(argv)
+
+    if args.poll:
+        from .poll import build_poll
+
+        payload = build_poll()
+        print(
+            f"Wrote docs/data/poll_results.json: {len(payload['entries'])} entries, "
+            f"{len(payload['voters'])} voters ({', '.join(payload['voters'])})."
+        )
+        return 0
+
+    if args.transit:
+        from .transit import build_transit
+
+        build_transit()
+        return 0
 
     if args.agent_pdf:
         from .agent_pdf import build_from_pdf
