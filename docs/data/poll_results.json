@@ -1,9 +1,8 @@
 {
-  "generated_at": "2026-09-03T12:13:32+00:00",
+  "generated_at": "2026-09-03T14:00:18+00:00",
   "source": "poll results/poll_results.xlsx",
   "voters": [
     "Alissa",
-    "Lorenz",
     "Luise",
     "Philip",
     "Poli"
@@ -280,12 +279,6 @@
           "times": [
             "20:30"
           ]
-        },
-        {
-          "voter": "Lorenz",
-          "times": [
-            "20:30"
-          ]
         }
       ]
     },
@@ -456,30 +449,6 @@
             "19:30",
             "21:30",
             "23:30"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "der-tatortreiniger-ii-1",
-      "showId": "der-tatortreiniger-ii-1",
-      "theaterId": "hamburger-kammerspiele",
-      "theaterName": "Hamburger Kammerspiele",
-      "address": "Hartungstraße 9-11, 20146 Hamburg",
-      "lat": 53.5700093,
-      "lng": 9.985362799999962,
-      "showTitle": "Der Tatortreiniger II",
-      "venue": "",
-      "times": [
-        "19:00",
-        "22:00"
-      ],
-      "votes": [
-        {
-          "voter": "Lorenz",
-          "times": [
-            "19:00",
-            "22:00"
           ]
         }
       ]
@@ -815,16 +784,6 @@
           ]
         },
         {
-          "voter": "Lorenz",
-          "times": [
-            "18:30",
-            "19:30",
-            "20:30",
-            "21:30",
-            "22:30"
-          ]
-        },
-        {
           "voter": "Luise",
           "times": [
             "18:30",
@@ -832,28 +791,6 @@
             "20:30",
             "21:30",
             "22:30"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "thalia-gaußstraße-5",
-      "showId": "thalia-gaußstraße-5",
-      "theaterId": "thalia-gaustrae",
-      "theaterName": "Thalia Gaußstraße",
-      "address": "Gaußstraße 190, 22765 Hamburg",
-      "lat": 53.55917050000001,
-      "lng": 9.9250763,
-      "showTitle": "THE PIANO HAS BEEN DRINKING – NOT ME!!!",
-      "venue": "Studiobühne",
-      "times": [
-        "21:10"
-      ],
-      "votes": [
-        {
-          "voter": "Lorenz",
-          "times": [
-            "21:10"
           ]
         }
       ]
@@ -952,16 +889,6 @@
         "23:30"
       ],
       "votes": [
-        {
-          "voter": "Lorenz",
-          "times": [
-            "19:30",
-            "20:30",
-            "21:30",
-            "22:30",
-            "23:30"
-          ]
-        },
         {
           "voter": "Philip",
           "times": [
