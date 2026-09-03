@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>Lange Nacht der Theater – Routenplaner</title>
+
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+      crossorigin=""
+    />
+    <link rel="stylesheet" href="route.css" />
+  </head>
+  <body>
+    <!-- Karte -->
+    <div id="map"></div>
+
+    <!-- Kopfzeile -->
+    <header id="topbar" class="topbar">
+      <span class="topbar-title">Routenplaner · Lange Nacht der Theater</span>
+      <span id="topbar-info" class="topbar-info"></span>
+    </header>
+
+    <!-- Umschalter für die Ergebnis-Liste -->
+    <button id="list-toggle" class="list-toggle" type="button" aria-controls="listpanel"
+            aria-expanded="false">
+      <span class="list-toggle-icon">☰</span>
+      <span>Umfrage-Ergebnisse</span>
+      <span id="list-toggle-count" class="list-toggle-count">0</span>
+    </button>
+
+    <!-- Ergebnis-Liste (ein-/ausblendbares Widget) -->
+    <aside id="listpanel" class="listpanel" hidden aria-hidden="true">
+      <div class="listpanel-head">
+        <h2>Umfrage-Ergebnisse</h2>
+        <button id="listpanel-close" class="icon-btn" aria-label="Schließen">×</button>
+      </div>
+      <div class="listpanel-tools">
+        <input id="list-search" type="search" placeholder="Suchen (Theater, Stück, Person)…"
+               autocomplete="off" aria-label="Ergebnisse durchsuchen" />
+        <div class="list-filter" id="voter-filter"></div>
+      </div>
+      <div class="listpanel-actions">
+        <button id="select-all" type="button" class="btn-ghost">Alle</button>
+        <button id="select-none" type="button" class="btn-ghost">Keine</button>
+        <span id="list-selcount" class="list-selcount">0 ausgewählt</span>
+      </div>
+      <div id="list-items" class="list-items"></div>
+    </aside>
+
+    <!-- Aktionsleiste unten -->
+    <div id="actionbar" class="actionbar">
+      <button id="compute-btn" class="btn-primary" type="button" disabled>
+        Route berechnen
+      </button>
+      <button id="schedule-toggle" class="btn-secondary" type="button" hidden>
+        Fahrplan
+      </button>
+      <button id="clear-route-btn" class="btn-ghost" type="button" hidden>
+        Zurücksetzen
+      </button>
+    </div>
+
+    <!-- Fahrplan / Routenübersicht -->
+    <aside id="schedule" class="schedule" hidden aria-hidden="true">
+      <div class="schedule-head">
+        <h2>Dein Abend</h2>
+        <div class="schedule-head-actions">
+          <button id="copy-btn" class="btn-ghost" type="button">Kopieren</button>
+          <button id="schedule-close" class="icon-btn" aria-label="Schließen">×</button>
+        </div>
+      </div>
+      <p id="schedule-summary" class="schedule-summary"></p>
+      <div id="schedule-body" class="schedule-body"></div>
+    </aside>
+
+    <!-- Bestätigung / Hinweis -->
+    <div id="toast" class="toast" hidden></div>
+
+    <script
+      src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+      crossorigin=""
+    ></script>
+    <script src="route.js"></script>
+  </body>
+</html>

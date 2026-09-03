@@ -1,0 +1,840 @@
+{
+  "generated_at": "2026-09-03T10:09:55+00:00",
+  "source": "poll results/poll_results.xlsx",
+  "voters": [
+    "Alissa",
+    "Lorenz",
+    "Luise"
+  ],
+  "entries": [
+    {
+      "id": "22-bahnen-24",
+      "showId": "22-bahnen-24",
+      "theaterId": "altonaer-theater",
+      "theaterName": "Altonaer Theater",
+      "address": "Museumstraße 17, 22765 Hamburg",
+      "lat": 53.54839,
+      "lng": 9.93461000000002,
+      "showTitle": "22 Bahnen",
+      "venue": "",
+      "times": [
+        "20:00"
+      ],
+      "votes": [
+        {
+          "voter": "Luise",
+          "times": [
+            "20:00"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "achtsam-morden-5",
+      "showId": "achtsam-morden-5",
+      "theaterId": "altonaer-theater",
+      "theaterName": "Altonaer Theater",
+      "address": "Museumstraße 17, 22765 Hamburg",
+      "lat": 53.54839,
+      "lng": 9.93461000000002,
+      "showTitle": "Achtsam morden",
+      "venue": "",
+      "times": [
+        "19:30"
+      ],
+      "votes": [
+        {
+          "voter": "Alissa",
+          "times": [
+            "19:30"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ronja-raeubertochter-14",
+      "showId": "ronja-raeubertochter-14",
+      "theaterId": "altonaer-theater",
+      "theaterName": "Altonaer Theater",
+      "address": "Museumstraße 17, 22765 Hamburg",
+      "lat": 53.54839,
+      "lng": 9.93461000000002,
+      "showTitle": "Ronja Räubertochter",
+      "venue": "",
+      "times": [
+        "18:00",
+        "18:30"
+      ],
+      "votes": [
+        {
+          "voter": "Alissa",
+          "times": [
+            "18:00",
+            "18:30"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sturmhoehe-3",
+      "showId": "sturmhoehe-3",
+      "theaterId": "altonaer-theater",
+      "theaterName": "Altonaer Theater",
+      "address": "Museumstraße 17, 22765 Hamburg",
+      "lat": 53.54839,
+      "lng": 9.93461000000002,
+      "showTitle": "Sturmhöhe",
+      "venue": "",
+      "times": [
+        "19:00",
+        "21:30"
+      ],
+      "votes": [
+        {
+          "voter": "Alissa",
+          "times": [
+            "19:00",
+            "21:30"
+          ]
+        },
+        {
+          "voter": "Luise",
+          "times": [
+            "19:00",
+            "21:30"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "compagnie-ballett-5",
+      "showId": "compagnie-ballett-5",
+      "theaterId": "ballettzentrum-hamburg-john-neumeier",
+      "theaterName": "Ballettzentrum Hamburg – John Neumeier",
+      "address": "Caspar-Voght-Straße 54, 20535 Hamburg",
+      "lat": 53.56174936678713,
+      "lng": 10.061244435599987,
+      "showTitle": "Einblick in die Arbeit des Bundesjugendballett John Neumeier",
+      "venue": "",
+      "times": [
+        "21:00"
+      ],
+      "votes": [
+        {
+          "voter": "Alissa",
+          "times": [
+            "21:00"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hausfuehrungen",
+      "showId": "hausfuehrungen",
+      "theaterId": "deutschesschauspielhaus",
+      "theaterName": "Deutsches SchauSpielHaus",
+      "address": "Kirchenallee 39, 20099 Hamburg",
+      "lat": 53.5543,
+      "lng": 10.0085,
+      "showTitle": "Hausführungen",
+      "venue": "Treffpunkt",
+      "times": [
+        "19:30",
+        "20:30",
+        "21:30"
+      ],
+      "votes": [
+        {
+          "voter": "Alissa",
+          "times": [
+            "19:30",
+            "20:30",
+            "21:30"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "requisiten-show-1",
+      "showId": "requisiten-show-1",
+      "theaterId": "deutschesschauspielhaus",
+      "theaterName": "Deutsches SchauSpielHaus",
+      "address": "Kirchenallee 39, 20099 Hamburg",
+      "lat": 53.5543,
+      "lng": 10.0085,
+      "showTitle": "Requisiten-Show",
+      "venue": "Malersaal",
+      "times": [
+        "19:30",
+        "20:30",
+        "21:30"
+      ],
+      "votes": [
+        {
+          "voter": "Luise",
+          "times": [
+            "19:30",
+            "20:30",
+            "21:30"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "scenes-from-a-perfect-sky",
+      "showId": "scenes-from-a-perfect-sky",
+      "theaterId": "deutschesschauspielhaus",
+      "theaterName": "Deutsches SchauSpielHaus",
+      "address": "Kirchenallee 39, 20099 Hamburg",
+      "lat": 53.5543,
+      "lng": 10.0085,
+      "showTitle": "Scenes from A Perfect Sky",
+      "venue": "",
+      "times": [
+        "19:00",
+        "20:00",
+        "21:00"
+      ],
+      "votes": [
+        {
+          "voter": "Luise",
+          "times": [
+            "19:00",
+            "20:00",
+            "21:00"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "staatsoper-4",
+      "showId": "staatsoper-4",
+      "theaterId": "hamburgische-staatsoper",
+      "theaterName": "Die Hamburgische Staatsoper",
+      "address": "Dammtorstraße 28, 20354 Hamburg",
+      "lat": 53.55685013866436,
+      "lng": 9.988495669687786,
+      "showTitle": "Kammermusik, Philharmonisches Staatsorchester Hamburg",
+      "venue": "Hauptbühne",
+      "times": [
+        "19:00"
+      ],
+      "votes": [
+        {
+          "voter": "Alissa",
+          "times": [
+            "19:00"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "staatsoper-5",
+      "showId": "staatsoper-5",
+      "theaterId": "hamburgische-staatsoper",
+      "theaterName": "Die Hamburgische Staatsoper",
+      "address": "Dammtorstraße 28, 20354 Hamburg",
+      "lat": 53.55685013866436,
+      "lng": 9.988495669687786,
+      "showTitle": "Offene Probe der Oper Macbeth von Giuseppe Verdi",
+      "venue": "Hauptbühne",
+      "times": [
+        "20:30"
+      ],
+      "votes": [
+        {
+          "voter": "Alissa",
+          "times": [
+            "20:30"
+          ]
+        },
+        {
+          "voter": "Lorenz",
+          "times": [
+            "20:30"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ernst-deutsch-theater-6",
+      "showId": "ernst-deutsch-theater-6",
+      "theaterId": "ernst-deutsch-theater",
+      "theaterName": "Ernst Deutsch Theater",
+      "address": "Friedrich-Schütter-Platz 1, 22087 Hamburg",
+      "lat": 53.56938,
+      "lng": 10.02641,
+      "showTitle": "Das Bundesjugendballett begeistert mit einem Ausschnitt aus seinem vielfältigen Repertoire.",
+      "venue": "LABOR",
+      "times": [
+        "19:30"
+      ],
+      "votes": [
+        {
+          "voter": "Alissa",
+          "times": [
+            "19:30"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ernst-deutsch-theater-4",
+      "showId": "ernst-deutsch-theater-4",
+      "theaterId": "ernst-deutsch-theater",
+      "theaterName": "Ernst Deutsch Theater",
+      "address": "Friedrich-Schütter-Platz 1, 22087 Hamburg",
+      "lat": 53.56938,
+      "lng": 10.02641,
+      "showTitle": "Don Quijote",
+      "venue": "LABOR",
+      "times": [
+        "19:00",
+        "20:00"
+      ],
+      "votes": [
+        {
+          "voter": "Alissa",
+          "times": [
+            "19:00",
+            "20:00"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ernst-deutsch-theater-5",
+      "showId": "ernst-deutsch-theater-5",
+      "theaterId": "ernst-deutsch-theater",
+      "theaterName": "Ernst Deutsch Theater",
+      "address": "Friedrich-Schütter-Platz 1, 22087 Hamburg",
+      "lat": 53.56938,
+      "lng": 10.02641,
+      "showTitle": "Ein Käffchen mit Clockwork Orange",
+      "venue": "Hauptbühne",
+      "times": [
+        "19:30"
+      ],
+      "votes": [
+        {
+          "voter": "Alissa",
+          "times": [
+            "19:30"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hafenbuhne-6",
+      "showId": "hafenbuhne-6",
+      "theaterId": "hafenbuhne",
+      "theaterName": "Hafenbühne im PIERDREI Hotel",
+      "address": "Am Sandtorkai 46, 20457 Hamburg",
+      "lat": 53.5433049,
+      "lng": 9.9960562,
+      "showTitle": "Werwölfe von Hamburg",
+      "venue": "",
+      "times": [
+        "22:30"
+      ],
+      "votes": [
+        {
+          "voter": "Alissa",
+          "times": [
+            "22:30"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "auf-wunder-ist-verlass",
+      "showId": "auf-wunder-ist-verlass",
+      "theaterId": "hamburger-kammerspiele",
+      "theaterName": "Hamburger Kammerspiele",
+      "address": "Hartungstraße 9-11, 20146 Hamburg",
+      "lat": 53.5700093,
+      "lng": 9.985362799999962,
+      "showTitle": "Auf Wunder ist Verlass",
+      "venue": "",
+      "times": [
+        "19:30",
+        "21:30",
+        "23:30"
+      ],
+      "votes": [
+        {
+          "voter": "Alissa",
+          "times": [
+            "19:30",
+            "21:30",
+            "23:30"
+          ]
+        },
+        {
+          "voter": "Luise",
+          "times": [
+            "19:30",
+            "21:30",
+            "23:30"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "der-tatortreiniger-ii-1",
+      "showId": "der-tatortreiniger-ii-1",
+      "theaterId": "hamburger-kammerspiele",
+      "theaterName": "Hamburger Kammerspiele",
+      "address": "Hartungstraße 9-11, 20146 Hamburg",
+      "lat": 53.5700093,
+      "lng": 9.985362799999962,
+      "showTitle": "Der Tatortreiniger II",
+      "venue": "",
+      "times": [
+        "19:00",
+        "22:00"
+      ],
+      "votes": [
+        {
+          "voter": "Lorenz",
+          "times": [
+            "19:00",
+            "22:00"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "theaternacht-die-insurgentinnen",
+      "showId": "theaternacht-die-insurgentinnen",
+      "theaterId": "hamburger-sprechwerk",
+      "theaterName": "Hamburger Sprechwerk",
+      "address": "Klaus-Groth-Straße 23, 20535 Hamburg",
+      "lat": 53.5559427,
+      "lng": 10.029761099999973,
+      "showTitle": "Theaternacht // Die Insurgentinnen",
+      "venue": "",
+      "times": [
+        "19:00",
+        "19:30",
+        "20:00"
+      ],
+      "votes": [
+        {
+          "voter": "Alissa",
+          "times": [
+            "19:00",
+            "19:30",
+            "20:00"
+          ]
+        },
+        {
+          "voter": "Luise",
+          "times": [
+            "19:00",
+            "19:30",
+            "20:00"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "diener-zweier-herren-5",
+      "showId": "diener-zweier-herren-5",
+      "theaterId": "kellertheater",
+      "theaterName": "Kellertheater",
+      "address": "Johannes Brahms Platz 1, 20355 Hamburg",
+      "lat": 53.5546657,
+      "lng": 9.978934999999979,
+      "showTitle": "Diesseits (Ausschnitte zur Theaternacht)",
+      "venue": "",
+      "times": [
+        "20:30",
+        "21:00"
+      ],
+      "votes": [
+        {
+          "voter": "Luise",
+          "times": [
+            "20:30",
+            "21:00"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "markk-2",
+      "showId": "markk-2",
+      "theaterId": "markk",
+      "theaterName": "MARKK – Museum am Rothenbaum",
+      "address": "Rothenbaumchaussee 64, 20148 Hamburg",
+      "lat": 53.568636999554094,
+      "lng": 9.98887864885876,
+      "showTitle": "Führung Katzen!",
+      "venue": "Foyer",
+      "times": [
+        "19:30"
+      ],
+      "votes": [
+        {
+          "voter": "Alissa",
+          "times": [
+            "19:30"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "markk-4",
+      "showId": "markk-4",
+      "theaterId": "markk",
+      "theaterName": "MARKK – Museum am Rothenbaum",
+      "address": "Rothenbaumchaussee 64, 20148 Hamburg",
+      "lat": 53.568636999554094,
+      "lng": 9.98887864885876,
+      "showTitle": "Menschen sind doof, aber ist okay, weil Katzen",
+      "venue": "Im Zwischenraum und der Katzenausstellung",
+      "times": [
+        "20:00"
+      ],
+      "votes": [
+        {
+          "voter": "Alissa",
+          "times": [
+            "20:00"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fucking-beautiful",
+      "showId": "fucking-beautiful",
+      "theaterId": "monsun-theater",
+      "theaterName": "monsun theater",
+      "address": "Billrothstraße 79, 22767 Hamburg",
+      "lat": 53.55368,
+      "lng": 9.94714,
+      "showTitle": "fucking beautiful",
+      "venue": "",
+      "times": [
+        "19:00"
+      ],
+      "votes": [
+        {
+          "voter": "Alissa",
+          "times": [
+            "19:00"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hard-land",
+      "showId": "hard-land",
+      "theaterId": "monsun-theater",
+      "theaterName": "monsun theater",
+      "address": "Billrothstraße 79, 22767 Hamburg",
+      "lat": 53.55368,
+      "lng": 9.94714,
+      "showTitle": "Hard Land",
+      "venue": "",
+      "times": [
+        "19:30"
+      ],
+      "votes": [
+        {
+          "voter": "Luise",
+          "times": [
+            "19:30"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wir-doch-nicht",
+      "showId": "wir-doch-nicht",
+      "theaterId": "monsun-theater",
+      "theaterName": "monsun theater",
+      "address": "Billrothstraße 79, 22767 Hamburg",
+      "lat": 53.55368,
+      "lng": 9.94714,
+      "showTitle": "Wir doch nicht",
+      "venue": "",
+      "times": [
+        "20:30"
+      ],
+      "votes": [
+        {
+          "voter": "Alissa",
+          "times": [
+            "20:30"
+          ]
+        },
+        {
+          "voter": "Luise",
+          "times": [
+            "20:30"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "die-herausforderung-des-ungebrochenen-3",
+      "showId": "die-herausforderung-des-ungebrochenen-3",
+      "theaterId": "mut-theater",
+      "theaterName": "MUT! Theater",
+      "address": "Amandastraße 58, 20357 Hamburg",
+      "lat": 53.56553,
+      "lng": 9.96162,
+      "showTitle": "Die Herausforderung des Ungebrochenen",
+      "venue": "",
+      "times": [
+        "19:00",
+        "20:00",
+        "21:00",
+        "22:00",
+        "23:00"
+      ],
+      "votes": [
+        {
+          "voter": "Alissa",
+          "times": [
+            "19:00",
+            "20:00",
+            "21:00",
+            "22:00",
+            "23:00"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "theaternacht-2025-opern-slam-im-opernloft",
+      "showId": "theaternacht-2025-opern-slam-im-opernloft",
+      "theaterId": "opernloft",
+      "theaterName": "OPERNLOFT",
+      "address": "Van-der-Smissen-Straße 4, 22767 Hamburg",
+      "lat": 53.5434,
+      "lng": 9.9411,
+      "showTitle": "Theaternacht 2026 - Opern-Slam im Opernloft",
+      "venue": "",
+      "times": [
+        "18:30",
+        "19:30",
+        "20:30",
+        "21:30",
+        "22:30"
+      ],
+      "votes": [
+        {
+          "voter": "Alissa",
+          "times": [
+            "18:30",
+            "19:30",
+            "20:30",
+            "21:30",
+            "22:30"
+          ]
+        },
+        {
+          "voter": "Lorenz",
+          "times": [
+            "18:30",
+            "19:30",
+            "20:30",
+            "21:30",
+            "22:30"
+          ]
+        },
+        {
+          "voter": "Luise",
+          "times": [
+            "18:30",
+            "19:30",
+            "20:30",
+            "21:30",
+            "22:30"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "thalia-gaußstraße-5",
+      "showId": "thalia-gaußstraße-5",
+      "theaterId": "thalia-gaustrae",
+      "theaterName": "Thalia Gaußstraße",
+      "address": "Gaußstraße 190, 22765 Hamburg",
+      "lat": 53.55917050000001,
+      "lng": 9.9250763,
+      "showTitle": "THE PIANO HAS BEEN DRINKING – NOT ME!!!",
+      "venue": "Studiobühne",
+      "times": [
+        "21:10"
+      ],
+      "votes": [
+        {
+          "voter": "Lorenz",
+          "times": [
+            "21:10"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "thalia-theater-4",
+      "showId": "thalia-theater-4",
+      "theaterId": "thalia-theater",
+      "theaterName": "Thalia Theater",
+      "address": "Alstertor 1, 20095 Hamburg",
+      "lat": 53.55182,
+      "lng": 9.99819,
+      "showTitle": "Die beliebten Backstage-Führungen (circa 40 Minuten)",
+      "venue": "Haupthaus",
+      "times": [
+        "19:30"
+      ],
+      "votes": [
+        {
+          "voter": "Alissa",
+          "times": [
+            "19:30"
+          ]
+        },
+        {
+          "voter": "Luise",
+          "times": [
+            "19:30"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "thalia-theater-2",
+      "showId": "thalia-theater-2",
+      "theaterId": "thalia-theater",
+      "theaterName": "Thalia Theater",
+      "address": "Alstertor 1, 20095 Hamburg",
+      "lat": 53.55182,
+      "lng": 9.99819,
+      "showTitle": "Die Kleine Meerjungfrau",
+      "venue": "Große Bühne",
+      "times": [
+        "19:15",
+        "20:00"
+      ],
+      "votes": [
+        {
+          "voter": "Alissa",
+          "times": [
+            "19:15",
+            "20:00"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "thalia-theater-7",
+      "showId": "thalia-theater-7",
+      "theaterId": "thalia-theater",
+      "theaterName": "Thalia Theater",
+      "address": "Alstertor 1, 20095 Hamburg",
+      "lat": 53.55182,
+      "lng": 9.99819,
+      "showTitle": "The Boys Are Kissing von Zak Zarafshan",
+      "venue": "Große Bühne",
+      "times": [
+        "21:15",
+        "21:50"
+      ],
+      "votes": [
+        {
+          "voter": "Luise",
+          "times": [
+            "21:15",
+            "21:50"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "the-picture-of-dorian-gray-by-oscar-wilde",
+      "showId": "the-picture-of-dorian-gray-by-oscar-wilde",
+      "theaterId": "the-english-theatre",
+      "theaterName": "The English Theatre of Hamburg",
+      "address": "Lerchenfeld 14, 22081 Hamburg",
+      "lat": 53.5695439,
+      "lng": 10.028873400000066,
+      "showTitle": "The Picture of Dorian Gray by Oscar Wilde",
+      "venue": "",
+      "times": [
+        "19:30",
+        "20:30",
+        "21:30",
+        "22:30",
+        "23:30"
+      ],
+      "votes": [
+        {
+          "voter": "Lorenz",
+          "times": [
+            "19:30",
+            "20:30",
+            "21:30",
+            "22:30",
+            "23:30"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ausblick-auf-die-spielzeit-202627-1",
+      "showId": "ausblick-auf-die-spielzeit-202627-1",
+      "theaterId": "theater-an-der-marschnerstrae",
+      "theaterName": "Theater an der Marschnerstraße",
+      "address": "Marschnerstraße 46, 22081 Hamburg",
+      "lat": 53.57374,
+      "lng": 10.04005,
+      "showTitle": "Ausblick auf die Spielzeit 2026/27",
+      "venue": "",
+      "times": [
+        "19:00",
+        "20:00",
+        "21:00",
+        "22:00"
+      ],
+      "votes": [
+        {
+          "voter": "Luise",
+          "times": [
+            "19:00",
+            "20:00",
+            "21:00",
+            "22:00"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "theaternacht-hamburg-19",
+      "showId": "theaternacht-hamburg-19",
+      "theaterId": "theaterdeck-hamburg",
+      "theaterName": "Theaterdeck Hamburg",
+      "address": "Maurienstraße 19, 22305 Hamburg",
+      "lat": 53.5859,
+      "lng": 10.045,
+      "showTitle": "Schimmelreiter - Eindrücke und Gespräch",
+      "venue": "",
+      "times": [
+        "19:15"
+      ],
+      "votes": [
+        {
+          "voter": "Alissa",
+          "times": [
+            "19:15"
+          ]
+        }
+      ]
+    }
+  ]
+}
