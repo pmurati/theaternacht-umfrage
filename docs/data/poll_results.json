@@ -1,10 +1,11 @@
 {
-  "generated_at": "2026-09-03T10:09:55+00:00",
+  "generated_at": "2026-09-03T11:00:15+00:00",
   "source": "poll results/poll_results.xlsx",
   "voters": [
     "Alissa",
-    "Lorenz",
-    "Luise"
+    "Luise",
+    "Philip",
+    "Poli"
   ],
   "entries": [
     {
@@ -52,6 +53,30 @@
       ]
     },
     {
+      "id": "der-club-der-toten-dichter-6",
+      "showId": "der-club-der-toten-dichter-6",
+      "theaterId": "altonaer-theater",
+      "theaterName": "Altonaer Theater",
+      "address": "Museumstraße 17, 22765 Hamburg",
+      "lat": 53.54839,
+      "lng": 9.93461000000002,
+      "showTitle": "Der Club der toten Dichter",
+      "venue": "",
+      "times": [
+        "21:00",
+        "22:00"
+      ],
+      "votes": [
+        {
+          "voter": "Philip",
+          "times": [
+            "21:00",
+            "22:00"
+          ]
+        }
+      ]
+    },
+    {
       "id": "ronja-raeubertochter-14",
       "showId": "ronja-raeubertochter-14",
       "theaterId": "altonaer-theater",
@@ -68,6 +93,13 @@
       "votes": [
         {
           "voter": "Alissa",
+          "times": [
+            "18:00",
+            "18:30"
+          ]
+        },
+        {
+          "voter": "Philip",
           "times": [
             "18:00",
             "18:30"
@@ -247,12 +279,6 @@
           "times": [
             "20:30"
           ]
-        },
-        {
-          "voter": "Lorenz",
-          "times": [
-            "20:30"
-          ]
         }
       ]
     },
@@ -299,6 +325,13 @@
             "19:00",
             "20:00"
           ]
+        },
+        {
+          "voter": "Philip",
+          "times": [
+            "19:00",
+            "20:00"
+          ]
         }
       ]
     },
@@ -320,6 +353,36 @@
           "voter": "Alissa",
           "times": [
             "19:30"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "theaternacht-hamburg-18",
+      "showId": "theaternacht-hamburg-18",
+      "theaterId": "first-stage-theater-hamburg",
+      "theaterName": "First Stage Theater Hamburg",
+      "address": "Thedestraße 15, 22767 Hamburg",
+      "lat": 53.5524,
+      "lng": 9.9486,
+      "showTitle": "Dear Evan Hansen",
+      "venue": "",
+      "times": [
+        "17:30",
+        "18:30",
+        "19:30",
+        "20:45",
+        "21:45"
+      ],
+      "votes": [
+        {
+          "voter": "Poli",
+          "times": [
+            "17:30",
+            "18:30",
+            "19:30",
+            "20:45",
+            "21:45"
           ]
         }
       ]
@@ -381,30 +444,6 @@
       ]
     },
     {
-      "id": "der-tatortreiniger-ii-1",
-      "showId": "der-tatortreiniger-ii-1",
-      "theaterId": "hamburger-kammerspiele",
-      "theaterName": "Hamburger Kammerspiele",
-      "address": "Hartungstraße 9-11, 20146 Hamburg",
-      "lat": 53.5700093,
-      "lng": 9.985362799999962,
-      "showTitle": "Der Tatortreiniger II",
-      "venue": "",
-      "times": [
-        "19:00",
-        "22:00"
-      ],
-      "votes": [
-        {
-          "voter": "Lorenz",
-          "times": [
-            "19:00",
-            "22:00"
-          ]
-        }
-      ]
-    },
-    {
       "id": "theaternacht-die-insurgentinnen",
       "showId": "theaternacht-die-insurgentinnen",
       "theaterId": "hamburger-sprechwerk",
@@ -439,6 +478,56 @@
       ]
     },
     {
+      "id": "kampnagel-2",
+      "showId": "kampnagel-2",
+      "theaterId": "kampnagel",
+      "theaterName": "Kampnagel",
+      "address": "Jarrestraße 20, 22303 Hamburg",
+      "lat": 53.5837,
+      "lng": 10.0223,
+      "showTitle": "Aber vielleicht heute noch nicht von Hajusom /  Newsom Kollektiv",
+      "venue": "Raum 1",
+      "times": [
+        "19:15",
+        "20:45",
+        "22:15"
+      ],
+      "votes": [
+        {
+          "voter": "Poli",
+          "times": [
+            "19:15",
+            "20:45",
+            "22:15"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "diener-zweier-herren--theaternacht",
+      "showId": "diener-zweier-herren--theaternacht",
+      "theaterId": "kellertheater",
+      "theaterName": "Kellertheater",
+      "address": "Johannes Brahms Platz 1, 20355 Hamburg",
+      "lat": 53.5546657,
+      "lng": 9.978934999999979,
+      "showTitle": "Diener zweier Herren (Ausschnitte zur Theaternacht)",
+      "venue": "",
+      "times": [
+        "19:00",
+        "19:30"
+      ],
+      "votes": [
+        {
+          "voter": "Philip",
+          "times": [
+            "19:00",
+            "19:30"
+          ]
+        }
+      ]
+    },
+    {
       "id": "diener-zweier-herren-5",
       "showId": "diener-zweier-herren-5",
       "theaterId": "kellertheater",
@@ -458,6 +547,32 @@
           "times": [
             "20:30",
             "21:00"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "theaternacht-hamburg-kandinsky-vs-klee",
+      "showId": "theaternacht-hamburg-kandinsky-vs-klee",
+      "theaterId": "lichthof-theater",
+      "theaterName": "LICHTHOF Theater",
+      "address": "Mendelssohnstraße 15, 22761 Hamburg",
+      "lat": 53.5631995,
+      "lng": 9.914273900000012,
+      "showTitle": "Theaternacht | Kandinsky vs. Klee",
+      "venue": "",
+      "times": [
+        "19:00",
+        "19:30",
+        "20:00"
+      ],
+      "votes": [
+        {
+          "voter": "Poli",
+          "times": [
+            "19:00",
+            "19:30",
+            "20:00"
           ]
         }
       ]
@@ -547,6 +662,12 @@
           "times": [
             "19:30"
           ]
+        },
+        {
+          "voter": "Philip",
+          "times": [
+            "19:30"
+          ]
         }
       ]
     },
@@ -575,6 +696,12 @@
           "times": [
             "20:30"
           ]
+        },
+        {
+          "voter": "Poli",
+          "times": [
+            "20:30"
+          ]
         }
       ]
     },
@@ -598,6 +725,16 @@
       "votes": [
         {
           "voter": "Alissa",
+          "times": [
+            "19:00",
+            "20:00",
+            "21:00",
+            "22:00",
+            "23:00"
+          ]
+        },
+        {
+          "voter": "Poli",
           "times": [
             "19:00",
             "20:00",
@@ -637,16 +774,6 @@
           ]
         },
         {
-          "voter": "Lorenz",
-          "times": [
-            "18:30",
-            "19:30",
-            "20:30",
-            "21:30",
-            "22:30"
-          ]
-        },
-        {
           "voter": "Luise",
           "times": [
             "18:30",
@@ -654,28 +781,6 @@
             "20:30",
             "21:30",
             "22:30"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "thalia-gaußstraße-5",
-      "showId": "thalia-gaußstraße-5",
-      "theaterId": "thalia-gaustrae",
-      "theaterName": "Thalia Gaußstraße",
-      "address": "Gaußstraße 190, 22765 Hamburg",
-      "lat": 53.55917050000001,
-      "lng": 9.9250763,
-      "showTitle": "THE PIANO HAS BEEN DRINKING – NOT ME!!!",
-      "venue": "Studiobühne",
-      "times": [
-        "21:10"
-      ],
-      "votes": [
-        {
-          "voter": "Lorenz",
-          "times": [
-            "21:10"
           ]
         }
       ]
@@ -775,13 +880,47 @@
       ],
       "votes": [
         {
-          "voter": "Lorenz",
+          "voter": "Philip",
           "times": [
             "19:30",
             "20:30",
             "21:30",
             "22:30",
             "23:30"
+          ]
+        },
+        {
+          "voter": "Poli",
+          "times": [
+            "19:30",
+            "20:30",
+            "21:30",
+            "22:30",
+            "23:30"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "heizkraftwerk-1",
+      "showId": "heizkraftwerk-1",
+      "theaterId": "heizkraftwerk",
+      "theaterName": "Theater altes Heizkraftwerk",
+      "address": "Isebekstraße 34, 22769 Hamburg ",
+      "lat": 53.56720877620249,
+      "lng": 9.937582791419228,
+      "showTitle": "Ausschnitt aus Ödön von Horváth: Der jüngste Tag",
+      "venue": "Große Bühne",
+      "times": [
+        "19:00",
+        "21:45"
+      ],
+      "votes": [
+        {
+          "voter": "Poli",
+          "times": [
+            "19:00",
+            "21:45"
           ]
         }
       ]
